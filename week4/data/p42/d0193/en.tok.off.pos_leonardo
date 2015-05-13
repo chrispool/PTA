@@ -1,14 +1,14 @@
-0 7 1001 British JJ 
-8 14 1002 police NN 
+0 7 1001 British JJ ORG
+8 14 1002 police NN ORG
 15 19 1003 have VBP 
 20 24 1004 been VBN 
 25 28 1005 out RP 
 29 31 1006 in IN 
 32 37 1007 force NN 
 38 40 1008 in IN 
-41 50 1009 Edinburgh NNP 
+41 50 1009 Edinburgh NNP CIT
 50 51 1010 , , 
-52 60 1011 Scotland NNP 
+52 60 1011 Scotland NNP COU
 60 61 1012 , , 
 62 68 1013 Monday NNP 
 68 69 1014 , , 
@@ -18,9 +18,9 @@
 95 100 1018 begun VBN 
 101 111 1019 protesting VBG 
 112 115 1020 the DT 
-116 123 1021 G-Eight JJ 
-124 134 1022 conference NN 
-135 137 1023 of IN 
+116 123 1021 G-Eight JJ ORG
+124 134 1022 conference NN
+135 137 1023 of IN
 138 152 1024 industrialized JJ 
 153 160 1025 nations NNS 
 161 165 1026 that WDT 
@@ -41,7 +41,7 @@
 249 259 2012 protesters NNS 
 260 268 2013 scuffled VBD 
 269 273 2014 with IN 
-274 280 2015 police NN 
+274 280 2015 police NN ORG
 280 281 2016 . . 
 283 288 3001 There EX 
 289 293 3002 were VBD 
@@ -65,11 +65,11 @@
 394 403 4012 including VBG 
 404 419 4013 representatives NNS 
 420 424 4014 from IN 
-425 438 4015 anti-military JJ 
+425 438 4015 anti-military JJ ORG
 438 439 4016 , , 
-440 452 4017 anti-nuclear JJ 
+440 452 4017 anti-nuclear JJ ORG
 452 453 4018 , , 
 454 457 4019 and CC 
-458 476 4020 anti-globalization NN 
-477 483 4021 groups NNS 
+458 476 4020 anti-globalization NN ORG
+477 483 4021 groups NNS ORG
 483 484 4022 . . 

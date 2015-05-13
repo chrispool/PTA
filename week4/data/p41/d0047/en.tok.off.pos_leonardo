@@ -1,5 +1,5 @@
-0 12 1001 Humanitarian JJ 
-13 21 1002 agencies NNS 
+0 12 1001 Humanitarian JJ ORG
+13 21 1002 agencies NNS ORG 
 22 28 1003 report NN 
 29 33 1004 more RBR 
 34 38 1005 than IN 
@@ -11,7 +11,7 @@
 66 68 1011 in IN 
 69 75 1012 floods NNS 
 76 78 1013 in IN 
-79 87 1014 Pakistan NNP 
+79 87 1014 Pakistan NNP COU
 88 95 1015 brought NN 
 96 98 1016 on IN 
 99 101 1017 by IN 
@@ -25,8 +25,8 @@
 146 151 1025 month NN 
 151 152 1026 . . 
 154 157 2001 The DT 
-158 161 2002 Red NNP 
-162 167 2003 Cross NNP 
+158 161 2002 Red NNP ORG
+162 167 2003 Cross NNP ORG
 168 172 2004 says VBZ 
 173 179 2005 50,000 CD 
 180 186 2006 people NNS 
@@ -42,14 +42,14 @@
 232 235 2016 the DT 
 236 244 2017 province NN 
 245 247 2018 of IN 
-248 259 2019 Baluchistan NNP 
+248 259 2019 Baluchistan NNP CIT
 259 260 2020 . . 
 262 265 3001 The DT 
-266 275 3002 Pakistani NNP 
-276 286 3003 government NN 
+266 275 3002 Pakistani NNP ORG
+276 286 3003 government NN ORG 
 287 290 3004 and CC 
-291 297 3005 relief NN 
-298 311 3006 organizations NNS 
+291 297 3005 relief NN ORG
+298 311 3006 organizations NNS ORG
 312 315 3007 are VBP 
 316 324 3008 pledging VBG 
 325 329 3009 food NN 
