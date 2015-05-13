@@ -1,5 +1,5 @@
-# p1_excercise1.py
-# Chris Pool
+# p2_excercise1.py
+# Leonardo Losno Velozo & Chris Pool
 import nltk
 from nltk.corpus import brown
 from nltk.tag import UnigramTagger
@@ -12,6 +12,9 @@ class OpdrachtTwee:
 		self.br_ts = brown.tagged_sents(categories='mystery')
 		
 	def outputPrinten(self):
+		print("1a Tagged version (Penn Treebank POS tagset): {}".format(self.manualTagPenn()))
+		print("1b Tagged version (Brown): {}".format(self.manualTagPenn()))
+		print("1c Tagged version (NLTK): {}".format(self.manualTagNltk()))
 		print("2a - There are {} words and {} sentences".format(len(self.br_tw), len(self.br_ts)) )
 		print("2b - Word 100 is: {} and word 101: {}".format(self.br_tw[100], self.br_tw[101]) )
 		print("2c - There are {} different tags".format(self.nTags()))
@@ -23,6 +26,24 @@ class OpdrachtTwee:
 		print("2j - 3 example sentences for 'so': \n - {}".format("\n - ".join(self.sentenceTags('so'))))
 		print("2k - POS preceeding 'so' {}, and following {} ".format(self.preceedingTag('so'),self.followingTag('so')))
 	
+	def manualTagPenn(self):
+		sentence = 'Marley was dead : to begin with . There is no doubt whatever about that .'
+		tokens = nltk.word_tokenize(sentence)	
+		taggedText = nltk.pos_tag(tokens)
+		return list(taggedText)
+
+	def manualTagBrown(self):
+		sentence = 'Marley was dead : to begin with . There is no doubt whatever about that .'
+		tokens = nltk.word_tokenize(sentence)
+		tagger = nltk.UnigramTagger(nltk.corpus.brown.tagged_sents(categories='news')[:500])
+		return tagger.tag(tokens)
+		
+	def manualTagNltk(self):
+		sentence = 'Marley was dead : to begin with . There is no doubt whatever about that .'
+		tokens = nltk.word_tokenize(sentence)
+		taggedText = [(word, nltk.map_tag('brown', 'universal', tag) ) for word, tag in self.manualTagBrown()]
+		return list(taggedText)
+
 	def nTags(self):
 		tags = set([tag for word, tag in self.br_tw])
 		return len(tags)

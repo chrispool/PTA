@@ -1,5 +1,5 @@
 # p1_excercise1.py
-# Leonardo Losno Velozo
+# Leonardo Losno Velozo & Chris Pool
 
 import nltk
 from nltk.collocations import *
