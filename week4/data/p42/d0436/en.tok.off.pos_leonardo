@@ -1,13 +1,13 @@
-0 7 1001 Iranian JJ 
-8 17 1002 President NNP 
-18 25 1003 Mahmoud NNP 
-26 37 1004 Ahmadinejad NNP 
+0 7 1001 Iranian JJ
+8 17 1002 President NNP
+18 25 1003 Mahmoud NNP PER http://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad
+26 37 1004 Ahmadinejad NNP PER http://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad
 38 40 1005 is VBZ 
 41 49 1006 reported VBN 
 50 52 1007 to TO 
 53 57 1008 have VB 
 58 64 1009 called VBN 
-65 71 1010 Israel NNP 
+65 71 1010 Israel NNP COU http://en.wikipedia.org/wiki/Israel
 72 75 1011 the DT 
 76 77 1012 " NNP 
 77 81 1013 flag NN 
@@ -17,9 +17,9 @@
 91 92 1017 " : 
 93 96 2001 The DT 
 97 106 2002 state-run JJ 
-107 111 2003 IRNA NNP 
-112 116 2004 news NN 
-117 123 2005 agency NN 
+107 111 2003 IRNA NNP ORG http://en.wikipedia.org/wiki/Islamic_Republic_News_Agency
+112 116 2004 news NN ORG http://en.wikipedia.org/wiki/Islamic_Republic_News_Agency
+117 123 2005 agency NN ORG http://en.wikipedia.org/wiki/Islamic_Republic_News_Agency
 124 128 2006 says VBZ 
 129 132 2007 the DT 
 133 140 2008 Iranian NNP 
@@ -58,8 +58,8 @@
 298 301 3024 and CC 
 302 313 3025 dissolution NN 
 313 314 3026 . . 
-315 318 4001 Mr. NNP 
-319 330 4002 Ahmadinejad NNP 
+315 318 4001 Mr. NNP PER http://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad
+319 330 4002 Ahmadinejad NNP PER http://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad
 331 338 4003 sparked VBD 
 339 352 4004 international JJ 
 353 360 4005 outrage NN 
@@ -68,7 +68,7 @@
 369 373 4008 when WRB 
 374 376 4009 he PRP 
 377 381 4010 said VBD 
-382 388 4011 Israel NNP 
+382 388 4011 Israel NNP COU http://en.wikipedia.org/wiki/Israel
 389 395 4012 should MD 
 396 398 4013 be VB 
 399 404 4014 wiped VBN 

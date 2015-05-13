@@ -1,10 +1,10 @@
 0 3 1001 The DT 
-4 10 1002 French JJ COU 
+4 10 1002 French JJ COU http://en.wikipedia.org/wiki/France
 11 18 1003 annexed VBN 
 19 26 1004 various JJ 
-27 37 1005 Polynesian NNP COU 
-38 44 1006 island NN NAT
-45 51 1007 groups NNS NAT
+27 37 1005 Polynesian NNP COU http://en.wikipedia.org/wiki/Polynesia 
+38 44 1006 island NN NAT http://en.wikipedia.org/wiki/Archipelago
+45 51 1007 groups NNS NAT http://en.wikipedia.org/wiki/Archipelago
 52 58 1008 during IN 
 59 62 1009 the DT 
 63 67 1010 19th JJ 
@@ -14,7 +14,7 @@
 80 89 2002 September NNP 
 90 94 2003 1995 CD 
 94 95 2004 , , 
-96 102 2005 France NNP COU
+96 102 2005 France NNP COU http://en.wikipedia.org/wiki/France
 103 110 2006 stirred VBD 
 111 113 2007 up RP 
 114 124 2008 widespread JJ 
@@ -25,8 +25,8 @@
 154 161 2013 testing NN 
 162 164 2014 on IN 
 165 168 2015 the DT 
-169 176 2016 Mururoa NNP COU
-177 182 2017 atoll NN NAT
+169 176 2016 Mururoa NNP NAT http://en.wikipedia.org/wiki/Moruroa
+177 182 2017 atoll NN NAT http://en.wikipedia.org/wiki/French_Polynesia
 183 188 2018 after IN 
 189 190 2019 a DT 
 191 201 2020 three-year JJ 
@@ -44,9 +44,9 @@
 259 265 4002 recent JJ 
 266 271 4003 years NNS 
 271 272 4004 , , 
-273 279 4005 French JJ COU
-280 289 4006 Polynesia NNP COU 
-289 291 4007 's POS COU
+273 279 4005 French JJ COU http://en.wikipedia.org/wiki/French_Polynesia
+280 289 4006 Polynesia NNP COU http://en.wikipedia.org/wiki/French_Polynesia
+289 291 4007 's POS COU http://en.wikipedia.org/wiki/French_Polynesia
 292 300 4008 autonomy NN 
 301 304 4009 has VBZ 
 305 309 4010 been VBN 

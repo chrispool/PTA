@@ -6,7 +6,7 @@
 26 30 1006 bomb NN 
 31 33 1007 in IN 
 34 41 1008 central JJ 
-42 49 1009 Baghdad NNP CIT 
+42 49 1009 Baghdad NNP CIT http://en.wikipedia.org/wiki/Baghdad
 50 53 1010 has VBZ 
 54 60 1011 killed VBN 
 61 63 1012 at IN 
@@ -45,8 +45,8 @@
 210 222 3003 developments NNS 
 222 223 3004 , , 
 224 227 3005 the DT 
-228 232 3006 U.S. NNP ORG
-233 241 3007 military JJ ORG
+228 232 3006 U.S. NNP ORG http://en.wikipedia.org/wiki/United_States_Armed_Forces
+233 241 3007 military JJ ORG http://en.wikipedia.org/wiki/United_States_Armed_Forces
 242 246 3008 says NNS 
 247 256 3009 coalition NN 
 257 263 3010 forces NNS 
@@ -60,16 +60,16 @@
 311 317 3018 during IN 
 318 328 3019 operations NNS 
 329 336 3020 against IN 
-337 345 3021 al-Qaida NNP ORG
+337 345 3021 al-Qaida NNP ORG http://en.wikipedia.org/wiki/Al-Qaeda
 346 348 3022 in IN 
-349 353 3023 Iraq NNP COU
+349 353 3023 Iraq NNP COU http://en.wikipedia.org/wiki/Iraq
 353 354 3024 . . 
 355 364 4001 Officials NNS 
 365 368 4002 say VBP 
 369 372 4003 the DT 
 373 377 4004 raid NN 
 378 380 4005 in IN 
-381 391 4006 Muqdadiyah NNP CIT
+381 391 4006 Muqdadiyah NNP CIT http://en.wikipedia.org/wiki/Muqdadiyah
 392 400 4007 targeted VBD 
 401 412 4008 individuals NNS 
 413 423 4009 associated VBN 
@@ -93,10 +93,10 @@
 535 544 5007 conducted VBD 
 545 555 5008 operations NNS 
 556 560 5009 near IN 
-561 567 5010 Salman NNP CIT
-568 571 5011 Pak NNP CIT
+561 567 5010 Salman NNP CIT http://en.wikipedia.org/wiki/Salman_Pak
+568 571 5011 Pak NNP CIT http://en.wikipedia.org/wiki/Salman_Pak
 571 572 5012 , , 
-573 580 5013 Samarra NNP CIT 
+573 580 5013 Samarra NNP CIT http://en.wikipedia.org/wiki/Samarra
 581 584 5014 and CC 
-585 592 5015 Baghdad NNP CIT
+585 592 5015 Baghdad NNP CIT http://en.wikipedia.org/wiki/Baghdad
 592 593 5016 . . 

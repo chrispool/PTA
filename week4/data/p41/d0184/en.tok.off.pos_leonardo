@@ -16,18 +16,18 @@
 97 98 1016 . . 
 99 102 2001 But CC 
 103 106 2002 the DT 
-107 112 2003 South NNP ORG
-113 118 2004 Asian NNP ORG
-119 126 2005 Student NNP ORG
-127 138 2006 Association NNP ORG 
+107 112 2003 South NNP ORG http://students.washington.edu/sasauw/
+113 118 2004 Asian NNP ORG http://students.washington.edu/sasauw/
+119 126 2005 Student NNP ORG http://students.washington.edu/sasauw/
+127 138 2006 Association NNP ORG http://students.washington.edu/sasauw/
 139 141 2007 at IN 
-142 150 2008 Carnegie NNP ORG
-151 157 2009 Mellon NNP ORG
-158 168 2010 University NNP ORG 
+142 150 2008 Carnegie NNP ORG http://en.wikipedia.org/wiki/Carnegie_Mellon_University
+151 157 2009 Mellon NNP ORG http://en.wikipedia.org/wiki/Carnegie_Mellon_University
+158 168 2010 University NNP ORG http://en.wikipedia.org/wiki/Carnegie_Mellon_University
 169 171 2011 in IN 
-172 182 2012 Pittsburgh NNP CIT
+172 182 2012 Pittsburgh NNP CIT http://en.wikipedia.org/wiki/Carnegie_Mellon_University
 182 183 2013 , , 
-184 196 2014 Pennsylvania NNP CIT
+184 196 2014 Pennsylvania NNP CIT http://en.wikipedia.org/wiki/Pennsylvania
 197 205 2015 recently RB 
 206 210 2016 took VBD 
 211 212 2017 a DT 
@@ -42,13 +42,13 @@
 270 272 2026 on IN 
 273 279 2027 campus NN 
 279 280 2028 . . 
-281 284 3001 VOA NNP ORG
-284 286 3002 's POS 
-287 291 3003 Ruth NNP PER
-292 298 3004 Reader NNP PER
+281 284 3001 VOA NNP ORG http://en.wikipedia.org/wiki/Voice_of_America
+284 286 3002 's POS ORG http://en.wikipedia.org/wiki/Voice_of_America
+287 291 3003 Ruth NNP PER https://www.linkedin.com/in/ruthreader
+292 298 3004 Reader NNP PER https://www.linkedin.com/in/ruthreader
 299 306 3005 reports VBZ 
 307 310 3006 for IN 
 311 319 3007 producer NN 
-320 325 3008 Imran NNP PER
-326 333 3009 Siddiqi NNP PER
+320 325 3008 Imran NNP PER https://www.linkedin.com/in/imransiddiqui
+326 333 3009 Siddiqi NNP PER https://www.linkedin.com/in/imransiddiqui
 333 334 3010 . . 

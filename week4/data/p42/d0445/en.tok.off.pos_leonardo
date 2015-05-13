@@ -14,7 +14,7 @@
 79 81 1014 in IN 
 82 89 1015 attacks NNS 
 90 92 1016 in IN 
-93 100 1017 Baghdad NNP 
+93 100 1017 Baghdad NNP CIT http://en.wikipedia.org/wiki/Baghdad
 100 101 1018 . . 
 103 114 2001 Authorities NNPS 
 115 118 2002 say VBP 
@@ -23,7 +23,7 @@
 126 134 2005 attached VBN 
 135 137 2006 to TO 
 138 139 2007 a DT 
-140 150 2008 government NN 
+140 150 2008 government NN ORG http://en.wikipedia.org/wiki/Government
 151 157 2009 worker NN 
 157 159 2010 's POS 
 160 163 2011 car NN 
@@ -48,8 +48,8 @@
 269 275 3004 gunmen NNS 
 276 282 3005 killed VBN 
 283 285 3006 an DT 
-286 291 3007 Iraqi NNP 
-292 296 3008 army NN 
+286 291 3007 Iraqi NNP
+292 296 3008 army NN
 297 304 3009 officer NN 
 305 308 3010 and CC 
 309 316 3011 injured VBD 
@@ -58,11 +58,11 @@
 324 328 3014 wife NN 
 329 331 3015 in IN 
 332 340 3016 northern JJ 
-341 348 3017 Baghdad NNP 
+341 348 3017 Baghdad NNP CIT http://en.wikipedia.org/wiki/Baghdad
 348 349 3018 . . 
 350 353 4001 The DT 
-354 364 4002 Associated NNP 
-365 370 4003 Press NNP 
+354 364 4002 Associated NNP ORG http://en.wikipedia.org/wiki/Associated_Press
+365 370 4003 Press NNP ORG http://en.wikipedia.org/wiki/Associated_Press
 371 375 4004 says VBZ 
 376 379 4005 the DT 
 380 387 4006 officer NN 
@@ -73,15 +73,15 @@
 411 418 4011 provide JJ 
 419 429 4012 protection NN 
 430 432 4013 to TO 
-433 438 4014 Iraqi NNP 
-439 449 4015 government NN 
+433 438 4014 Iraqi NNP
+439 449 4015 government NN
 450 459 4016 officials NNS 
 459 460 4017 . . 
 461 471 5001 Separately RB 
 471 472 5002 , , 
 473 482 5003 officials NNS 
 483 485 5004 in IN 
-486 493 5005 Baghdad NNP 
+486 493 5005 Baghdad NNP CIT http://en.wikipedia.org/wiki/Baghdad
 494 497 5006 say VBP 
 498 499 5007 a DT 
 500 506 5008 police NN 
@@ -91,7 +91,7 @@
 530 536 5012 killed VBN 
 537 542 5013 after IN 
 543 550 5014 Finance NNP 
-551 559 5015 Ministry NNP 
+551 559 5015 Ministry NNP
 560 568 5016 security NN 
 569 575 5017 guards NNS 
 576 582 5018 opened VBD 

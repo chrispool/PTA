@@ -1,6 +1,6 @@
-0 9 1001 Ukrainian JJ ORG
-10 19 1002 emergency NN ORG
-20 29 1003 officials NNS ORG
+0 9 1001 Ukrainian JJ ORG http://en.wikipedia.org/wiki/State_Emergency_Service_of_Ukraine
+10 19 1002 emergency NN ORG http://en.wikipedia.org/wiki/State_Emergency_Service_of_Ukraine
+20 29 1003 officials NNS ORG http://en.wikipedia.org/wiki/State_Emergency_Service_of_Ukraine
 30 33 1004 say VBP 
 34 38 1005 five CD 
 39 45 1006 people NNS 
@@ -17,7 +17,7 @@
 95 104 1017 passenger NN 
 105 110 1018 plane NN 
 111 115 1019 near IN 
-116 120 1020 Kyiv NNP CIT
+116 120 1020 Kyiv NNP CIT http://en.wikipedia.org/wiki/Kiev
 120 121 1021 . . 
 122 125 2001 The DT 
 126 136 2002 Beechcraft NNP 
@@ -29,8 +29,8 @@
 163 169 2008 Sunday NNP 
 170 174 2009 from IN 
 175 178 2010 the DT 
-179 184 2011 Czech JJ COU
-185 193 2012 Republic NNP COU 
+179 184 2011 Czech JJ COU http://en.wikipedia.org/wiki/Czech_Republic
+185 193 2012 Republic NNP COU http://en.wikipedia.org/wiki/Czech_Republic
 193 194 2013 . . 
 195 204 3001 Witnesses NNP 
 205 208 3002 say VBP 
@@ -41,7 +41,7 @@
 231 239 3007 exploded VBN 
 240 242 3008 in IN 
 243 244 3009 a DT 
-245 250 3010 field NN NAT
+245 250 3010 field NN NAT http://en.wikipedia.org/wiki/Field_%28agriculture%29
 251 255 3011 just RB 
 256 261 3012 short JJ 
 262 264 3013 of IN 
@@ -51,7 +51,7 @@
 279 287 3017 Zhulyany NNP
 288 295 3018 airport NN 
 296 300 3019 near IN 
-301 305 3020 Kyiv NNP CIT
+301 305 3020 Kyiv NNP CIT http://en.wikipedia.org/wiki/Kiev
 305 306 3021 . . 
 307 309 4001 No DT 
 310 313 4002 one NN 
