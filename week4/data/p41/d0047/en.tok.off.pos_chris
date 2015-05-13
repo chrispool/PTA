@@ -11,7 +11,7 @@
 66 68 1011 in IN 
 69 75 1012 floods NNS 
 76 78 1013 in IN 
-79 87 1014 Pakistan NNP 
+79 87 1014 Pakistan NNP COU http://en.wikipedia.org/wiki/pakistan
 88 95 1015 brought NN 
 96 98 1016 on IN 
 99 101 1017 by IN 
@@ -24,9 +24,9 @@
 141 145 1024 this DT 
 146 151 1025 month NN 
 151 152 1026 . . 
-154 157 2001 The DT 
-158 161 2002 Red NNP 
-162 167 2003 Cross NNP 
+154 157 2001 The DT ORG http://en.wikipedia.org/wiki/red_cross
+158 161 2002 Red NNP ORG http://en.wikipedia.org/wiki/red_cross
+162 167 2003 Cross NNP ORG http://en.wikipedia.org/wiki/red_cross
 168 172 2004 says VBZ 
 173 179 2005 50,000 CD 
 180 186 2006 people NNS 
@@ -40,13 +40,13 @@
 223 228 2014 areas NNS 
 229 231 2015 in IN 
 232 235 2016 the DT 
-236 244 2017 province NN 
-245 247 2018 of IN 
-248 259 2019 Baluchistan NNP 
+236 244 2017 province NN COU http://en.wikipedia.org/wiki/province_of_baluchistan
+245 247 2018 of IN COU http://en.wikipedia.org/wiki/province_of_baluchistan
+248 259 2019 Baluchistan NNP COU http://en.wikipedia.org/wiki/province_of_baluchistan
 259 260 2020 . . 
 262 265 3001 The DT 
-266 275 3002 Pakistani NNP 
-276 286 3003 government NN 
+266 275 3002 Pakistani NNP
+276 286 3003 government NN
 287 290 3004 and CC 
 291 297 3005 relief NN 
 298 311 3006 organizations NNS 
