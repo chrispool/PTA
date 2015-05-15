@@ -42,7 +42,7 @@
 270 272 2026 on IN 
 273 279 2027 campus NN 
 279 280 2028 . . 
-281 284 3001 VOA NNP http://en.wikipedia.org/wiki/Voice_of_America
+281 284 3001 VOA NNP ORG http://en.wikipedia.org/wiki/Voice_of_America
 284 286 3002 's POS 
 287 291 3003 Ruth NNP PER 
 292 298 3004 Reader NNP PER 

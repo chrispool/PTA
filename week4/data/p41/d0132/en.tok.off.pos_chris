@@ -68,7 +68,7 @@
 346 353 4007 Germany NNP COU http://en.wikipedia.org/wiki/Germany
 353 354 4008 , , 
 355 359 4009 Hear NNP 
-360 365 4010 Roman NNP http://en.wikipedia.org/wiki/Roman_Ferencevych
+360 365 4010 Roman NNP PER http://en.wikipedia.org/wiki/Roman_Ferencevych
 366 377 4011 Ferencevych NNP PER http://en.wikipedia.org/wiki/Roman_Ferencevych
 378 386 4012 describe NN 
 387 391 4013 life NN 
