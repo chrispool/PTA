@@ -14,8 +14,8 @@
 70 82 1014 foreclosures NNS 
 83 89 1015 across IN 
 90 93 1016 the DT 
-94 100 1017 United NNP COU
-101 107 1018 States NNPS COU
+94 100 1017 United NNP COU http://en.wikipedia.org/wiki/United_States
+101 107 1018 States NNPS COU http://en.wikipedia.org/wiki/United_States
 108 111 1019 are VBP 
 112 121 1020 occurring VBG 
 122 124 1021 at IN 
@@ -75,7 +75,7 @@
 428 433 3024 their PRP$ 
 434 439 3025 homes NNS 
 439 440 3026 . . 
-441 444 4001 VOA NNP ORG
+441 444 4001 VOA NNP ORG http://en.wikipedia.org/wiki/Voice_of_America
 444 446 4002 's POS 
 447 452 4003 Chris NNP PER
 453 460 4004 Simkins NNP PER

@@ -1,6 +1,6 @@
-0 3 1001 The DT COU
-4 11 1002 Spratly NNP COU
-12 19 1003 Islands NNPS COU
+0 3 1001 The DT COU http://en.wikipedia.org/wiki/Spratly_Islands
+4 11 1002 Spratly NNP COU http://en.wikipedia.org/wiki/Spratly_Islands
+12 19 1003 Islands NNPS COU http://en.wikipedia.org/wiki/Spratly_Islands
 20 27 1004 consist VBP 
 28 30 1005 of IN 
 31 35 1006 more JJR 
@@ -33,26 +33,26 @@
 174 179 3005 their PRP$ 
 180 188 3006 entirety NN 
 189 191 3007 by IN 
-192 197 3008 China NNP COU
+192 197 3008 China NNP COU http://en.wikipedia.org/wiki/China
 197 198 3009 , , 
-199 205 3010 Taiwan NNP COU
+199 205 3010 Taiwan NNP COU http://en.wikipedia.org/wiki/Taiwan
 205 206 3011 , , 
 207 210 3012 and CC 
-211 218 3013 Vietnam NNP COU
+211 218 3013 Vietnam NNP COU http://en.wikipedia.org/wiki/Vietnam
 218 219 3014 , , 
 220 225 3015 while IN 
 226 234 3016 portions NNS 
 235 238 3017 are VBP 
 239 246 3018 claimed VBN 
 247 249 3019 by IN 
-250 258 3020 Malaysia NNP COU
+250 258 3020 Malaysia NNP COU http://en.wikipedia.org/wiki/Malaysia
 259 262 3021 and CC 
 263 266 3022 the DT 
-267 278 3023 Philippines NNPS COU 
+267 278 3023 Philippines NNPS COU http://en.wikipedia.org/wiki/Philippines
 278 279 3024 . . 
 280 285 4001 About IN 
 286 288 4002 45 CD 
-289 296 4003 islands NNS NAT
+289 296 4003 islands NNS NAT http://en.wikipedia.org/wiki/Island 
 297 300 4004 are VBP 
 301 309 4005 occupied VBN 
 310 312 4006 by IN 
@@ -63,19 +63,19 @@
 341 349 4011 military JJ 
 350 356 4012 forces NNS 
 357 361 4013 from IN 
-362 367 4014 China NNP COU
+362 367 4014 China NNP COU http://en.wikipedia.org/wiki/China
 367 368 4015 , , 
-369 377 4016 Malaysia NNP COU
+369 377 4016 Malaysia NNP COU http://en.wikipedia.org/wiki/Malaysia
 377 378 4017 , , 
 379 382 4018 the DT 
-383 394 4019 Philippines NNPS COU 
+383 394 4019 Philippines NNPS COU http://en.wikipedia.org/wiki/Philippines
 394 395 4020 , , 
-396 402 4021 Taiwan NNP COU
+396 402 4021 Taiwan NNP COU http://en.wikipedia.org/wiki/Taiwan
 402 403 4022 , , 
 404 407 4023 and CC 
-408 415 4024 Vietnam NNP COU
+408 415 4024 Vietnam NNP COU http://en.wikipedia.org/wiki/Vietnam
 415 416 4025 . . 
-417 423 5001 Brunei NNP COU
+417 423 5001 Brunei NNP COU http://en.wikipedia.org/wiki/Burnei
 424 427 5002 has VBZ 
 428 439 5003 established VBN 
 440 441 5004 a DT 

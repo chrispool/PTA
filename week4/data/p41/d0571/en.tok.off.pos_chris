@@ -10,12 +10,12 @@
 64 70 1010 Sunday NNP 
 71 73 1011 in IN 
 74 75 1012 a DT 
-76 84 1013 McDonald NNP ORG
+76 84 1013 McDonald NNP ORG http://en.wikipedia.org/wiki/McDonald%27s
 84 86 1014 's POS 
 87 97 1015 restaurant NN 
 98 100 1016 on IN 
-101 104 1017 St. NNP CIT
-105 115 1018 Petersburg NNP CIT
+101 104 1017 St. NNP CIT http://en.wikipedia.org/wiki/Saint_Petersburg
+105 115 1018 Petersburg NNP CIT http://en.wikipedia.org/wiki/Saint_Petersburg
 115 117 1019 's POS 
 118 122 1020 main JJ 
 123 129 1021 street NN 
@@ -57,13 +57,13 @@
 306 312 4005 Nevsky NNP PER
 313 321 4006 Prospekt NNP PER
 321 322 4007 . . 
-323 329 5001 Police NNP ORG
+323 329 5001 Police NNP ORG http://en.wikipedia.org/wiki/Police
 330 336 5002 closed VBD 
 337 341 5003 down RB 
 342 346 5004 part NN 
 347 349 5005 of IN 
-350 353 5006 St. NNP CIT
-354 364 5007 Petersburg NNP CIT
+350 353 5006 St. NNP CIT http://en.wikipedia.org/wiki/Saint_Petersburg
+354 364 5007 Petersburg NNP CIT http://en.wikipedia.org/wiki/Saint_Petersburg
 364 366 5008 's POS 
 367 371 5009 main JJ 
 372 378 5010 street NN 
@@ -79,8 +79,8 @@
 428 435 6003 bombing VBG 
 436 438 6004 of IN 
 439 440 6005 a DT 
-441 447 6006 Moscow NNP CIT
-448 456 6007 McDonald NNP ORG
+441 447 6006 Moscow NNP CIT http://en.wikipedia.org/wiki/Moscow
+448 456 6007 McDonald NNP ORG http://en.wikipedia.org/wiki/McDonald%27s
 456 458 6008 's POS 
 459 461 6009 by IN 
 462 468 6010 Muslim NNP 

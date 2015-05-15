@@ -1,7 +1,7 @@
 0 11 1001 Authorities NNS 
 12 14 1002 in IN 
-15 20 1003 Saudi NNP COU
-21 27 1004 Arabia NNP COU
+15 20 1003 Saudi NNP COU http://en.wikipedia.org/wiki/Saudi_Arabia
+21 27 1004 Arabia NNP COU http://en.wikipedia.org/wiki/Saudi_Arabia
 28 31 1005 say VBP 
 32 33 1006 a DT 
 34 40 1007 fourth JJ 
@@ -17,8 +17,8 @@
 91 97 1017 attack NN 
 98 100 1018 in IN 
 101 113 1019 northwestern NN 
-114 119 1020 Saudi NNP COU
-120 126 1021 Arabia NNP COU
+114 119 1020 Saudi NNP COU http://en.wikipedia.org/wiki/Saudi_Arabia
+120 126 1021 Arabia NNP COU http://en.wikipedia.org/wiki/Saudi_Arabia
 126 127 1022 . . 
 128 137 2001 Officials NNS 
 138 141 2002 say VBP 
@@ -70,8 +70,8 @@
 384 393 4009 residents NNS 
 394 396 4010 of IN 
 397 400 4011 the DT 
-401 406 4012 Saudi NNP COU
-407 414 4013 kingdom NN COU
+401 406 4012 Saudi NNP COU http://en.wikipedia.org/wiki/Saudi_Arabia
+407 414 4013 kingdom NN COU http://en.wikipedia.org/wiki/Saudi_Arabia
 415 418 4014 who WP 
 419 422 4015 had VBD 
 423 427 4016 been VBN 
@@ -79,12 +79,12 @@
 437 445 4018 historic JJ 
 446 451 4019 sites NNS 
 451 452 4020 . . 
-453 458 5001 Saudi NNP COU
-459 465 5002 Arabia NNP COU
+453 458 5001 Saudi NNP COU http://en.wikipedia.org/wiki/Saudi_Arabia
+459 465 5002 Arabia NNP COU http://en.wikipedia.org/wiki/Saudi_Arabia
 466 469 5003 has VBZ 
 470 474 5004 been VBN 
 475 483 5005 battling VBG 
-484 492 5006 al-Qaida NNP ORG
+484 492 5006 al-Qaida NNP ORG http://en.wikipedia.org/wiki/Al-Qaeda
 493 502 5007 militants NNS 
 503 505 5008 in IN 
 506 509 5009 the DT 

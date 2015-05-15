@@ -24,9 +24,9 @@
 141 145 1024 this DT 
 146 151 1025 month NN 
 151 152 1026 . . 
-154 157 2001 The DT ORG http://en.wikipedia.org/wiki/red_cross
-158 161 2002 Red NNP ORG http://en.wikipedia.org/wiki/red_cross
-162 167 2003 Cross NNP ORG http://en.wikipedia.org/wiki/red_cross
+154 157 2001 The DT ORG http://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross
+158 161 2002 Red NNP ORG http://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross
+162 167 2003 Cross NNP ORG http://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross
 168 172 2004 says VBZ 
 173 179 2005 50,000 CD 
 180 186 2006 people NNS 
@@ -40,9 +40,9 @@
 223 228 2014 areas NNS 
 229 231 2015 in IN 
 232 235 2016 the DT 
-236 244 2017 province NN COU http://en.wikipedia.org/wiki/province_of_baluchistan
-245 247 2018 of IN COU http://en.wikipedia.org/wiki/province_of_baluchistan
-248 259 2019 Baluchistan NNP COU http://en.wikipedia.org/wiki/province_of_baluchistan
+236 244 2017 province NN COU http://en.wikipedia.org/wiki/Balochistan
+245 247 2018 of IN COU http://en.wikipedia.org/wiki/Balochistan
+248 259 2019 Baluchistan NNP COU http://en.wikipedia.org/wiki/Balochistan
 259 260 2020 . . 
 262 265 3001 The DT 
 266 275 3002 Pakistani NNP

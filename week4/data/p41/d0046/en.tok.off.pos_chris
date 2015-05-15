@@ -15,19 +15,19 @@
 91 99 1015 economic JJ 
 100 104 1016 ties NNS 
 104 105 1017 . . 
-106 115 2001 Argentine JJ PER http://en.wikipedia.org/wiki/Nestor_Kirchner
-116 125 2002 President NNP PER http://en.wikipedia.org/wiki/Nestor_Kirchner
-126 132 2003 Nestor NNP PER http://en.wikipedia.org/wiki/Nestor_Kirchner
-133 141 2004 Kirchner NNP PER http://en.wikipedia.org/wiki/Nestor_Kirchner
+106 115 2001 Argentine JJ PER http://en.wikipedia.org/wiki/N%C3%A9stor_Kirchner
+116 125 2002 President NNP PER http://en.wikipedia.org/wiki/N%C3%A9stor_Kirchner
+126 132 2003 Nestor NNP PER http://en.wikipedia.org/wiki/N%C3%A9stor_Kirchner
+133 141 2004 Kirchner NNP PER http://en.wikipedia.org/wiki/N%C3%A9stor_Kirchner
 142 145 2005 and CC 
 146 154 2006 visiting VBG 
-155 162 2007 Spanish NNP PER
-163 168 2008 Prime NNP PER
-169 177 2009 Minister NNP PER
-178 182 2010 Jose NNP PER
-183 187 2011 Luis NNP PER
-188 197 2012 Rodriguez NNP PER
-198 206 2013 Zapatero NNP PER
+155 162 2007 Spanish NNP PER http://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero
+163 168 2008 Prime NNP PER http://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero
+169 177 2009 Minister NNP PER http://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero
+178 182 2010 Jose NNP PER http://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero
+183 187 2011 Luis NNP PER http://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero
+188 197 2012 Rodriguez NNP PER http://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero
+198 206 2013 Zapatero NNP PER http://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero
 207 213 2014 signed VBD 
 214 217 2015 the DT 
 218 227 2016 agreement NN 
@@ -41,18 +41,18 @@
 266 270 3003 week NN 
 270 271 3004 , , 
 272 275 3005 Mr. NNP PER
-276 284 3006 Zapatero NNP PER http://en.wikipedia.org/wiki/zapatero
+276 284 3006 Zapatero NNP PER http://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero
 285 288 3007 met VBD 
 289 293 3008 with IN 
-294 303 3009 Brazilian JJ PER http://en.wikipedia.org/wiki/luiz_inacio_lula_da_silva
-304 313 3010 President NNP PER http://en.wikipedia.org/wiki/luiz_inacio_lula_da_silva
-314 318 3011 Luiz NNP PER http://en.wikipedia.org/wiki/luiz_inacio_lula_da_silva
-319 325 3012 Inacio NNP PER http://en.wikipedia.org/wiki/luiz_inacio_lula_da_silva
-326 330 3013 Lula NNP PER http://en.wikipedia.org/wiki/luiz_inacio_lula_da_silva
-331 333 3014 da NN PER http://en.wikipedia.org/wiki/luiz_inacio_lula_da_silva
-334 339 3015 Silva NNP PER http://en.wikipedia.org/wiki/luiz_inacio_lula_da_silva
+294 303 3009 Brazilian JJ PER http://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva
+304 313 3010 President NNP PER http://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva
+314 318 3011 Luiz NNP PER http://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva
+319 325 3012 Inacio NNP PER http://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva
+326 330 3013 Lula NNP PER http://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva
+331 333 3014 da NN PER http://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva
+334 339 3015 Silva NNP PER http://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva
 340 342 3016 in IN 
-343 351 3017 Brasilia NNP CIT http://en.wikipedia.org/wiki/brasilia
+343 351 3017 Brasilia NNP CIT http://en.wikipedia.org/wiki/Bras%C3%ADlia
 351 352 3018 . . 
 353 356 4001 The DT 
 357 360 4002 two CD 
@@ -83,7 +83,7 @@
 508 512 5009 trip NN 
 512 513 5010 , , 
 514 517 5011 Mr. NNP PER
-518 526 5012 Zapatero NNP PER http://en.wikipedia.org/wiki/zapatero
+518 526 5012 Zapatero NNP PER http://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero
 527 529 5013 is VBZ 
 530 539 5014 scheduled VBN 
 540 542 5015 to TO 
@@ -94,7 +94,7 @@
 566 568 5020 to TO 
 569 573 5021 meet VB 
 574 578 5022 with IN 
-579 588 5023 President NNP PER http://en.wikipedia.org/wiki/ricardo_lagos
-589 596 5024 Ricardo NNP PER http://en.wikipedia.org/wiki/ricardo_lagos
-597 602 5025 Lagos NNP PER http://en.wikipedia.org/wiki/ricardo_lagos
+579 588 5023 President NNP PER http://en.wikipedia.org/wiki/Ricardo_Lagos
+589 596 5024 Ricardo NNP PER http://en.wikipedia.org/wiki/Ricardo_Lagos
+597 602 5025 Lagos NNP PER http://en.wikipedia.org/wiki/Ricardo_Lagos
 602 603 5026 . . 

@@ -14,7 +14,7 @@
 79 81 1014 in IN 
 82 89 1015 attacks NNS 
 90 92 1016 in IN 
-93 100 1017 Baghdad NNP CIT
+93 100 1017 Baghdad NNP CIT http://en.wikipedia.org/wiki/Baghdad
 100 101 1018 . . 
 103 114 2001 Authorities NNPS 
 115 118 2002 say VBP 
@@ -58,11 +58,11 @@
 324 328 3014 wife NN 
 329 331 3015 in IN 
 332 340 3016 northern JJ 
-341 348 3017 Baghdad NNP CIT
+341 348 3017 Baghdad NNP CIT http://en.wikipedia.org/wiki/Baghdad
 348 349 3018 . . 
-350 353 4001 The DT ORG
-354 364 4002 Associated NNP ORG
-365 370 4003 Press NNP ORG
+350 353 4001 The DT ORG http://en.wikipedia.org/wiki/Associated_Press
+354 364 4002 Associated NNP ORG http://en.wikipedia.org/wiki/Associated_Press
+365 370 4003 Press NNP ORG http://en.wikipedia.org/wiki/Associated_Press
 371 375 4004 says VBZ 
 376 379 4005 the DT 
 380 387 4006 officer NN 

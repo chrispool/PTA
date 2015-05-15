@@ -5,7 +5,7 @@
 25 32 1005 reports NNS 
 33 35 1006 on IN 
 36 39 1007 the DT 
-40 44 1008 U.S. NNP COU
+40 44 1008 U.S. NNP COU http://en.wikipedia.org/wiki/United_States
 45 52 1009 economy NN 
 53 56 1010 has VBZ 
 57 64 1011 brought VBN 
@@ -21,9 +21,9 @@
 115 123 1021 economic JJ 
 124 133 1022 committee NN 
 133 134 1023 . . 
-135 142 2001 Senator NNP PER
-143 150 2002 Charles NNP PER
-151 158 2003 Schumer NNP PER
+135 142 2001 Senator NNP PER http://en.wikipedia.org/wiki/Chuck_Schumer
+143 150 2002 Charles NNP PER http://en.wikipedia.org/wiki/Chuck_Schumer
+151 158 2003 Schumer NNP PER http://en.wikipedia.org/wiki/Chuck_Schumer
 159 163 2004 said VBD 
 164 170 2005 Friday NNP 
 171 178 2006 reports NNS 
@@ -40,18 +40,18 @@
 248 256 2017 evidence NN 
 257 261 2018 that IN 
 262 265 2019 the DT 
-266 270 2020 U.S. NNP COU
+266 270 2020 U.S. NNP COU http://en.wikipedia.org/wiki/United_States
 271 278 2021 economy NN 
 279 281 2022 is VBZ 
 282 288 2023 headed VBN 
 289 292 2024 for IN 
 293 302 2025 recession NN 
 302 303 2026 . . 
-304 311 3001 Schumer NNP PER
+304 311 3001 Schumer NNP PER http://en.wikipedia.org/wiki/Chuck_Schumer
 312 319 3002 accuses NNS 
 320 323 3003 the DT 
-324 328 3004 Bush NNP ORG
-329 343 3005 administration NN ORG
+324 328 3004 Bush NNP ORG http://en.wikipedia.org/wiki/Presidency_of_George_W._Bush
+329 343 3005 administration NN ORG http://en.wikipedia.org/wiki/Presidency_of_George_W._Bush
 344 346 3006 of IN 
 347 352 3007 doing VBG 
 353 356 3008 far RB 
@@ -64,11 +64,11 @@
 384 392 3015 economic JJ 
 393 399 3016 crisis NN 
 399 400 3017 . . 
-401 406 4001 White NNP ORG
-407 412 4002 House NNP ORG
+401 406 4001 White NNP ORG http://en.wikipedia.org/wiki/White_house
+407 412 4002 House NNP ORG http://en.wikipedia.org/wiki/White_house
 413 422 4003 spokesman NN 
-423 427 4004 Tony NNP PER
-428 434 4005 Fratto NNP PER
+423 427 4004 Tony NNP PER http://en.wikipedia.org/wiki/Tony_Fratto
+428 434 4005 Fratto NNP PER http://en.wikipedia.org/wiki/Tony_Fratto
 435 439 4006 says VBZ 
 440 443 4007 the DT 
 444 451 4008 economy NN 

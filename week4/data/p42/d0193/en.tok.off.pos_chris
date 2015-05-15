@@ -1,14 +1,14 @@
-0 7 1001 British JJ ORG
-8 14 1002 police NN ORG
+0 7 1001 British JJ ORG http://en.wikipedia.org/wiki/Law_enforcement_in_the_United_Kingdom
+8 14 1002 police NN ORG http://en.wikipedia.org/wiki/Law_enforcement_in_the_United_Kingdom
 15 19 1003 have VBP 
 20 24 1004 been VBN 
 25 28 1005 out RP 
 29 31 1006 in IN 
 32 37 1007 force NN 
 38 40 1008 in IN 
-41 50 1009 Edinburgh NNP CIT
+41 50 1009 Edinburgh NNP CIT http://en.wikipedia.org/wiki/Edinburgh
 50 51 1010 , , 
-52 60 1011 Scotland NNP COU
+52 60 1011 Scotland NNP COU http://en.wikipedia.org/wiki/Scotland
 60 61 1012 , , 
 62 68 1013 Monday NNP 
 68 69 1014 , , 
@@ -17,9 +17,9 @@
 90 94 1017 have VBP 
 95 100 1018 begun VBN 
 101 111 1019 protesting VBG 
-112 115 1020 the DT ORG
-116 123 1021 G-Eight JJ ORG
-124 134 1022 conference NN ORG
+112 115 1020 the DT ORG http://en.wikipedia.org/wiki/G8
+116 123 1021 G-Eight JJ ORG http://en.wikipedia.org/wiki/G8
+124 134 1022 conference NN ORG http://en.wikipedia.org/wiki/G8
 135 137 1023 of IN 
 138 152 1024 industrialized JJ 
 153 160 1025 nations NNS 
@@ -41,7 +41,7 @@
 249 259 2012 protesters NNS 
 260 268 2013 scuffled VBD 
 269 273 2014 with IN 
-274 280 2015 police NN ORG
+274 280 2015 police NN ORG http://en.wikipedia.org/wiki/Police
 280 281 2016 . . 
 283 288 3001 There EX 
 289 293 3002 were VBD 
