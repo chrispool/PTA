@@ -1,0 +1,113 @@
+Leonardo Losno Velozo & Chris Pool
+
+1. WordNet relations.
+
+a) how many nouns refer to a relative? 
+	Score for relative = 6 (mother ,wife ,father ,father ,child ,child)
+
+b) how many nouns refer to an illness?
+	Score for illness = 1 (disease)
+
+c) how many nouns refer to a science?
+	Score for science = 3 (mathematics ,science ,science)
+
+
+2. Multiple classes.
+a) in how many cases was there only one hypernym per noun? Give a couple of
+examples, indicating the noun and its hypernym
+
+	in 7 cases there was only one hypernym. For example computer > artifact and adult > animal,fauna
+
+b) in how many cases did your system had to choose among more than one possible
+hypernyms? Give a couple of examples, and specify which hypernyms were
+available
+
+	in 24 cases there where more possible hypernyms. For example death > state,condition|event,happening|act,action activity|attribute,property|process & capability > cognition,knowledge|attribute,property|state,condition
+
+c) what is the average number of hypernyms per noun in the whole text?
+	the average number of hypernyms per noun is 2.27
+
+3. WordNet similarity.1
+Use one or more of the predefined similarity measures in the NLTK corpus reader for
+WordNet to score the similarity of each of these word pairs. Rank the pairs in order
+of decreasing similarity and discuss how close your ranking is to the one obtained
+experimentally by Miller and Charles. 
+
+	Our results:
+	car<> automobile : 3.6375861597263857
+	coast<> shore : 2.9444389791664407
+	monk<> slave : 2.0281482472922856
+	moon<> string : 1.6916760106710724
+	food<> fruit : 1.3350010667323402
+	journey<> car : 0.7472144018302211
+
+	Their results:
+	car-automobile 3.92
+	coast-shore 3.70
+	food-fruit 3.08
+	journey-car 1.16
+	monk-slave 0.55
+	moon-string 0.08
+
+	Monk-slave and moon-string are not related if you ask the opinion of people but in WordNet they have the same Hypernym (Person). Journey-car do not have the same hypernym but are related to each other if you ask the opinion of people.
+
+
+Exercise 2 – Named Entity Recognition
+
+1. run the Named Entity Recognizer on your file, and count how many Persons, Organizations,
+and Locations you find. Have a look at them - are they all correct?
+	LOCATION(1): England
+	PERSON(19): Lovelace ,Charles ,Babbage's ,Lovelace ,Lord ,Byron ,Anne ,Isabella ,Byron ,Ada ,Ada ,Byron ,Ada ,Ada ,Charles ,Babbage, ,Luigi ,Menabrea ,Babbage
+	ORGANIZATION(3): Augusta ,Ada ,Byron
+
+	The organizations are not correct, they are persons. The rest is correct.
+
+2. as you can see there are only three Named Entity classes. Have a look at the other
+models that are contained in the directory of the stanford tagger that you have downloaded
+and then used in nltk, and combining this information with what you find at
+the link provided above, experiment with other classification sets. Please, comment on
+what the other classifiers do, and on what happens.
+
+	ner/classifiers/english.all.3class.distsim.crf.ser.gz
+	This classifiers uses ORGANIZATION, LOCATION, PERSON categories 
+	This classfier correctly classifies most persons but recognized less words in the other two categories compared to the other classifiers.
+
+	ner/classifiers/english.conll.4class.distsim.crf.ser.gz
+	This classifiers uses ORGANIZATION, LOCATION, PERSON, MISC categories
+	This classfier classifies some words in the MISC category but some are actually persons or locations 
+
+	ner/classifiers/english.muc.7class.distsim.crf.ser.gz
+	This classifiers uses ORGANIZATION, LOCATION, PERSON, TIME, MONEY, PERCENT, DATE categories
+	In the text the classifier did not find words for the MONEY, TIME, PERCENT categories
+
+
+	ner/classifiers/english.nowiki.3class.distsim.crf.ser.gz
+	This classifiers uses ORGANIZATION, LOCATION, PERSON categories
+	The results are almost the same as the first classifier. This classifier excludes wiki information. 
+
+
+3. pick the model you prefer, and using both the NER tagger and WordNet information,
+classify all nouns or NP chunks in the text using the classes expressed by your classifier
+(for example, picking the classifier from the box above, this would mean classifying all
+nouns or NP chunks into one of Person, Organization, Location.)
+
+	We have chosen these categories, using the 3-class classifier and wordnet:
+
+	ORGANIZATION(3): Augusta ,Ada ,Byron
+	PERSON(19): Lovelace ,Charles ,Babbage's ,Lovelace ,Lord ,Byron ,Anne ,Isabella ,Byron ,Ada ,Ada ,Byron ,Ada ,Ada ,Charles ,Babbage, ,Luigi ,Menabrea ,Babbage
+	STATE ,CONDITION(8): disease ,set ,interest ,society ,insanity ,relationship ,capability ,friendship
+	COMMUNICATION(2): history ,article
+	ATTRIBUTE ,PROPERTY(10): bitter ,disease ,set ,history ,interest ,society ,insanity ,relationship ,capability ,friendship
+	EVENT ,HAPPENING(7): set ,technology ,algorithm ,interest ,work ,vision ,effort
+	LOCATION(1): England
+	FOOD(1): bitter
+	RELATION(4): bitter ,interest ,article ,relationship
+	GROUP ,COLLECTION(3): interest ,set ,society
+	SUBSTANCE(2): bitter ,mother
+	ACT ,ACTION ,ACTIVITY(6): set ,technology ,algorithm ,interest ,work ,effort
+	TIME(1): history
+	PROCESS(4): bitter ,set ,vision ,work
+	LOCATION ,PLACE(1): work
+	POSSESSION(1): interest
+
+
