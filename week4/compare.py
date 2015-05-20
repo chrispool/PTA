@@ -28,6 +28,7 @@ class Compare():
 								self.judge2.append(line.split())
 		
 	
+
 	def compareJudges(self):
 		judge1 = []
 		judge2 = []
@@ -110,12 +111,15 @@ class Compare():
 				else:
 					print("Judge1 zegt: {} |||||| Judge2 zegt: {}".format(" ".join(judge1[i][3:])," ".join(judge2[i][3:])))
 					inp = input("Judge 1 or 2? ")
-					if inp == 1:
+					if inp == '1':
 						newFile.append(judge1[i])
 					else:
 						newFile.append(judge2[i])
-			
+					
 			#write new file
+			if os.path.isfile(os.path.join(subdir, 'en.tok.off.pos.ent')) :
+				os.remove(os.path.join(subdir, 'en.tok.off.pos.ent'))
+
 			f = open(os.path.join(subdir, 'en.tok.off.pos.ent'), 'a')
 			for row in newFile:
 				newRow = "{} \n".format(" ".join(row))
@@ -126,6 +130,6 @@ class Compare():
 			print()
 		print("Generated Gold standard")
 
-C = Compare()
-C.compareJudges()
+#C = Compare()
+#C.compareJudges()
 C.adjudication()
