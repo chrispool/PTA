@@ -1,0 +1,50 @@
+0 7 1001 Talking VBG 
+8 13 1002 about IN 
+14 21 1003 fashion NN 
+22 31 1004 instantly RB 
+32 38 1005 evokes VBZ 
+39 41 1006 in IN 
+42 46 1007 many JJ 
+47 53 1008 people NNS 
+54 60 1009 images NNS 
+61 63 1010 of IN 
+64 70 1011 models NNS 
+71 80 1012 strutting VBG 
+81 85 1013 down IN 
+86 89 1014 the DT 
+90 97 1015 catwalk NN 
+97 98 1016 . . 
+99 102 2001 But CC 
+103 106 2002 the DT 
+107 112 2003 South NNP ORG http://students.washington.edu/sasauw/ 
+113 118 2004 Asian NNP ORG http://students.washington.edu/sasauw/ 
+119 126 2005 Student NNP ORG http://students.washington.edu/sasauw/ 
+127 138 2006 Association NNP ORG http://students.washington.edu/sasauw/ 
+139 141 2007 at IN 
+142 150 2008 Carnegie NNP ORG http://en.wikipedia.org/wiki/Carnegie_Mellon_University 
+151 157 2009 Mellon NNP ORG http://en.wikipedia.org/wiki/Carnegie_Mellon_University 
+158 168 2010 University NNP ORG http://en.wikipedia.org/wiki/Carnegie_Mellon_University 
+169 171 2011 in IN 
+182 183 2013 , , 
+197 205 2015 recently RB 
+206 210 2016 took VBD 
+211 212 2017 a DT 
+213 222 2018 different JJ 
+223 227 2019 spin NN 
+228 230 2020 on IN 
+231 238 2021 fashion NN 
+239 245 2022 during IN 
+246 254 2023 Pakistan NNP COU http://en.wikipedia.org/wiki/Pakistan 
+255 264 2024 Awareness NNP 
+265 269 2025 Week NNP 
+270 272 2026 on IN 
+273 279 2027 campus NN 
+279 280 2028 . . 
+281 284 3001 VOA NNP ORG http://en.wikipedia.org/wiki/Voice_of_America 
+284 286 3002 's POS 
+287 291 3003 Ruth NNP PER https://www.linkedin.com/in/ruthreader 
+292 298 3004 Reader NNP PER https://www.linkedin.com/in/ruthreader 
+299 306 3005 reports VBZ 
+307 310 3006 for IN 
+311 319 3007 producer NN 
+333 334 3010 . . 
