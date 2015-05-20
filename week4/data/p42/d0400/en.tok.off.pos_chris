@@ -1,4 +1,4 @@
-0 6 1001 Police NNP ORG
+0 6 1001 Police NNP ORG http://en.wikipedia.org/wiki/Police
 7 9 1002 in IN 
 10 15 1003 Nepal NNP COU http://en.wikipedia.org/wiki/Nepal
 16 20 1004 have VBP 
@@ -15,8 +15,8 @@
 82 93 1015 demonstrate VB 
 94 98 1016 near IN 
 99 102 1017 the DT 
-103 110 1018 Chinese NNP ORG 
-111 118 1019 embassy NN ORG
+103 110 1018 Chinese NNP ORG http://en.wikipedia.org/wiki/List_of_diplomatic_missions_of_China#Asia
+111 118 1019 embassy NN ORG http://en.wikipedia.org/wiki/List_of_diplomatic_missions_of_China#Asia
 119 121 1020 in IN 
 122 131 1021 Kathmandu NNP CIT http://en.wikipedia.org/wiki/Kathmandu
 131 132 1022 . . 
@@ -26,7 +26,7 @@
 153 162 2004 traveling VBG 
 163 165 2005 to TO 
 166 169 2006 the DT 
-170 177 2007 embassy NN ORG
+170 177 2007 embassy NN ORG http://en.wikipedia.org/wiki/List_of_diplomatic_missions_of_China#Asia
 178 180 2008 in IN 
 181 186 2009 buses NNS 
 187 191 2010 when WRB 
@@ -34,7 +34,7 @@
 197 201 2012 were VBD 
 202 209 2013 stopped VBN 
 210 212 2014 by IN 
-213 219 2015 police NN ORG
+213 219 2015 police NN ORG http://en.wikipedia.org/wiki/Police
 220 223 2016 and CC 
 224 230 2017 driven RB 
 231 233 2018 to TO 
@@ -64,7 +64,7 @@
 376 378 3021 in IN 
 379 384 3022 March NNP 
 384 385 3023 . . 
-386 392 4001 Police NNP ORG
+386 392 4001 Police NNP ORG http://en.wikipedia.org/wiki/Police
 393 397 4002 have VBP 
 398 402 4003 been VBN 
 403 412 4004 detaining VBG 

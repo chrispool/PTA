@@ -77,8 +77,8 @@
 439 440 3026 . . 
 441 444 4001 VOA NNP ORG http://en.wikipedia.org/wiki/Voice_of_America 
 444 446 4002 's POS 
-447 452 4003 Chris NNP PER https://www.linkedin.com/pub/chris-simkins/1b/73b/361 
-453 460 4004 Simkins NNP PER https://www.linkedin.com/pub/chris-simkins/1b/73b/361 
+447 452 4003 Chris NNP PER http://en.wikipedia.org/wiki/Chris_Simkins 
+453 460 4004 Simkins NNP PER http://en.wikipedia.org/wiki/Chris_Simkins 
 461 468 4005 reports VBZ 
 469 471 4006 on IN 
 472 475 4007 how WRB 

@@ -1,6 +1,7 @@
 0 11 1001 Authorities NNS 
 12 14 1002 in IN 
-15 21 1003 Indian JJ COU http://en.wikipedia.org/wiki/Jammu_and_Kashmir 
+15 21 1003 Indian JJ COU http://en.wikipedia.org/wiki/Jammu_and_Kashmir
+22 29 1004 Kashmir NNP CIT COU http://en.wikipedia.org/wiki/Jammu_and_Kashmir 
 30 33 1005 say VBP 
 34 43 1006 militants NNS 
 44 48 1007 have VBP 

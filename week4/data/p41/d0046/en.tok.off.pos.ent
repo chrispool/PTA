@@ -33,6 +33,8 @@
 218 227 2016 agreement NN 
 228 235 2017 Tuesday NNP 
 236 238 2018 in IN 
+239 245 2019 Buenos NNP CIT http://en.wikipedia.org/wiki/Buenos_Aires
+246 251 2020 Aires NNP CIT http://en.wikipedia.org/wiki/Buenos_Aires
 251 252 2021 . . 
 253 260 3001 Earlier NNP 
 261 265 3002 this DT 
@@ -87,6 +89,7 @@
 540 542 5015 to TO 
 543 546 5016 fly RB 
 547 549 5017 to TO 
+550 555 5018 Chile NNP COU http://en.wikipedia.org/wiki/Chile
 556 565 5019 Wednesday NNP 
 566 568 5020 to TO 
 569 573 5021 meet VB 

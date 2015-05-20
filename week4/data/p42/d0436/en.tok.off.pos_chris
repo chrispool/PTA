@@ -60,7 +60,7 @@
 313 314 3026 . . 
 315 318 4001 Mr. NNP PER http://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad
 319 330 4002 Ahmadinejad NNP PER http://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad
-331 338 4003 sparked VBD PER
+331 338 4003 sparked VBD
 339 352 4004 international JJ 
 353 360 4005 outrage NN 
 361 363 4006 in IN 
