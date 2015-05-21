@@ -1,0 +1,102 @@
+0 5 1001 Iraqi NNP 
+6 15 1002 officials NNS 
+16 19 1003 say VBP 
+20 21 1004 a DT 
+22 25 1005 car NN 
+26 30 1006 bomb NN 
+31 33 1007 in IN 
+34 41 1008 central JJ 
+42 49 1009 Baghdad NNP CIT http://en.wikipedia.org/wiki/Baghdad
+50 53 1010 has VBZ 
+54 60 1011 killed VBN 
+61 63 1012 at IN 
+64 69 1013 least JJS 
+70 72 1014 14 CD 
+73 79 1015 people NNS 
+80 83 1016 and CC 
+84 91 1017 wounded VBD 
+92 94 1018 at IN 
+95 100 1019 least JJS 
+101 103 1020 64 CD 
+104 110 1021 others NNS 
+110 111 1022 . . 
+112 116 2001 They PRP 
+117 120 2002 say VBP 
+121 122 2003 a DT 
+123 128 2004 woman NN 
+129 132 2005 and CC 
+133 134 2006 a DT 
+135 140 2007 child NN 
+141 144 2008 are VBP 
+145 150 2009 among IN 
+151 154 2010 the DT 
+155 159 2011 dead JJ 
+160 164 2012 from IN 
+165 171 2013 Friday NNP 
+171 173 2014 's POS 
+174 179 2015 blast JJ 
+180 182 2016 in IN 
+183 184 2017 a DT 
+185 192 2018 crowded VBN 
+193 199 2019 market NN 
+199 200 2020 . . 
+201 203 3001 In IN 
+204 209 3002 other JJ 
+210 222 3003 developments NNS 
+222 223 3004 , , 
+224 227 3005 the DT 
+228 232 3006 U.S. NNP ORG http://en.wikipedia.org/wiki/United_States_Armed_Forces
+233 241 3007 military JJ ORG http://en.wikipedia.org/wiki/United_States_Armed_Forces
+242 246 3008 says NNS 
+247 256 3009 coalition NN 
+257 263 3010 forces NNS 
+264 270 3011 killed VBD 
+271 275 3012 five CD 
+276 285 3013 militants NNS 
+286 289 3014 and CC 
+290 298 3015 detained VBD 
+299 301 3016 14 CD 
+302 310 3017 suspects NNS 
+311 317 3018 during IN 
+318 328 3019 operations NNS 
+329 336 3020 against IN 
+337 345 3021 al-Qaida NNP ORG http://en.wikipedia.org/wiki/Al-Qaeda
+346 348 3022 in IN 
+349 353 3023 Iraq NNP COU http://en.wikipedia.org/wiki/Iraq
+353 354 3024 . . 
+355 364 4001 Officials NNS 
+365 368 4002 say VBP 
+369 372 4003 the DT 
+373 377 4004 raid NN 
+378 380 4005 in IN 
+381 391 4006 Muqdadiyah NNP CIT http://en.wikipedia.org/wiki/Muqdadiyah
+392 400 4007 targeted VBD 
+401 412 4008 individuals NNS 
+413 423 4009 associated VBN 
+424 428 4010 with IN 
+429 430 4011 a DT 
+431 438 4012 network NN 
+439 447 4013 involved VBN 
+448 450 4014 in IN 
+451 459 4015 numerous JJ 
+460 471 4016 engagements NNS 
+472 476 4017 with IN 
+477 486 4018 coalition NN 
+487 493 4019 forces NNS 
+493 494 4020 . . 
+495 498 5001 The DT 
+499 507 5002 military JJ 
+508 512 5003 says VBZ 
+513 522 5004 coalition NN 
+523 529 5005 forces NNS 
+530 534 5006 also RB 
+535 544 5007 conducted VBD 
+545 555 5008 operations NNS 
+556 560 5009 near IN 
+561 567 5010 Salman NNP CIT http://en.wikipedia.org/wiki/Salman_Pak
+568 571 5011 Pak NNP CIT http://en.wikipedia.org/wiki/Salman_Pak
+571 572 5012 , , 
+573 580 5013 Samarra NNP CIT http://en.wikipedia.org/wiki/Samarra
+581 584 5014 and CC 
+585 592 5015 Baghdad NNP CIT http://en.wikipedia.org/wiki/Baghdad
+592 593 5016 . . 

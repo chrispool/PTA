@@ -1,0 +1,104 @@
+0 5 1001 Iraqi NNP 
+6 15 1002 officials NNS 
+16 19 1003 say VBP 
+20 27 1004 Turkish JJ 
+28 37 1005 warplanes NNS 
+38 42 1006 have VBP 
+43 49 1007 bombed VBN 
+50 57 1008 targets NNS 
+58 60 1009 in IN 
+61 64 1010 the DT 
+65 72 1011 Kurdish NNP COU http://en.wikipedia.org/wiki/Iraqi_Kurdistan 
+73 83 1012 autonomous JJ COU http://en.wikipedia.org/wiki/Iraqi_Kurdistan 
+84 90 1013 region NN COU http://en.wikipedia.org/wiki/Iraqi_Kurdistan 
+91 93 1014 of IN 
+94 102 1015 northern JJ 
+103 107 1016 Iraq NNP COU http://en.wikipedia.org/wiki/Iraq 
+107 108 1017 , , 
+109 117 1018 wounding VBG 
+118 121 1019 one CD 
+122 130 1020 civilian JJ 
+130 131 1021 . . 
+133 136 2001 The DT 
+137 146 2002 officials NNS 
+147 150 2003 say VBP 
+151 157 2004 Turkey NNP COU http://en.wikipedia.org/wiki/Turkey 
+158 164 2005 bombed VBD 
+165 168 2006 the DT 
+169 176 2007 village NN 
+177 179 2008 of IN 
+180 187 2009 Sidakan NNP CIT http://en.wikipedia.org/wiki/Sidakan 
+188 192 2010 near IN 
+193 196 2011 the DT 
+197 204 2012 Iranian NNP COU http://en.wikipedia.org/wiki/Iran 
+205 211 2013 border NN 
+212 220 2014 Saturday NNP 
+220 221 2015 . . 
+223 228 3001 There EX 
+229 232 3002 was VBD 
+233 235 3003 no DT 
+236 245 3004 immediate JJ 
+246 258 3005 confirmation NN 
+259 261 3006 of IN 
+262 265 3007 the DT 
+266 272 3008 strike NN 
+273 277 3009 from IN 
+278 281 3010 the DT 
+282 289 3011 Turkish NNP ORG http://en.wikipedia.org/wiki/Turkish_Armed_Forces 
+290 298 3012 military JJ ORG http://en.wikipedia.org/wiki/Turkish_Armed_Forces 
+298 299 3013 . . 
+301 308 4001 Clashes NNS 
+309 316 4002 between IN 
+317 322 4003 Turks NNP 
+323 326 4004 and CC 
+327 332 4005 Kurds NNP 
+333 337 4006 have VBP 
+338 347 4007 increased VBN 
+348 353 4008 since IN 
+354 357 4009 the DT 
+358 367 4010 Kurdistan NNP ORG http://en.wikipedia.org/wiki/Kurdistan_Workers%27_Party 
+368 375 4011 Workers NNP ORG http://en.wikipedia.org/wiki/Kurdistan_Workers%27_Party 
+375 376 4012 ' POS ORG http://en.wikipedia.org/wiki/Kurdistan_Workers%27_Party 
+377 382 4013 Party NNP ORG http://en.wikipedia.org/wiki/Kurdistan_Workers%27_Party 
+382 383 4014 , , 
+384 386 4015 or CC 
+387 390 4016 PKK NNP ORG http://en.wikipedia.org/wiki/Kurdistan_Workers%27_Party 
+390 391 4017 , , 
+392 398 4018 called VBN 
+399 402 4019 off RP 
+403 404 4020 a DT 
+405 413 4021 yearlong JJ 
+414 424 4022 cease-fire NN 
+425 427 4023 in IN 
+428 432 4024 June NNP 
+432 433 4025 . . 
+435 438 5001 The DT 
+439 444 5002 group NN 
+445 450 5003 cited VBD 
+451 459 5004 repeated VBN 
+460 467 5005 Turkish JJ ORG http://en.wikipedia.org/wiki/Turkish_Armed_Forces 
+468 476 5006 military JJ ORG http://en.wikipedia.org/wiki/Turkish_Armed_Forces 
+477 484 5007 attacks NNS 
+485 488 5008 for IN 
+489 495 5009 ending VBG 
+496 499 5010 the DT 
+500 505 5011 truce NN 
+505 506 5012 . . 
+508 511 6001 The DT 
+512 515 6002 PKK NNP ORG http://en.wikipedia.org/wiki/Kurdistan_Workers%27_Party 
+516 518 6003 is VBZ 
+519 527 6004 fighting VBG 
+528 531 6005 for IN 
+532 539 6006 Kurdish JJ 
+540 548 6007 autonomy NN 
+549 551 6008 in IN 
+552 564 6009 southeastern NN 
+565 571 6010 Turkey NNP COU http://en.wikipedia.org/wiki/Turkey 
+571 572 6011 , , 
+573 576 6012 and CC 
+577 580 6013 has VBZ 
+581 586 6014 bases NNS 
+587 589 6015 in IN 
+590 598 6016 northern JJ 
+599 603 6017 Iraq NNP COU http://en.wikipedia.org/wiki/Turkey 
+603 604 6018 . . 

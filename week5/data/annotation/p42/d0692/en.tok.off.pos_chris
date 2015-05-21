@@ -1,0 +1,96 @@
+0 3 1001 The DT COU http://en.wikipedia.org/wiki/Spratly_Islands
+4 11 1002 Spratly NNP COU http://en.wikipedia.org/wiki/Spratly_Islands
+12 19 1003 Islands NNPS COU http://en.wikipedia.org/wiki/Spratly_Islands
+20 27 1004 consist VBP 
+28 30 1005 of IN 
+31 35 1006 more JJR 
+36 40 1007 than IN 
+41 44 1008 100 CD 
+45 50 1009 small JJ 
+51 58 1010 islands NNS NAT
+59 61 1011 or CC 
+62 67 1012 reefs NNS 
+67 68 1013 . . 
+69 73 2001 They PRP 
+74 77 2002 are VBP 
+78 88 2003 surrounded VBN 
+89 91 2004 by IN 
+92 96 2005 rich JJ 
+97 104 2006 fishing NN NAT
+105 112 2007 grounds NNS NAT
+113 116 2008 and CC 
+117 128 2009 potentially RB 
+129 131 2010 by IN 
+132 135 2011 gas NN 
+136 139 2012 and CC 
+140 143 2013 oil NN 
+144 152 2014 deposits NNS 
+152 153 2015 . . 
+154 158 3001 They PRP 
+159 162 3002 are VBP 
+163 170 3003 claimed VBN 
+171 173 3004 in IN 
+174 179 3005 their PRP$ 
+180 188 3006 entirety NN 
+189 191 3007 by IN 
+192 197 3008 China NNP COU http://en.wikipedia.org/wiki/China
+197 198 3009 , , 
+199 205 3010 Taiwan NNP COU http://en.wikipedia.org/wiki/Taiwan
+205 206 3011 , , 
+207 210 3012 and CC 
+211 218 3013 Vietnam NNP COU http://en.wikipedia.org/wiki/Vietnam
+218 219 3014 , , 
+220 225 3015 while IN 
+226 234 3016 portions NNS 
+235 238 3017 are VBP 
+239 246 3018 claimed VBN 
+247 249 3019 by IN 
+250 258 3020 Malaysia NNP COU http://en.wikipedia.org/wiki/Malaysia
+259 262 3021 and CC 
+263 266 3022 the DT 
+267 278 3023 Philippines NNPS COU http://en.wikipedia.org/wiki/Philippines
+278 279 3024 . . 
+280 285 4001 About IN 
+286 288 4002 45 CD 
+289 296 4003 islands NNS NAT http://en.wikipedia.org/wiki/Island 
+297 300 4004 are VBP 
+301 309 4005 occupied VBN 
+310 312 4006 by IN 
+313 323 4007 relatively RB 
+324 329 4008 small JJ 
+330 337 4009 numbers NNS 
+338 340 4010 of IN 
+341 349 4011 military JJ 
+350 356 4012 forces NNS 
+357 361 4013 from IN 
+362 367 4014 China NNP COU http://en.wikipedia.org/wiki/China
+367 368 4015 , , 
+369 377 4016 Malaysia NNP COU http://en.wikipedia.org/wiki/Malaysia
+377 378 4017 , , 
+379 382 4018 the DT 
+383 394 4019 Philippines NNPS COU http://en.wikipedia.org/wiki/Philippines
+394 395 4020 , , 
+396 402 4021 Taiwan NNP COU http://en.wikipedia.org/wiki/Taiwan
+402 403 4022 , , 
+404 407 4023 and CC 
+408 415 4024 Vietnam NNP COU http://en.wikipedia.org/wiki/Vietnam
+415 416 4025 . . 
+417 423 5001 Brunei NNP COU http://en.wikipedia.org/wiki/Burnei
+424 427 5002 has VBZ 
+428 439 5003 established VBN 
+440 441 5004 a DT 
+442 449 5005 fishing NN 
+450 454 5006 zone NN 
+455 459 5007 that WDT 
+460 468 5008 overlaps VBZ 
+469 470 5009 a DT 
+471 479 5010 southern NN 
+480 484 5011 reef NN 
+485 488 5012 but CC 
+489 492 5013 has VBZ 
+493 496 5014 not RB 
+497 501 5015 made VBN 
+502 505 5016 any DT 
+506 512 5017 formal JJ 
+513 518 5018 claim NN 
+518 519 5019 . . 

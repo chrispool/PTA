@@ -1,0 +1,103 @@
+0 11 1001 Authorities NNS 
+12 14 1002 in IN 
+15 20 1003 Saudi NNP COU http://en.wikipedia.org/wiki/Saudi_Arabia
+21 27 1004 Arabia NNP COU http://en.wikipedia.org/wiki/Saudi_Arabia
+28 31 1005 say VBP 
+32 33 1006 a DT 
+34 40 1007 fourth JJ 
+41 47 1008 French JJ 
+48 56 1009 national JJ 
+57 60 1010 has VBZ 
+61 65 1011 died VBN 
+66 68 1012 of IN 
+69 75 1013 wounds NNS 
+76 84 1014 suffered VBN 
+85 87 1015 in IN 
+88 90 1016 an DT 
+91 97 1017 attack NN 
+98 100 1018 in IN 
+101 113 1019 northwestern NN
+114 119 1020 Saudi NNP COU http://en.wikipedia.org/wiki/Saudi_Arabia
+120 126 1021 Arabia NNP COU http://en.wikipedia.org/wiki/Saudi_Arabia
+126 127 1022 . . 
+128 137 2001 Officials NNS 
+138 141 2002 say VBP 
+142 143 2003 a DT 
+144 152 2004 teenager NN 
+153 157 2005 died VBD 
+158 160 2006 in IN 
+161 162 2007 a DT 
+163 171 2008 hospital NN 
+172 179 2009 Tuesday NNP 
+180 182 2010 of IN 
+183 189 2011 wounds NNS 
+190 199 2012 sustained VBN 
+200 204 2013 when WRB 
+205 211 2014 gunmen NNS 
+212 216 2015 shot VBP 
+217 219 2016 at IN 
+220 221 2017 a DT 
+222 227 2018 group NN 
+228 230 2019 of IN 
+231 235 2020 nine CD 
+236 242 2021 French JJ 
+243 252 2022 nationals NNS 
+253 256 2023 who WP 
+257 260 2024 had VBD 
+261 268 2025 stopped VBN 
+269 274 2026 along IN 
+275 276 2027 a DT 
+277 281 2028 road NN 
+282 284 2029 on IN 
+285 291 2030 Monday NNP 
+291 292 2031 . . 
+294 299 3001 Three NNP 
+300 303 3002 had VBD 
+304 308 3003 died VBN 
+309 316 3004 shortly RB 
+317 322 3005 after IN 
+323 326 3006 the DT 
+327 333 3007 attack NN 
+333 334 3008 . . 
+335 336 4001 A DT 
+337 342 4002 Saudi NNP 
+343 352 4003 spokesman NN 
+353 357 4004 said VBD 
+358 361 4005 the DT 
+362 368 4006 French JJ 
+369 378 4007 nationals NNS 
+379 383 4008 were VBD 
+384 393 4009 residents NNS 
+394 396 4010 of IN 
+397 400 4011 the DT 
+401 406 4012 Saudi NNP COU http://en.wikipedia.org/wiki/Saudi_Arabia
+407 414 4013 kingdom NN COU http://en.wikipedia.org/wiki/Saudi_Arabia
+415 418 4014 who WP 
+419 422 4015 had VBD 
+423 427 4016 been VBN 
+428 436 4017 visiting VBG 
+437 445 4018 historic JJ 
+446 451 4019 sites NNS 
+451 452 4020 . . 
+453 458 5001 Saudi NNP COU http://en.wikipedia.org/wiki/Saudi_Arabia
+459 465 5002 Arabia NNP COU http://en.wikipedia.org/wiki/Saudi_Arabia
+466 469 5003 has VBZ 
+470 474 5004 been VBN 
+475 483 5005 battling VBG 
+484 492 5006 al-Qaida NNP ORG http://en.wikipedia.org/wiki/Al-Qaeda
+493 502 5007 militants NNS
+503 505 5008 in IN 
+506 509 5009 the DT 
+510 517 5010 kingdom NN 
+517 518 5011 , , 
+519 522 5012 and CC 
+523 526 5013 the DT 
+527 536 5014 terrorist NN 
+537 542 5015 group NN 
+543 546 5016 has VBZ 
+547 555 5017 targeted VBN 
+556 566 5018 Westerners NNS 
+567 569 5019 in IN 
+570 573 5020 the DT 
+574 578 5021 past JJ 
+578 579 5022 . . 

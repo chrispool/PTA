@@ -1,0 +1,84 @@
+0 9 1001 Ukrainian JJ ORG http://en.wikipedia.org/wiki/State_Emergency_Service_of_Ukraine
+10 19 1002 emergency NN ORG http://en.wikipedia.org/wiki/State_Emergency_Service_of_Ukraine
+20 29 1003 officials NNS ORG http://en.wikipedia.org/wiki/State_Emergency_Service_of_Ukraine
+30 33 1004 say VBP 
+34 38 1005 five CD 
+39 45 1006 people NNS 
+46 50 1007 have VBP 
+51 55 1008 been VBN 
+56 62 1009 killed VBN 
+63 65 1010 in IN 
+66 69 1011 the DT 
+70 75 1012 crash NN 
+76 78 1013 of IN 
+79 80 1014 a DT 
+81 86 1015 small JJ 
+87 94 1016 private JJ 
+95 104 1017 passenger NN 
+105 110 1018 plane NN 
+111 115 1019 near IN 
+116 120 1020 Kyiv NNP CIT http://en.wikipedia.org/wiki/Kiev
+120 121 1021 . . 
+122 125 2001 The DT 
+126 136 2002 Beechcraft NNP 
+137 146 2003 turboprop NN 
+147 150 2004 was VBD 
+151 153 2005 on IN 
+154 155 2006 a DT 
+156 162 2007 flight NN 
+163 169 2008 Sunday NNP 
+170 174 2009 from IN 
+175 178 2010 the DT 
+179 184 2011 Czech JJ COU http://en.wikipedia.org/wiki/Czech_Republic
+185 193 2012 Republic NNP COU http://en.wikipedia.org/wiki/Czech_Republic
+193 194 2013 . . 
+195 204 3001 Witnesses NNP 
+205 208 3002 say VBP 
+209 212 3003 the DT 
+213 218 3004 plane NN 
+219 226 3005 crashed VBD 
+227 230 3006 and CC 
+231 239 3007 exploded VBN 
+240 242 3008 in IN 
+243 244 3009 a DT 
+245 250 3010 field NN NAT http://en.wikipedia.org/wiki/Field_%28agriculture%29
+251 255 3011 just RB 
+256 261 3012 short JJ 
+262 264 3013 of IN 
+265 268 3014 the DT 
+269 275 3015 runway NN 
+276 278 3016 at IN 
+279 287 3017 Zhulyany NNP
+288 295 3018 airport NN 
+296 300 3019 near IN 
+301 305 3020 Kyiv NNP CIT http://en.wikipedia.org/wiki/Kiev
+305 306 3021 . . 
+307 309 4001 No DT 
+310 313 4002 one NN 
+314 316 4003 on IN 
+317 320 4004 the DT 
+321 327 4005 ground NN 
+328 331 4006 was VBD 
+332 336 4007 hurt VBN 
+336 337 4008 . . 
+338 341 5001 All DT 
+342 346 5002 five CD 
+347 354 5003 victims NNS 
+355 359 5004 were VBD 
+360 365 5005 Czech NNP 
+365 366 5006 . . 
+367 380 6001 Investigators NNP 
+381 384 6002 say VBP 
+385 392 6003 initial JJ 
+393 401 6004 findings NNS 
+402 407 6005 point NN 
+408 410 6006 to TO 
+411 416 6007 human JJ 
+417 422 6008 error NN 
+423 425 6009 as IN 
+426 429 6010 the DT 
+430 435 6011 cause NN 
+436 438 6012 of IN 
+439 442 6013 the DT 
+443 448 6014 crash NN 
+448 449 6015 . . 

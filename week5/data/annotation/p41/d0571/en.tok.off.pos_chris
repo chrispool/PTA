@@ -1,0 +1,96 @@
+0 7 1001 Russian JJ 
+8 19 1002 authorities NNS 
+20 23 1003 and CC 
+24 33 1004 witnesses NNS 
+34 37 1005 say VBP 
+38 39 1006 a DT 
+40 49 1007 suspected VBN 
+50 54 1008 bomb NN 
+55 63 1009 exploded VBD 
+64 70 1010 Sunday NNP 
+71 73 1011 in IN 
+74 75 1012 a DT 
+76 84 1013 McDonald NNP ORG http://en.wikipedia.org/wiki/McDonald%27s
+84 86 1014 's POS 
+87 97 1015 restaurant NN 
+98 100 1016 on IN 
+101 104 1017 St. NNP CIT http://en.wikipedia.org/wiki/Saint_Petersburg
+105 115 1018 Petersburg NNP CIT http://en.wikipedia.org/wiki/Saint_Petersburg
+115 117 1019 's POS 
+118 122 1020 main JJ 
+123 129 1021 street NN 
+129 130 1022 , , 
+131 139 1023 injuring VBG 
+140 143 1024 six CD 
+144 150 1025 people NNS 
+150 151 1026 . . 
+152 155 2001 The DT 
+156 161 2002 blast NN 
+162 171 2003 shattered VBD 
+172 179 2004 windows NNS 
+180 183 2005 and CC 
+184 190 2006 caused VBD 
+191 195 2007 part NN 
+196 198 2008 of IN 
+199 202 2009 the DT 
+203 213 2010 restaurant NN 
+213 215 2011 's POS 
+216 223 2012 ceiling NN 
+224 226 2013 to TO 
+227 231 2014 cave VB 
+232 234 2015 in IN 
+234 235 2016 . . 
+236 240 3001 None NN 
+241 243 3002 of IN 
+244 247 3003 the DT 
+248 256 3004 injuries NNS 
+257 260 3005 are VBP 
+261 265 3006 said VBN 
+266 268 3007 to TO 
+269 271 3008 be VB 
+272 279 3009 serious JJ 
+279 280 3010 . . 
+281 284 4001 The DT 
+285 290 4002 blast NN 
+291 299 4003 occurred VBD 
+300 305 4004 along IN 
+306 312 4005 Nevsky NNP PER
+313 321 4006 Prospekt NNP PER
+321 322 4007 . . 
+323 329 5001 Police NNP ORG http://en.wikipedia.org/wiki/Police
+330 336 5002 closed VBD 
+337 341 5003 down RB 
+342 346 5004 part NN 
+347 349 5005 of IN 
+350 353 5006 St. NNP CIT http://en.wikipedia.org/wiki/Saint_Petersburg
+354 364 5007 Petersburg NNP CIT http://en.wikipedia.org/wiki/Saint_Petersburg
+364 366 5008 's POS 
+367 371 5009 main JJ 
+372 378 5010 street NN 
+379 384 5011 while IN 
+385 389 5012 they PRP 
+390 397 5013 carried VBD 
+398 400 5014 it PRP 
+401 406 5015 their PRP$ 
+407 420 5016 investigation NN 
+420 421 5017 . . 
+422 423 6001 A DT 
+424 427 6002 car NN 
+428 435 6003 bombing VBG 
+436 438 6004 of IN 
+439 440 6005 a DT 
+441 447 6006 Moscow NNP CIT http://en.wikipedia.org/wiki/Moscow
+448 456 6007 McDonald NNP ORG http://en.wikipedia.org/wiki/McDonald%27s
+456 458 6008 's POS 
+459 461 6009 by IN 
+462 468 6010 Muslim NNP 
+469 479 6011 extremists NNS 
+480 482 6012 in IN 
+483 487 6013 2002 CD 
+488 494 6014 killed VBN 
+495 498 6015 one CD 
+499 505 6016 person NN 
+506 509 6017 and CC 
+510 517 6018 wounded VBD 
+518 523 6019 seven CD 
+523 524 6020 . . 

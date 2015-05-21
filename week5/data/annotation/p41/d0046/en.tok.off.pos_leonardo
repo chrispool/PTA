@@ -1,0 +1,100 @@
+0 9 1001 Argentina NNP COU http://en.wikipedia.org/wiki/Argentina
+10 13 1002 and CC 
+14 19 1003 Spain NNP COU http://en.wikipedia.org/wiki/Spain
+20 24 1004 have VBP 
+25 31 1005 agreed VBN 
+32 34 1006 to TO 
+35 41 1007 pursue VB 
+42 43 1008 a DT 
+44 53 1009 strategic JJ 
+54 62 1010 alliance NN 
+63 65 1011 to TO 
+66 76 1012 strengthen VB 
+77 86 1013 political JJ 
+87 90 1014 and CC 
+91 99 1015 economic JJ 
+100 104 1016 ties NNS 
+104 105 1017 . . 
+106 115 2001 Argentine JJ
+116 125 2002 President NNP
+126 132 2003 Nestor NNP PER http://en.wikipedia.org/wiki/N%C3%A9stor_Kirchner
+133 141 2004 Kirchner NNP PER http://en.wikipedia.org/wiki/N%C3%A9stor_Kirchner
+142 145 2005 and CC 
+146 154 2006 visiting VBG 
+155 162 2007 Spanish NNP
+163 168 2008 Prime NNP
+169 177 2009 Minister NNP
+178 182 2010 Jose NNP PER http://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero
+183 187 2011 Luis NNP PER http://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero
+188 197 2012 Rodriguez NNP PER http://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero
+198 206 2013 Zapatero NNP PER http://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero
+207 213 2014 signed VBD 
+214 217 2015 the DT 
+218 227 2016 agreement NN 
+228 235 2017 Tuesday NNP 
+236 238 2018 in IN 
+239 245 2019 Buenos NNP CIT http://en.wikipedia.org/wiki/Buenos_Aires
+246 251 2020 Aires NNP CIT http://en.wikipedia.org/wiki/Buenos_Aires
+251 252 2021 . . 
+253 260 3001 Earlier NNP 
+261 265 3002 this DT 
+266 270 3003 week NN 
+270 271 3004 , , 
+272 275 3005 Mr. NNP
+276 284 3006 Zapatero NNP PER http://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero 
+285 288 3007 met VBD 
+289 293 3008 with IN 
+294 303 3009 Brazilian JJ
+304 313 3010 President NNP
+314 318 3011 Luiz NNP PER http://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva
+319 325 3012 Inacio NNP PER http://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva
+326 330 3013 Lula NNP PER http://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva
+331 333 3014 da NN PER http://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva
+334 339 3015 Silva NNP PER http://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva
+340 342 3016 in IN
+343 351 3017 Brasilia NNP CIT http://en.wikipedia.org/wiki/Bras%C3%ADlia
+351 352 3018 . . 
+353 356 4001 The DT 
+357 360 4002 two CD 
+361 365 4003 said VBD 
+366 370 4004 they PRP 
+371 375 4005 plan VBP 
+376 378 4006 to TO 
+379 389 4007 strengthen VB 
+390 401 4008 cooperation NN 
+402 404 4009 in IN 
+405 411 4010 social JJ 
+412 423 4011 development NN 
+423 424 4012 , , 
+425 437 4013 construction NN 
+438 446 4014 projects NNS 
+447 450 4015 and CC 
+451 456 4016 other JJ 
+457 463 4017 fields NNS 
+463 464 4018 . . 
+469 472 5001 For NNP 
+473 476 5002 the DT 
+477 481 5003 last JJ 
+482 485 5004 leg NN 
+486 488 5005 of IN 
+489 492 5006 his PRP$ 
+493 498 5007 South NNP 
+499 507 5008 American NNP 
+508 512 5009 trip NN 
+512 513 5010 , , 
+514 517 5011 Mr. NNP
+518 526 5012 Zapatero NNP PER http://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero
+527 529 5013 is VBZ 
+530 539 5014 scheduled VBN 
+540 542 5015 to TO 
+543 546 5016 fly RB 
+547 549 5017 to TO 
+550 555 5018 Chile NNP COU http://en.wikipedia.org/wiki/Chile
+556 565 5019 Wednesday NNP  
+566 568 5020 to TO 
+569 573 5021 meet VB 
+574 578 5022 with IN 
+579 588 5023 President NNP
+589 596 5024 Ricardo NNP PER http://en.wikipedia.org/wiki/Ricardo_Lagos
+597 602 5025 Lagos NNP PER http://en.wikipedia.org/wiki/Ricardo_Lagos
+602 603 5026 . . 

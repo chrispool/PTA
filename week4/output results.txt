@@ -1,0 +1,30 @@
+Precision and recall for interesting entities
+For no         P: 0.98 R:0.98 F:0.98
+For yes        P: 0.83 R:0.83 F:0.83
+
+Precision and recall for categories
+For COU        P: 0.84 R:0.93 F:0.88
+For NAT        P: 0.25 R:0.09 F:0.13
+For CIT        P: 0.95 R:0.92 F:0.93
+For PER        P: 0.70 R:0.92 F:0.80
+For NOT        P: 0.98 R:0.98 F:0.98
+For ORG        P: 0.76 R:0.56 F:0.65
+
+ConfusionMatrix
+    |    C    C    E    N    N    O    P |
+    |    I    O    N    A    O    R    E |
+    |    T    U    T    T    T    G    R |
+----+------------------------------------+
+CIT |  <35>   1    .    .    2    .    . |
+COU |    .  <83>   .    .    6    .    . |
+ENT |    .    .   <.>   .    .    .    . |
+NAT |    .    8    .   <1>   2    .    . |
+NOT |    1    7    1    3<1844>  14   21 |
+ORG |    1    .    .    .   33  <44>   . |
+PER |    .    .    .    .    4    .  <49>|
+----+------------------------------------+
+(row = reference; col = test)
+
+We calculated the Precision Recall and F score for interesting entity or not, the results are good. In the categories only the Nature and Organization categories are not so good. That is mainly because 1 judge labeld general organizations like the Human Agencies, army etc as interesting entity and the other judge did not. For the Nature category there were few cases so we didn't agree on a few cases resulting in a low score.
+
+Most difficult cases where the entities that were really general like Human Agencies. Also if cases like Islands, refering to a specific location should be placed under Nature or Location. Also 1 judge placed locations like the Carribean under Country and the other did not label it as a named entity. Also if the 's belonged to the named entity or not was a discussion point.

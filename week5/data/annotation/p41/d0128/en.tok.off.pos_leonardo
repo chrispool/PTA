@@ -1,0 +1,83 @@
+0 5 1001 World NN 
+6 9 1002 oil NN 
+10 16 1003 prices NNS 
+17 25 1004 declined VBD 
+26 31 1005 about IN 
+32 35 1006 two CD 
+36 43 1007 percent NN 
+44 46 1008 in IN 
+47 54 1009 Tuesday NNP 
+54 56 1010 's POS 
+57 64 1011 trading NN 
+65 70 1012 after IN 
+71 78 1013 Chinese JJ COU http://en.wikipedia.org/wiki/China
+79 82 1014 oil NN 
+83 90 1015 imports NNS 
+91 97 1016 slowed VBD 
+98 101 1017 and CC 
+102 103 1018 a DT 
+104 110 1019 report NN 
+111 113 1020 on IN 
+114 117 1021 the DT 
+118 122 1022 U.S. NNP COU http://en.wikipedia.org/wiki/United_States
+123 130 1023 economy NN 
+131 143 1024 disappointed VBD 
+144 153 1025 investors NNS 
+153 154 1026 . . 
+155 157 2001 In IN 
+158 161 2002 New NNP CIT http://en.wikipedia.org/wiki/New_York
+162 166 2003 York NNP CIT http://en.wikipedia.org/wiki/New_York
+167 174 2004 trading NN 
+174 175 2005 , , 
+176 179 2006 the DT 
+180 185 2007 price NN 
+186 188 2008 of IN 
+189 194 2009 crude JJ 
+195 198 2010 oil NN 
+199 203 2011 fell VBD 
+204 208 2012 more JJR 
+209 213 2013 than IN 
+214 215 2014 $ $ 
+215 216 2015 2 CD 
+217 219 2016 to TO 
+220 221 2017 $ $ 
+221 227 2018 79.43. CD 
+228 229 2019 A DT 
+230 236 2020 report NN 
+237 239 2021 on IN 
+240 249 2022 declining VBG 
+250 256 2023 worker NN 
+257 269 2024 productivity NN 
+270 272 2025 in IN 
+273 276 2026 the DT 
+277 283 2027 United NNP COU http://en.wikipedia.org/wiki/United_States
+284 290 2028 States NNPS COU http://en.wikipedia.org/wiki/United_States
+291 299 2029 prompted VBD 
+300 309 2030 investors NNS 
+310 312 2031 to TO 
+313 319 2032 expect VB 
+320 324 2033 less JJR 
+325 331 2034 demand NN 
+332 335 2035 for IN 
+336 342 2036 energy NN 
+342 343 2037 , , 
+344 349 2038 which WDT 
+350 355 2039 would MD 
+356 361 2040 lower JJR 
+362 365 2041 oil NN 
+366 372 2042 prices NNS 
+372 373 2043 . . 
+374 377 3001 The DT 
+378 384 3002 United NNP COU http://en.wikipedia.org/wiki/United_States
+385 391 3003 States NNPS COU http://en.wikipedia.org/wiki/United_States
+392 395 3004 and CC 
+396 401 3005 China NNP COU http://en.wikipedia.org/wiki/China
+402 405 3006 are VBP 
+406 409 3007 the DT 
+410 415 3008 world NN 
+415 417 3009 's POS 
+418 421 3010 two CD 
+422 429 3011 largest JJS 
+430 433 3012 oil NN 
+434 443 3013 consumers NNS 
+443 444 3014 . . 

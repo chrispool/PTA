@@ -1,7 +1,7 @@
 0 11 1001 Authorities NNS 
 12 14 1002 in IN 
 15 21 1003 Indian JJ COU http://en.wikipedia.org/wiki/Jammu_and_Kashmir
-22 29 1004 Kashmir NNP COU http://en.wikipedia.org/wiki/Jammu_and_Kashmir 
+22 29 1004 Kashmir NNP CIT COU http://en.wikipedia.org/wiki/Jammu_and_Kashmir
 30 33 1005 say VBP 
 34 43 1006 militants NNS 
 44 48 1007 have VBP 
@@ -20,7 +20,7 @@
 116 118 1020 of IN 
 119 126 1021 weapons NNS 
 126 127 1022 . . 
-128 134 2001 Police NNP 
+128 134 2001 Police NNP
 135 144 2002 officials NNS 
 145 148 2003 say VBP 
 149 151 2004 at IN 
@@ -40,10 +40,10 @@
 228 230 2018 in IN 
 231 234 2019 the DT 
 235 241 2020 remote NN 
-242 246 2021 Doda NNP CIT http://en.wikipedia.org/wiki/Doda 
+242 246 2021 Doda NNP CIT http://en.wikipedia.org/wiki/Doda
 247 255 2022 district NN 
 255 256 2023 . . 
-257 263 3001 Police NNP 
+257 263 3001 Police NNP ORG http://en.wikipedia.org/wiki/Police
 264 268 3002 gave VBD 
 269 272 3003 few JJ 
 273 280 3004 details NNS 
@@ -67,7 +67,7 @@
 374 377 4014 the DT 
 378 382 4015 raid NN 
 382 383 4016 . . 
-384 391 5001 Kashmir NNP COU http://en.wikipedia.org/wiki/Kashmir 
+384 391 5001 Kashmir NNP COU http://en.wikipedia.org/wiki/Kashmir
 392 394 5002 is VBZ 
 395 397 5003 in IN 
 398 401 5004 the DT 
@@ -92,10 +92,10 @@
 507 510 6006 for IN 
 511 513 6007 an DT 
 514 525 6008 independent JJ 
-526 533 6009 Kashmir NNP COU http://en.wikipedia.org/wiki/Kashmir 
+526 533 6009 Kashmir NNP COU http://en.wikipedia.org/wiki/Kashmir
 534 536 6010 or CC 
 537 540 6011 its PRP$ 
 541 547 6012 merger NN 
 548 552 6013 with IN 
-553 561 6014 Pakistan NNP COU http://en.wikipedia.org/wiki/Pakistan 
+553 561 6014 Pakistan NNP COU http://en.wikipedia.org/wiki/Pakistan
 561 562 6015 . . 

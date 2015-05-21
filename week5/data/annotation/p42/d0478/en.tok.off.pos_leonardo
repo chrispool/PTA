@@ -1,0 +1,80 @@
+0 5 1001 Saudi NNP COU http://en.wikipedia.org/wiki/Saudi_Arabia
+6 12 1002 Arabia NNP COU http://en.wikipedia.org/wiki/Saudi_Arabia
+12 14 1003 's POS COU http://en.wikipedia.org/wiki/Saudi_Arabia
+15 19 1004 King NNP PER http://en.wikipedia.org/wiki/Abdullah_of_Saudi_Arabia
+20 28 1005 Abdullah NNP PER http://en.wikipedia.org/wiki/Abdullah_of_Saudi_Arabia
+29 33 1006 held VBD 
+34 39 1007 talks NNS 
+40 44 1008 with IN 
+45 54 1009 Pakistani NNP
+55 64 1010 President NNP
+65 71 1011 Pervez NNP PER http://en.wikipedia.org/wiki/Pervez_Musharraf
+72 81 1012 Musharraf NNP PER http://en.wikipedia.org/wiki/Pervez_Musharraf
+82 90 1013 Saturday NNP 
+91 93 1014 in IN 
+94 97 1015 the DT 
+98 105 1016 kingdom NN 
+105 106 1017 . . 
+107 115 2001 Official NNP 
+116 121 2002 media NNS 
+122 124 2003 in IN 
+125 130 2004 Saudi NNP COU http://en.wikipedia.org/wiki/Saudi_Arabia
+131 137 2005 Arabia NNP COU http://en.wikipedia.org/wiki/Saudi_Arabia
+138 146 2006 reported VBD 
+147 151 2007 that IN 
+152 155 2008 the DT 
+156 159 2009 two CD 
+160 163 2010 met NN 
+164 166 2011 at IN 
+167 168 2012 a DT 
+169 175 2013 palace NN 
+176 178 2014 in IN 
+179 185 2015 Jeddah NNP CIT http://en.wikipedia.org/wiki/Jeddah
+185 186 2016 . . 
+187 191 3001 News NNP ORG
+192 197 3002 media NNS ORG
+198 201 3003 say VBP 
+202 205 3004 the DT 
+206 213 3005 leaders NNS 
+214 217 3006 and CC 
+218 223 3007 their PRP$ 
+224 235 3008 delegations NNS 
+236 245 3009 discussed VBD 
+246 250 3010 ways NNS 
+251 253 3011 to TO 
+254 261 3012 enhance VB 
+262 273 3013 cooperation NN 
+274 281 3014 between IN 
+282 285 3015 the DT 
+286 289 3016 two CD 
+290 297 3017 nations NNS 
+297 298 3018 . . 
+299 308 4001 According VBG 
+309 311 4002 to TO 
+312 319 4003 reports NNS 
+319 320 4004 , , 
+321 325 4005 King NNP PER http://en.wikipedia.org/wiki/Abdullah_of_Saudi_Arabia
+326 334 4006 Abdullah NNP PER http://en.wikipedia.org/wiki/Abdullah_of_Saudi_Arabia
+335 339 4007 also RB 
+340 344 4008 held VBD 
+345 346 4009 a DT 
+347 352 4010 lunch NN 
+353 358 4011 party NN 
+359 362 4012 for IN 
+363 370 4013 General NNP
+371 380 4014 Musharraf NNP PER http://en.wikipedia.org/wiki/Pervez_Musharraf
+381 384 4015 and CC 
+385 388 4016 his PRP$ 
+389 399 4017 delegation NN 
+399 400 4018 . . 
+401 404 5001 The DT 
+405 414 5002 Pakistani NNP
+415 424 5003 president NN
+425 429 5004 said VBD 
+430 432 5005 he PRP 
+433 436 5006 was VBD 
+437 445 5007 grateful JJ 
+446 449 5008 for IN 
+450 453 5009 the DT 
+454 465 5010 hospitality NN 
+465 466 5011 . . 
