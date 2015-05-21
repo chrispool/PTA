@@ -26,8 +26,7 @@ class Compare():
 						lines = f.read().splitlines()
 						for line in lines:
 								self.judge2.append(line.split())
-		
-	
+			
 
 	def compareJudges(self):
 		judge1 = []
@@ -107,6 +106,13 @@ class Compare():
 				elif len(judge1[i]) > 6 and len(judge2[i]) > 6:
 					if judge1[i][5] == judge2[i][5] and judge1[i][6] == judge2[i][6]:
 						newFile.append(judge1[i])
+					else:
+						print("Judge1 zegt: {} |||||| Judge2 zegt: {}".format(" ".join(judge1[i][3:])," ".join(judge2[i][3:])))
+						inp = input("Judge 1 or 2? ")
+						if inp == '1':
+							newFile.append(judge1[i])
+						else:
+							newFile.append(judge2[i])
 
 				else:
 					print("Judge1 zegt: {} |||||| Judge2 zegt: {}".format(" ".join(judge1[i][3:])," ".join(judge2[i][3:])))
@@ -115,8 +121,9 @@ class Compare():
 						newFile.append(judge1[i])
 					else:
 						newFile.append(judge2[i])
-					
+				print(newFile[-1])
 			#write new file
+			
 			if os.path.isfile(os.path.join(subdir, 'en.tok.off.pos.ent')) :
 				os.remove(os.path.join(subdir, 'en.tok.off.pos.ent'))
 
@@ -125,11 +132,13 @@ class Compare():
 				newRow = "{} \n".format(" ".join(row))
 				f.write(newRow)
 			f.close()
-			print()
+			
 			print("saved file {}".format(subdir +'/en.tok.off.pos.ent'))
 			print()
 		print("Generated Gold standard")
 
-#C = Compare()
-#C.compareJudges()
-C.adjudication()
+C = Compare()
+C.compareJudges()
+#C.adjudication() Function to create gold standard
+
+
