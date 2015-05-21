@@ -60,7 +60,8 @@ class Disambiguation():
 					lemma = self.lemmatizer.lemmatize(tag[0], wordnet.NOUN)
 					synsets = wordnet.synsets(self.lemmatizer.lemmatize(tag[0], wordnet.NOUN), pos="n")
 					if len(synsets) > 1:
-						sent = rawText[i-10:i+10]	
+						sent = rawText[i-10:i+10]
+							
 						pos = "n"
 						print()
 						print("Results for {}".format(lemma))
