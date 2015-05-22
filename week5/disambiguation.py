@@ -4,12 +4,12 @@ from nltk.stem.wordnet import WordNetLemmatizer
 from nltk import word_tokenize, pos_tag
 import os
 from nltk.wsd import lesk
-
+import re
 
 class Disambiguation():
 
 	def __init__(self):
-		#self.getData() Maar 1x nodig
+		'''self.getData() #Maar 1x nodig'''
 		self.lemmatizer = WordNetLemmatizer()
 		self.findNouns()
 
@@ -38,7 +38,14 @@ class Disambiguation():
 		for fn in os.listdir('data/wiki'):	
 			f = open("data/wiki/" + fn, 'rb')
 			content = f.read()
+			
+			#clean up page (remove strange chars)
 			content = str(content).replace("\\n", "")
+			content = re.sub('[\[0-9*\]]', '', content)
+			content = content.replace("\\'s", "'s");
+			fromC = content[5:].find("'")
+			content = content[fromC:]
+			
 			tokens = word_tokenize(content)
 			
 			posTag = pos_tag(tokens)
@@ -60,24 +67,19 @@ class Disambiguation():
 					lemma = self.lemmatizer.lemmatize(tag[0], wordnet.NOUN)
 					synsets = wordnet.synsets(self.lemmatizer.lemmatize(tag[0], wordnet.NOUN), pos="n")
 					if len(synsets) > 1:
-						sent = rawText[i-10:i+10]
-							
+						sent = rawText[i-100:i+100]
+
 						pos = "n"
 						print()
 						print("Results for {}".format(lemma))
-						print(lemma, " ".join(rawText[i-20:i+100]))
+						print(" ".join(rawText[i-20:i+20]))
 						print(lesk(sent, lemma, pos))
 						print("All possible senses:")
 						for ss in wordnet.synsets(lemma, pos):
 							print(ss, ss.definition())
 						print()
-						'''
-						print()
-						print(lemma)
-						for synset in synsets:
-							print(synset, synset.definition())
-						print()
-						'''
+
+			
 
 
 	def getSynset(self,word):		
