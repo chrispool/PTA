@@ -1,0 +1,121 @@
+
+We used WikiPedia data
+
+
+1. what is the proportion of polysemous words per document?
+
+1128 words per document
+
+2. did all documents contain at least one polysemous word?
+No, 7 documents did not have a polysemous word
+
+3. what is the average number of senses for the polysemous words you found?
+5 senses for each word
+
+4. for each number of different senses found, please list the number of words that have them (for example: 3 words showed 5 senses, 10 words showed 4 senses, and so on)
+
+2 29712
+3 19961
+4 15709
+5 12798
+6 8002
+7 6940
+8 6087
+9 4485
+11 3504
+10 2953
+12 1927
+14 592
+16 545
+15 540
+13 328
+18 239
+20 164
+17 162
+30 155
+26 135
+33 125
+23 1
+
+
+5. pick five to ten cases randomly:
+• are they correct? if so, why do you think it works?
+• are they wrong? if so, why do you think it doesn’t work?
+on this, you can also comment regarding the extension of the context you chose to use.
+
+Results for Washington
+expression of the prominent stance of President Mubarak in the Palestinian issue , his unique role in leading it before Washington or any other . `` Mohammad Hassanein Haykal was the long-term editor-in-chief of Al Ahram . He served in
+Synset('washington.n.01')
+All possible senses:
+Synset('washington.n.01') the capital of the United States in the District of Columbia and a tourist mecca; George Washington commissioned Charles L'Enfant to lay out the city in 1791
+Synset('washington.n.02') a state in northwestern United States on the Pacific
+Synset('capital.n.06') the federal government of the United States
+Synset('washington.n.04') 1st President of the United States; commander-in-chief of the Continental Army during the American Revolution (1732-1799)
+Synset('washington.n.05') United States educator who was born a slave but became educated and founded a college at Tuskegee in Alabama (1856-1915)
+
+This one is false. They refer to the government. 
+
+
+Results for President
+process : `` The expressionist photo is ... a brief , live and true expression of the prominent stance of President Mubarak in the Palestinian issue , his unique role in leading it before Washington or any other . ``
+Synset('president_of_the_united_states.n.02')
+All possible senses:
+Synset('president.n.01') an executive officer of a firm or corporation
+Synset('president_of_the_united_states.n.01') the person who holds the office of head of state of the United States government
+Synset('president.n.03') the chief executive of a republic
+Synset('president.n.04') the officer who presides at the meetings of an organization
+Synset('president.n.05') the head administrative officer of a college or university
+Synset('president_of_the_united_states.n.02') the office of the United States head of state
+
+false, it is not the president of the US. Its probabily because of Washington in the text.
+
+Results for peace
+editor-in-chief , defended the altered photo , stating that it was meant to underscore Egypt 's leading role in the peace process : `` The expressionist photo is ... a brief , live and true expression of the prominent stance
+Synset('peace.n.03')
+All possible senses:
+Synset('peace.n.01') the state prevailing during the absence of war
+Synset('peace.n.02') harmonious relations; freedom from disputes
+Synset('peace.n.03') the absence of mental stress or anxiety
+Synset('peace.n.04') the general security of public places
+Synset('peace.n.05') a treaty to cease hostilities
+
+false, it refers to peace.n.01 
+
+
+Results for magazine
+the Mubarak regime . In an interview with Reporters Without Borders , Abdel Halim Qandil , editor of the weekly magazine Al-Arabi , said that the government interfered with independent operation of Al-Ahram by controlling the printing presses and appointing
+Synset('magazine.n.04')
+All possible senses:
+Synset('magazine.n.01') a periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it
+Synset('magazine.n.02') product consisting of a paperback periodic publication as a physical object
+Synset('magazine.n.03') a business firm that publishes magazines
+Synset('magazine.n.04') a light-tight supply chamber holding the film and supplying it for exposure as required
+Synset('magazine.n.05') a storehouse (as a compartment on a warship) where weapons and ammunition are stored
+Synset('cartridge_holder.n.01') a metal frame or container holding cartridges; can be inserted into an automatic gun
+
+false, it should refer to a paper magazine
+
+Results for Party
+Egypt , reported that editorials in many newspapers , including Al-Ahram , had become increasingly critical of the National Democratic Party 's control of the government , and the corruption of the Mubarak regime . In an interview with Reporters
+Synset('party.n.04')
+All possible senses:
+Synset('party.n.01') an organization to gain political power
+Synset('party.n.02') a group of people gathered together for pleasure
+Synset('party.n.03') a band of people associated temporarily in some activity
+Synset('party.n.04') an occasion on which people can assemble for social interaction and entertainment
+Synset('party.n.05') a person involved in legal proceedings
+
+Partly correct, sysnet 1 is probably  better.
+
+6. did it happen that the same word was assigned a different sense in the same text? do you think it can depend on the extension of the context you decide to use? if so, why?
+
+Yes, when we tried to use more text as context then only the sentence the results improved. 
+
+
+7. does what you can observe from the above correspond to what you were expecting?
+
+Yes, in most cases we thought the Nouns where disambiguate and that was the case
+
+8. how do you think you could use disambiguation in your Wikification project? You can add a reflection on varying context size in case you tried it or just thinking about it.
+
+We could use the same code to find the nouns that we have to check if they are disambigious. 

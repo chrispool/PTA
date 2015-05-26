@@ -5,7 +5,7 @@ from nltk import word_tokenize, pos_tag
 import os
 from nltk.wsd import lesk
 import re
-
+from collections import Counter
 class Disambiguation():
 
 	def __init__(self):
@@ -35,7 +35,14 @@ class Disambiguation():
 		print("Wiki files generated")
 
 	def findNouns(self):
+		counterWords = Counter()
+		cTotal = []
+		docs = 0
+		cSynsets = 0
+		nSynsets = 0
 		for fn in os.listdir('data/wiki'):	
+			c = 0
+			docs += 1
 			f = open("data/wiki/" + fn, 'rb')
 			content = f.read()
 			
@@ -67,8 +74,12 @@ class Disambiguation():
 					lemma = self.lemmatizer.lemmatize(tag[0], wordnet.NOUN)
 					synsets = wordnet.synsets(self.lemmatizer.lemmatize(tag[0], wordnet.NOUN), pos="n")
 					if len(synsets) > 1:
+						counterWords[len(synsets)] += 1
+						nSynsets += 1
+						cSynsets += len(synsets)
+						c += 1
 						sent = rawText[i-100:i+100]
-
+						
 						pos = "n"
 						print()
 						print("Results for {}".format(lemma))
@@ -78,13 +89,13 @@ class Disambiguation():
 						for ss in wordnet.synsets(lemma, pos):
 							print(ss, ss.definition())
 						print()
-
-			
-
-
-	def getSynset(self,word):		
-		for ss in wordnet.synsets(word, "n"):
-			print(ss, ss.definition())
+						
+			cTotal.append(c)
+			print("file done")
+		print("Total number of p words {}, portion per document {}, n of docs without p {} avg. synsets per synset {} ".format(sum(cTotal), sum(cTotal) / docs, cTotal.count(0), cSynsets/nSynsets  ))
+		for w, n in counterWords.most_common():
+			print(w, n)
+	
 
 
 
