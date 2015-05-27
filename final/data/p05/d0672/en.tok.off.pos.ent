@@ -1,0 +1,100 @@
+0 7 1001 Turkish JJ
+8 19 1002 authorities NNS
+20 23 1003 say VBP
+24 30 1004 troops NNS
+31 37 1005 killed VBN
+38 40 1006 10 CD
+41 48 1007 Kurdish NNP
+49 55 1008 rebels NNS
+56 58 1009 in IN
+59 62 1010 two CD
+63 73 1011 operations NNS
+74 79 1012 since IN
+80 86 1013 Monday NNP
+86 87 1014 . .
+88 91 2001 The DT
+92 101 2002 officials NNS
+102 105 2003 say VBP
+106 111 2004 seven CD
+112 118 2005 rebels NNS
+119 123 2006 were VBD
+124 130 2007 killed VBN
+131 133 2008 in IN
+134 142 2009 fighting NN
+143 147 2010 with IN
+148 156 2011 soldiers NNS
+157 159 2012 in IN
+160 165 2013 Siirt NNP NAT http://en.wikipedia.org/wiki/Siirt
+166 174 2014 province NN
+174 175 2015 . .
+177 182 3001 Three CD
+183 188 3002 other JJ
+189 195 3003 rebels NNS
+196 200 3004 were VBD
+201 205 3005 shot VBN
+206 209 3006 and CC
+210 216 3007 killed VBD
+217 219 3008 in IN
+220 223 3009 Van NNP NAT http://en.wikipedia.org/wiki/Van_Province
+224 232 3010 province NN
+232 233 3011 . .
+235 246 4001 Authorities NNS
+247 254 4002 believe VBP
+255 258 4003 the DT
+259 264 4004 three CD
+265 272 4005 entered VBN
+273 276 4006 the DT
+277 281 4007 area NN
+282 286 4008 from IN
+287 291 4009 Iran NNP COU http://en.wikipedia.org/wiki/Iran
+291 292 4010 . .
+293 299 5001 Turkey NNP COU http://en.wikipedia.org/wiki/Turkey
+299 301 5002 's POS
+302 310 5003 military JJ
+311 314 5004 has VBZ
+315 323 5005 recently RB
+324 335 5006 intensified VBN
+336 346 5007 operations NNS
+347 354 5008 against IN
+355 358 5009 the DT
+359 369 5010 separatist NN
+370 379 5011 Kurdistan NNP ORG http://en.wikipedia.org/wiki/Kurdistan_Workers%27_Party
+380 387 5012 Workers NNP ORG http://en.wikipedia.org/wiki/Kurdistan_Workers%27_Party
+388 393 5013 Party NNP ORG http://en.wikipedia.org/wiki/Kurdistan_Workers%27_Party
+394 395 5014 ( NNP
+395 398 5015 PKK NNP ORG http://en.wikipedia.org/wiki/Kurdistan_Workers%27_Party
+398 399 5016 ) NNP
+399 400 5017 . .
+401 404 6001 The DT
+405 408 6002 PKK NNP ORG http://en.wikipedia.org/wiki/Kurdistan_Workers%27_Party
+409 412 6003 has VBZ
+413 417 6004 been VBN
+418 426 6005 fighting VBG
+427 430 6006 for IN
+431 439 6007 autonomy NN
+440 442 6008 in IN
+443 449 6009 Turkey NNP COU http://en.wikipedia.org/wiki/Turkey
+449 451 6010 's POS
+452 458 6011 mainly RB
+459 466 6012 Kurdish JJ
+467 476 6013 southeast NN
+477 482 6014 since IN
+483 487 6015 1984 CD
+487 488 6016 . .
+490 493 7001 The DT
+494 500 7002 United NNP COU http://en.wikipedia.org/wiki/United_States
+501 507 7003 States NNPS COU http://en.wikipedia.org/wiki/United_States
+507 508 7004 , ,
+509 512 7005 the DT
+513 521 7006 European NNP ORG http://en.wikipedia.org/wiki/European_Union
+522 527 7007 Union NNP ORG http://en.wikipedia.org/wiki/European_Union
+528 531 7008 and CC
+532 538 7009 Turkey NNP COU http://en.wikipedia.org/wiki/Turkey
+539 547 7010 classify NN
+548 551 7011 the DT
+552 555 7012 PKK NNP ORG http://en.wikipedia.org/wiki/Kurdistan_Workers%27_Party
+556 558 7013 as IN
+559 560 7014 a DT
+561 570 7015 terrorist NN
+571 576 7016 group NN
+576 577 7017 . .

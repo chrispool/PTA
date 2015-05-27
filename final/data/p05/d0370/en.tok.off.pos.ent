@@ -1,0 +1,94 @@
+0 6 1001 Police NNP ORG http://en.wikipedia.org/wiki/Police
+7 11 1002 have VBP
+12 18 1003 broken VBN
+19 21 1004 up RP
+22 23 1005 a DT
+24 35 1006 Europe-wide JJ
+36 41 1007 child NN
+42 53 1008 trafficking NN
+54 58 1009 ring VBG
+59 68 1010 involving VBG
+69 75 1011 mostly RB
+76 85 1012 Bulgarian JJ
+86 94 1013 children NNS
+95 102 1014 trained VBN
+103 105 1015 in IN
+106 111 1016 petty NN
+112 117 1017 crime NN
+117 118 1018 . .
+119 126 2001 Italian JJ
+127 133 2002 police NN ORG http://en.wikipedia.org/wiki/Police
+134 137 2003 led VBN
+138 141 2004 the DT
+142 151 2005 operation NN
+151 152 2006 , ,
+153 162 2007 arresting VBG
+163 165 2008 41 CD
+166 175 2009 Bulgarian JJ
+176 185 2010 nationals NNS
+186 188 2011 in IN
+189 194 2012 Italy NNP COU http://en.wikipedia.org/wiki/Italy
+194 195 2013 , ,
+196 204 2014 Bulgaria NNP COU http://en.wikipedia.org/wiki/Bulgaria
+204 205 2015 , ,
+206 213 2016 Austria NNP COU http://en.wikipedia.org/wiki/Austria
+213 214 2017 , ,
+215 218 2018 and CC
+219 226 2019 Germany NNP COU http://en.wikipedia.org/wiki/Germany
+226 227 2020 . .
+228 241 3001 Investigators NNP
+242 246 3002 said VBD
+247 253 3003 Monday NNP
+254 266 3004 impoverished VBD
+267 276 3005 Bulgarian NNP
+277 285 3006 families NNS
+286 290 3007 sold VBD
+291 295 3008 more JJR
+296 300 3009 than IN
+301 304 3010 100 CD
+305 313 3011 children NNS
+314 316 3012 to TO
+317 320 3013 the DT
+321 332 3014 traffickers NNS
+333 336 3015 who WP
+337 341 3016 then RB
+342 350 3017 smuggled VBD
+351 355 3018 them PRP
+356 362 3019 across IN
+363 369 3020 Europe NNP NAT http://en.wikipedia.org/wiki/Europe
+370 372 3021 to TO
+373 378 3022 carry VB
+379 382 3023 out RP
+383 387 3024 such JJ
+388 393 3025 petty NN
+394 400 3026 crimes VBZ
+401 403 3027 as IN
+404 411 3028 picking VBG
+412 419 3029 pockets NNS
+419 420 3030 . .
+421 424 4001 The DT
+425 438 4002 investigators NNS
+439 443 4003 said VBD
+444 447 4004 the DT
+448 456 4005 suspects NNS
+457 463 4006 shared VBD
+464 468 4007 some DT
+469 471 4008 of IN
+472 475 4009 the DT
+476 482 4010 stolen NN
+483 488 4011 money NN
+489 493 4012 with IN
+494 497 4013 the DT
+498 505 4014 parents NNS
+505 506 4015 . .
+507 513 5001 Police NNP ORG http://en.wikipedia.org/wiki/Police
+514 518 5002 also RB
+519 523 5003 said VBD
+524 528 5004 some DT
+529 531 5005 of IN
+532 535 5006 the DT
+536 544 5007 children NNS
+545 549 5008 were VBD
+550 558 5009 sexually RB
+559 565 5010 abused VBN
+565 566 5011 . .
