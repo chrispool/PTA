@@ -1,9 +1,8 @@
-trainFile = trainData.txt
+trainFile = traindata_processed.txt
 serializeTo = wikification.ser.gz
+m# structure of your training file; this tells the classifier that
+# the word is in column 0 and the correct answer is in column 1
 map = word=0,answer=1
-
-
-saveFeatureIndexToDisk = true
 
 useTitle = true
 useClassFeature=true
@@ -36,9 +35,6 @@ useDisjunctive=true
 disjunctionWidth=4
 #useDisjunctiveShapeInteraction=true
 
-type=crf
-
-readerAndWriter=edu.stanford.nlp.sequences.ColumnDocumentReaderAndWriter
 
 useObservedSequencesOnly=true
 

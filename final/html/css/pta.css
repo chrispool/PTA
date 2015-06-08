@@ -1,0 +1,50 @@
+#text {
+	margin-top: 70px;
+
+}
+
+a {
+	color:#ccc;
+}
+
+.COU {
+	font-weight: bold;
+	background-color: red;
+}
+
+.CIT {
+	font-weight: bold;
+	background-color: green;
+}
+
+.NAT {
+	font-weight: bold;
+	background-color: yellow;
+}
+
+.PER {
+	font-weight: bold;
+	background-color: orange;
+}
+
+.ORG {
+	font-weight: bold;
+	background-color: purple;
+}
+
+.ANI {
+	font-weight: bold;
+	background-color: #ccc;
+}
+
+.SPO {
+	font-weight: bold;
+	background-color: #fae;
+}
+
+.ENT {
+	font-weight: bold;
+	background-color: black;
+}
+
+	

@@ -1,0 +1,574 @@
+g7.2 0 9 1001 President NNP PER http://en.wikipedia.org/wiki/George_W._Bush
+g7.2 10 14 1002 Bush NNP PER http://en.wikipedia.org/wiki/George_W._Bush
+g7.2 15 19 1003 said VBD
+g7.2 20 27 1004 nations NNS
+g7.2 28 34 1005 around IN
+g7.2 35 38 1006 the DT
+g7.2 39 44 1007 world NN
+g7.2 45 49 1008 need VBP
+g7.2 50 52 1009 to TO
+g7.2 53 58 1010 stand VB
+g7.2 59 63 1011 with IN
+g7.2 64 72 1012 moderate JJ
+g7.2 73 82 1013 reformers NNS
+g7.2 83 85 1014 in IN
+g7.2 86 89 1015 the DT
+g7.2 90 96 1016 MIddle NNP 
+g7.2 97 101 1017 East NNP 
+g7.2 101 102 1018 . .
+g7.2 103 105 2001 He PRP
+g7.2 106 110 2002 said VBD
+g7.2 111 114 2003 the DT
+g7.2 115 120 2004 world NN
+g7.2 121 125 2005 must MD
+g7.2 126 130 2006 seek VB
+g7.2 131 140 2007 stability NN
+g7.2 141 143 2008 in IN
+g7.2 144 147 2009 the DT
+g7.2 148 154 2010 region NN
+g7.2 155 162 2011 through IN
+g7.2 163 166 2012 the DT
+g7.2 167 180 2013 establishment NN
+g7.2 181 183 2014 of IN
+g7.2 184 188 2015 free JJ
+g7.2 189 192 2016 and CC
+g7.2 193 197 2017 just RB
+g7.2 198 207 2018 societies NNS
+g7.2 207 208 2019 . .
+g7.2 209 212 3001 Mr. NNP PER http://en.wikipedia.org/wiki/George_W._Bush
+g7.2 213 217 3002 Bush NNP PER http://en.wikipedia.org/wiki/George_W._Bush
+g7.2 218 222 3003 also RB
+g7.2 223 230 3004 pledged VBD
+g7.2 231 233 3005 to TO
+g7.2 234 242 3006 continue VB
+g7.2 243 245 3007 to TO
+g7.2 246 253 3008 support VB
+g7.2 254 257 3009 the DT
+g7.2 258 268 3010 government NN ORG http://en.wikipedia.org/wiki/Federal_government_of_Iraq
+g7.2 269 271 3011 of IN
+g7.2 272 276 3012 Iraq NNP COU http://en.wikipedia.org/wiki/Iraq
+g7.2 277 279 3013 in IN
+g7.2 280 283 3014 its PRP$
+g7.2 284 292 3015 struggle NN
+g7.2 293 297 3016 with IN
+g7.2 298 308 3017 terrorists NNS
+g7.2 308 309 3018 . .
+g7.2 310 312 4001 In IN
+g7.2 313 321 4002 addition NN
+g7.2 321 322 4003 , ,
+g7.2 323 326 4004 the DT PER http://en.wikipedia.org/wiki/George_W._Bush
+g7.2 327 336 4005 president NN PER http://en.wikipedia.org/wiki/George_W._Bush
+g7.2 337 341 4006 said VBD
+g7.2 342 346 4007 Iran NNP COU http://en.wikipedia.org/wiki/Iran
+g7.2 347 351 4008 must MD
+g7.2 352 359 4009 abandon VB
+g7.2 360 364 4010 what WP
+g7.2 365 367 4011 he PRP
+g7.2 368 374 4012 called VBD
+g7.2 375 378 4013 its PRP$
+g7.2 379 387 4014 ambition NN
+g7.2 388 391 4015 for IN
+g7.2 392 399 4016 nuclear JJ
+g7.2 400 407 4017 weapons NNS
+g7.2 407 408 4018 . .
+g7.2 409 411 5001 He PRP
+g7.2 412 416 5002 said VBD
+g7.2 417 420 5003 the DT COU
+g7.2 421 427 5004 United NNP COU http://en.wikipedia.org/wiki/United_States
+g7.2 428 434 5005 States NNPS COU http://en.wikipedia.org/wiki/United_States
+g7.2 435 437 5006 is VBZ
+g7.2 438 445 5007 working VBG
+g7.2 446 449 5008 for IN
+g7.2 450 451 5009 a DT
+g7.2 452 462 5010 diplomatic JJ
+g7.2 463 471 5011 solution NN
+g7.2 472 474 5012 to TO
+g7.2 475 478 5013 the DT
+g7.2 479 484 5014 issue NN
+g7.2 484 485 5015 , ,
+g7.2 486 489 5016 and CC
+g7.2 490 494 5017 said VBD
+g7.2 495 498 5018 the DT
+g7.2 499 503 5019 U.S. NNP COU http://en.wikipedia.org/wiki/United_States
+g7.2 504 508 5020 does VBZ
+g7.2 509 512 5021 not RB
+g7.2 513 519 5022 oppose VB
+g7.2 520 521 5023 a DT
+g7.2 522 527 5024 truly RB
+g7.2 528 536 5025 peaceful JJ
+g7.2 537 544 5026 nuclear JJ
+g7.2 545 552 5027 program NN
+g7.2 553 556 5028 for IN
+g7.2 557 561 5029 Iran NNP COU http://en.wikipedia.org/wiki/Iran
+g7.2 561 562 5030 . .
+g3.1 0 2 1001 An DT 
+g3.1 3 10 1002 attempt NN
+g3.1 11 13 1003 to TO
+g3.1 14 21 1004 address VB
+g3.1 22 29 1005 America NNP COU https://en.wikipedia.org/wiki/United_States
+g3.1 29 31 1006 's POS
+g3.1 32 38 1007 weight NN
+g3.1 39 46 1008 problem NN
+g3.1 47 50 1009 has VBZ
+g3.1 51 54 1010 run VBN
+g3.1 55 59 1011 into IN
+g3.1 60 67 1012 trouble NN
+g3.1 68 70 1013 in IN 
+g3.1 71 74 1014 New NNP CIT https://en.wikipedia.org/wiki/New_York
+g3.1 75 79 1015 York NNP CIT https://en.wikipedia.org/wiki/New_York
+g3.1 79 80 1016 . .
+g3.1 81 87 2001 Health NNP ORG https://en.wikipedia.org/wiki/United_States_Public_Health_Service
+g3.1 88 97 2002 officials NNS ORG https://en.wikipedia.org/wiki/United_States_Public_Health_Service
+g3.1 98 101 2003 are VBP
+g3.1 102 108 2004 trying VBG
+g3.1 109 111 2005 to TO
+g3.1 112 120 2006 increase VB
+g3.1 121 124 2007 the DT
+g3.1 125 129 2008 city NN 
+g3.1 129 131 2009 's POS
+g3.1 132 143 2010 consumption NN
+g3.1 144 146 2011 of IN
+g3.1 147 153 2012 fruits NNS
+g3.1 154 157 2013 and CC
+g3.1 158 168 2014 vegetables NNS
+g3.1 168 169 2015 , ,
+g3.1 170 180 2016 especially RB
+g3.1 181 183 2017 in IN
+g3.1 184 188 2018 less JJR
+g3.1 189 197 2019 affluent NN
+g3.1 198 211 2020 neighborhoods NNS
+g3.1 212 217 2021 where WRB
+g3.1 218 225 2022 obesity NN
+g3.1 226 231 2023 rates NNS
+g3.1 232 235 2024 are VBP
+g3.1 236 242 2025 higher JJR
+g3.1 242 243 2026 . .
+g3.1 244 249 3001 Given NNP
+g3.1 250 254 3002 that IN
+g3.1 255 259 3003 more JJR
+g3.1 260 264 3004 than IN
+g3.1 265 269 3005 half PDT
+g3.1 270 272 3006 of IN
+g3.1 273 276 3007 New NNP CIT https://en.wikipedia.org/wiki/New_York
+g3.1 277 281 3008 York NNP CIT https://en.wikipedia.org/wiki/New_York
+g3.1 282 288 3009 adults NNS
+g3.1 289 292 3010 are VBP
+g3.1 293 303 3011 overweight VBN
+g3.1 304 306 3012 or CC
+g3.1 307 312 3013 obese JJ
+g3.1 313 314 3014 - :
+g3.1 315 318 3015 and CC
+g3.1 319 321 3016 an DT
+g3.1 322 331 3017 estimated VBN
+g3.1 332 339 3018 700,000 CD
+g3.1 340 346 3019 suffer NN
+g3.1 347 351 3020 from IN
+g3.1 352 360 3021 diabetes NNS
+g3.1 361 362 3022 - :
+g3.1 363 366 3023 the DT
+g3.1 367 375 3024 argument NN
+g3.1 376 378 3025 is VBZ
+g3.1 379 382 3026 not RB
+g3.1 383 387 3027 over IN
+g3.1 388 391 3028 the DT
+g3.1 392 396 3029 need NN
+g3.1 397 400 3030 for IN
+g3.1 401 407 3031 action NN
+g3.1 407 408 3032 . .
+g3.1 409 416 4001 Instead NNP
+g3.1 416 417 4002 , ,
+g3.1 418 421 4003 the DT
+g3.1 422 427 4004 issue NN
+g3.1 428 430 4005 is VBZ
+g3.1 431 434 4006 the DT
+g3.1 435 438 4007 way NN
+g3.1 439 442 4008 the DT
+g3.1 443 447 4009 city NN
+g3.1 448 451 4010 has VBZ
+g3.1 452 456 4011 gone VBN
+g3.1 457 462 4012 about IN
+g3.1 463 465 4013 it PRP
+g3.1 465 466 4014 . .
+g3.1 467 472 5001 Paige NNP PER https://en.wikipedia.org/wiki/Paige_Kollock
+g3.1 473 480 5002 Kollock NNP PER https://en.wikipedia.org/wiki/Paige_Kollock
+g3.1 481 484 5003 has VBZ 
+g3.1 485 489 5004 more JJR 
+g3.1 489 490 5005 . .
+g4.9 0 6 1001 Police NNP
+g4.9 7 9 1002 in IN
+g4.9 10 13 1003 Sri NNP COU http://en.wikipedia.org/wiki/Sri_Lanka
+g4.9 14 19 1004 Lanka NNP COU http://en.wikipedia.org/wiki/Sri_Lanka
+g4.9 20 23 1005 say VBP
+g4.9 24 27 1006 300 CD
+g4.9 28 37 1007 prisoners NNS
+g4.9 38 42 1008 took VBD
+g4.9 43 52 1009 advantage NN
+g4.9 53 55 1010 of IN
+g4.9 56 62 1011 Sunday NNP
+g4.9 62 64 1012 's VBZ
+g4.9 65 72 1013 massive JJ
+g4.9 73 83 1014 earthquake NN
+g4.9 84 86 1015 to TO
+g4.9 87 91 1016 make VB
+g4.9 92 97 1017 their PRP$
+g4.9 98 104 1018 escape NN
+g4.9 105 109 1019 from IN
+g4.9 110 111 1020 a DT
+g4.9 112 125 1021 high-security NN
+g4.9 126 130 1022 jail NN
+g4.9 130 131 1023 . .
+g4.9 132 143 2001 Authorities NNS
+g4.9 144 147 2002 say VBP
+g4.9 148 151 2003 the DT
+g4.9 152 159 2004 inmates NNS
+g4.9 160 164 2005 fled VBD
+g4.9 165 170 2006 after IN
+g4.9 171 172 2007 a DT
+g4.9 173 178 2008 tidal NN
+g4.9 179 183 2009 wave NN
+g4.9 184 190 2010 caused VBD
+g4.9 191 193 2011 by IN
+g4.9 194 197 2012 the DT
+g4.9 198 203 2013 quake NN
+g4.9 204 213 2014 destroyed VBD
+g4.9 214 219 2015 their PRP$
+g4.9 220 226 2016 prison NN
+g4.9 226 227 2017 , ,
+g4.9 228 229 2018 a DT
+g4.9 230 234 2019 16th JJ
+g4.9 235 242 2020 century NN
+g4.9 243 254 2021 Dutch-built JJ
+g4.9 255 259 2022 fort NN
+g4.9 260 262 2023 in IN
+g4.9 263 264 2024 a DT
+g4.9 265 273 2025 southern NN
+g4.9 274 281 2026 coastal JJ
+g4.9 282 286 2027 town NN
+g4.9 287 293 2028 Matara NNP CIT https://en.wikipedia.org/wiki/Matara,_Sri_Lanka
+g4.9 293 294 2029 . .
+g4.9 295 302 3001 Reuters NNP ORG http://en.wikipedia.org/wiki/Reuters
+g4.9 303 307 3002 news NN
+g4.9 308 314 3003 agency NN
+g4.9 315 322 3004 reports NNS
+g4.9 323 324 3005 a DT
+g4.9 325 332 3006 similar JJ
+g4.9 333 339 3007 prison NN
+g4.9 340 345 3008 break NN
+g4.9 346 348 3009 in IN
+g4.9 349 358 3010 Indonesia NNP COU http://en.wikipedia.org/wiki/Indonesia
+g4.9 358 360 3011 's VBZ
+g4.9 361 365 3012 Aceh NNP COU http://en.wikipedia.org/wiki/Aceh
+g4.9 366 374 3013 province NN COU http://en.wikipedia.org/wiki/Aceh
+g4.9 374 375 3014 . .
+g4.9 376 382 4001 Police NNP
+g4.9 383 388 4002 there EX
+g4.9 389 392 4003 say VBP
+g4.9 393 396 4004 200 CD
+g4.9 397 406 4005 prisoners NNS
+g4.9 407 411 4006 fled VBD
+g4.9 412 417 4007 after IN
+g4.9 418 419 4008 a DT
+g4.9 420 427 4009 tsunami NN
+g4.9 428 437 4010 destroyed VBD
+g4.9 438 441 4011 the DT
+g4.9 442 447 4012 walls NNS
+g4.9 448 450 4013 of IN
+g4.9 451 454 4014 the DT
+g4.9 455 463 4015 facility NN
+g4.9 463 464 4016 . .
+g10.9 0 5 1001 First NNP
+g10.9 6 16 1002 discovered VBD
+g10.9 17 19 1003 by IN
+g10.9 20 23 1004 the DT
+g10.9 24 34 1005 Norwegians NNPS
+g10.9 35 37 1006 in IN
+g10.9 38 41 1007 the DT
+g10.9 42 46 1008 12th JJ
+g10.9 47 54 1009 century NN
+g10.9 54 55 1010 , ,
+g10.9 56 59 1011 the DT NAT 
+g10.9 60 67 1012 islands NNS NAT
+g10.9 68 74 1013 served VBD
+g10.9 75 77 1014 as IN
+g10.9 78 80 1015 an DT
+g10.9 81 94 1016 international JJ
+g10.9 95 102 1017 whaling NN
+g10.9 103 107 1018 base NN
+g10.9 108 114 1019 during IN
+g10.9 115 118 1020 the DT
+g10.9 119 123 1021 17th JJ
+g10.9 124 127 1022 and CC
+g10.9 128 132 1023 18th JJ
+g10.9 133 142 1024 centuries NNS
+g10.9 142 143 1025 . .
+g10.9 144 150 2001 Norway NNP COU http://en.wikipedia.org/wiki/Norway
+g10.9 150 152 2002 's POS
+g10.9 153 164 2003 sovereignty NN
+g10.9 165 168 2004 was VBD
+g10.9 169 179 2005 recognized VBN
+g10.9 180 182 2006 in IN
+g10.9 183 187 2007 1920 CD
+g10.9 187 188 2008 ; :
+g10.9 189 193 2009 five CD
+g10.9 194 199 2010 years NNS
+g10.9 200 205 2011 later RBR
+g10.9 206 208 2012 it PRP
+g10.9 209 219 2013 officially RB
+g10.9 220 224 2014 took VBD
+g10.9 225 229 2015 over IN
+g10.9 230 233 2016 the DT
+g10.9 234 243 2017 territory NN
+g10.9 243 244 2018 . .
+g14.1 0 6 1001 Brazil NNP COU http://en.wikipedia.org/wiki/Brazil
+g14.1 7 10 1002 and CC
+g14.1 11 20 1003 Argentina NNP COU http://en.wikipedia.org/wiki/Argentina
+g14.1 21 25 1004 have VBP
+g14.1 26 35 1005 announced VBN
+g14.1 36 40 1006 they PRP
+g14.1 41 45 1007 will MD
+g14.1 46 51 1008 build VB
+g14.1 52 53 1009 a DT
+g14.1 54 68 1010 pharmaceutical JJ
+g14.1 69 74 1011 plant NN
+g14.1 75 77 1012 to TO
+g14.1 78 85 1013 produce VB
+g14.1 86 90 1014 AIDS NNP
+g14.1 91 96 1015 drugs NNS
+g14.1 97 100 1016 and CC
+g14.1 101 106 1017 other JJ
+g14.1 107 118 1018 medications NNS
+g14.1 118 119 1019 . .
+g14.1 120 129 2001 Argentine JJ COU http://en.wikipedia.org/wiki/Argentina
+g14.1 130 139 2002 officials NNS 
+g14.1 140 144 2003 made VBN
+g14.1 145 148 2004 the DT
+g14.1 149 161 2005 announcement NN
+g14.1 162 171 2006 Wednesday NNP
+g14.1 172 174 2007 in IN
+g14.1 175 178 2008 the DT
+g14.1 179 188 2009 Argentine NNP CIT http://en.wikipedia.org/wiki/Buenos_Aires
+g14.1 189 196 2010 capital NN CIT http://en.wikipedia.org/wiki/Buenos_Aires
+g14.1 196 197 2011 , ,
+g14.1 198 204 2012 Buenos NNP CIT http://en.wikipedia.org/wiki/Buenos_Aires
+g14.1 205 210 2013 Aires NNP CIT http://en.wikipedia.org/wiki/Buenos_Aires
+g14.1 210 211 2014 , ,
+g14.1 212 217 2015 after IN
+g14.1 218 219 2016 a DT
+g14.1 220 227 2017 meeting NN
+g14.1 228 233 2018 there EX
+g14.1 234 241 2019 between IN
+g14.1 242 245 2020 the DT
+g14.1 246 249 2021 two CD
+g14.1 250 259 2022 countries NNS
+g14.1 259 260 2023 ' POS
+g14.1 261 267 2024 health NN
+g14.1 268 277 2025 ministers NNS
+g14.1 277 278 2026 . .
+g14.1 279 282 3001 The DT
+g14.1 283 284 3002 $ $
+g14.1 284 294 3003 10-million CD
+g14.1 295 299 3004 drug NN
+g14.1 300 305 3005 plant NN
+g14.1 306 308 3006 is VBZ
+g14.1 309 317 3007 expected VBN
+g14.1 318 320 3008 to TO
+g14.1 321 323 3009 be VB
+g14.1 324 331 3010 located VBN
+g14.1 332 334 3011 on IN
+g14.1 335 344 3012 Argentine NNP COU http://en.wikipedia.org/wiki/Argentina
+g14.1 345 354 3013 territory NN
+g14.1 354 355 3014 , ,
+g14.1 356 359 3015 but CC
+g14.1 360 364 3016 both DT
+g14.1 365 372 3017 nations NNS
+g14.1 373 377 3018 will MD
+g14.1 378 388 3019 contribute VB
+g14.1 389 391 3020 to TO
+g14.1 392 395 3021 the DT
+g14.1 396 403 3022 project NN
+g14.1 403 404 3023 . .
+g14.1 405 408 4001 The DT
+g14.1 409 421 4002 announcement NN
+g14.1 422 426 4003 came VBD
+g14.1 427 429 4004 as IN
+g14.1 430 439 4005 Argentine NNP COU http://en.wikipedia.org/wiki/Argentina
+g14.1 440 449 4006 President NNP
+g14.1 450 456 4007 Nestor NNP PER http://en.wikipedia.org/wiki/Nestor_Kirchner
+g14.1 457 465 4008 Kirchner NNP PER http://en.wikipedia.org/wiki/Nestor_Kirchner
+g14.1 466 469 4009 met VBD
+g14.1 470 474 4010 with IN
+g14.1 475 478 4011 his PRP$
+g14.1 479 488 4012 Brazilian JJ COU http://en.wikipedia.org/wiki/Brazil
+g14.1 489 500 4013 counterpart NN
+g14.1 500 501 4014 , ,
+g14.1 502 506 4015 Luis NNP PER http://en.wikipedia.org/wiki/Luiz_Inacio_Lula_da_Silva
+g14.1 507 513 4016 Inacio NNP PER http://en.wikipedia.org/wiki/Luiz_Inacio_Lula_da_Silva
+g14.1 514 518 4017 Lula NNP PER http://en.wikipedia.org/wiki/Luiz_Inacio_Lula_da_Silva
+g14.1 519 521 4018 da NN PER http://en.wikipedia.org/wiki/Luiz_Inacio_Lula_da_Silva
+g14.1 522 527 4019 Silva NNP PER http://en.wikipedia.org/wiki/Luiz_Inacio_Lula_da_Silva
+g14.1 527 528 4020 , ,
+g14.1 529 531 4021 in IN
+g14.1 532 540 4022 Brasilia NNP CIT http://en.wikipedia.org/wiki/Brasilia
+g14.1 540 541 4023 . .
+g7.5 1 4 1001 For IN
+g7.5 5 9 1002 most JJS
+g7.5 10 12 1003 of IN
+g7.5 13 16 1004 the DT
+g7.5 17 26 1005 countries NNS
+g7.5 27 29 1006 of IN
+g7.5 30 33 1007 the DT
+g7.5 34 40 1008 former JJ
+g7.5 41 51 1009 Yugoslavia NNP COU http://en.wikipedia.org/wiki/Yugoslavia
+g7.5 51 52 1010 , ,
+g7.5 53 56 1011 the DT
+g7.5 57 61 1012 ride NN
+g7.5 62 66 1013 from IN
+g7.5 67 72 1014 armed VBN
+g7.5 73 81 1015 conflict NN
+g7.5 82 88 1016 during IN
+g7.5 89 92 1017 the DT
+g7.5 93 98 1018 1990s NNS
+g7.5 99 101 1019 to TO
+g7.5 102 105 1020 the DT
+g7.5 106 112 1021 calmer NN
+g7.5 113 119 1022 waters NNS
+g7.5 120 122 1023 of IN
+g7.5 123 131 1024 European JJ
+g7.5 132 143 1025 integration NN
+g7.5 144 147 1026 has VBZ
+g7.5 148 152 1027 been VBN
+g7.5 153 159 1028 stormy JJ
+g7.5 159 160 1029 , ,
+g7.5 161 165 1030 with IN
+g7.5 166 173 1031 various JJ
+g7.5 174 181 1032 degrees NNS
+g7.5 182 184 1033 of IN
+g7.5 185 192 1034 success NN
+g7.5 192 193 1035 . .
+g7.5 195 198 2001 VOA NNP
+g7.5 198 200 2002 's POS
+g7.5 201 205 2003 Jela NNP PER
+g7.5 206 208 2004 de IN PER
+g7.5 209 219 2005 Franceschi NNP PER
+g7.5 220 225 2006 takes VBZ
+g7.5 226 227 2007 a DT
+g7.5 228 234 2008 closer NN
+g7.5 235 239 2009 look NN
+g7.5 240 242 2010 at IN
+g7.5 243 251 2011 progress NN
+g7.5 252 256 2012 made VBN
+g7.5 257 259 2013 in IN
+g7.5 260 272 2014 transforming NN
+g7.5 273 276 2015 the DT
+g7.5 277 284 2016 Western NNP NAT http://en.wikipedia.org/wiki/Balkans#Western_Balkans
+g7.5 285 292 2017 Balkans NNP NAT http://en.wikipedia.org/wiki/Balkans#Western_Balkans
+g7.5 293 297 2018 into IN
+g7.5 298 299 2019 a DT
+g7.5 300 306 2020 region NN
+g7.5 307 309 2021 of IN
+g7.5 310 318 2022 economic JJ
+g7.5 319 322 2023 and CC
+g7.5 323 332 2024 political JJ
+g7.5 333 342 2025 stability NN
+g7.5 342 343 2026 . .
+g6.0 0 7 1001 Uruguay DT COU http://en.wikipedia.org/wiki/Uruguay
+g6.0 7 9 1002 's NNP 
+g6.0 10 17 1003 economy NNP 
+g6.0 18 20 1004 is NN 
+g6.0 21 34 1005 characterized NN 
+g6.0 35 37 1006 by NNS 
+g6.0 38 40 1007 an DT 
+g6.0 41 56 1008 export-oriented NN 
+g6.0 57 69 1009 agricultural IN 
+g6.0 70 76 1010 sector DT 
+g6.0 76 77 1011 , NN 
+g6.0 78 79 1012 a NN 
+g6.0 80 93 1013 well-educated IN 
+g6.0 94 98 1014 work NN 
+g6.0 99 104 1015 force IN 
+g6.0 104 105 1016 , CD 
+g6.0 106 109 1017 and CC 
+g6.0 110 114 1018 high CD 
+g6.0 115 121 1019 levels . 
+g6.0 122 124 1020 of DT 
+g6.0 125 131 1021 social NN 
+g6.0 132 140 1022 spending NNS 
+g6.0 140 141 1023 . VBZ 
+g6.0 142 151 2001 Following IN 
+g6.0 152 161 2002 financial NNS 
+g6.0 162 174 2003 difficulties IN 
+g6.0 175 177 2004 in IN 
+g6.0 178 181 2005 the DT 
+g6.0 182 186 2006 late NN 
+g6.0 187 192 2007 1990s CC 
+g6.0 193 196 2008 and VBZ 
+g6.0 197 202 2009 early NNS 
+g6.0 203 208 2010 2000s , 
+g6.0 208 209 2011 , NNS 
+g6.0 210 218 2012 economic CC 
+g6.0 219 225 2013 growth NN 
+g6.0 226 229 2014 for NN 
+g6.0 230 237 2015 Uruguay . COU http://en.wikipedia.org/wiki/Uruguay
+g6.0 238 246 2016 averaged NNP 
+g6.0 247 248 2017 8 POS 
+g6.0 248 249 2018 % NNP 
+g6.0 250 258 2019 annually NNP 
+g6.0 259 265 2020 during VBD 
+g6.0 266 269 2021 the DT 
+g6.0 270 276 2022 period NN 
+g6.0 277 284 2023 2004-08 IN 
+g6.0 284 285 2024 . DT 
+g6.0 286 289 3001 The NNP 
+g6.0 290 297 3002 2008-09 CD 
+g6.0 298 304 3003 global NNP 
+g6.0 305 314 3004 financial NNP 
+g6.0 315 321 3005 crisis NNP 
+g6.0 322 325 3006 put . 
+g6.0 326 327 3007 a NNP 
+g6.0 328 333 3008 brake NNP 
+g6.0 334 336 3009 on VBZ 
+g6.0 337 344 3010 Uruguay . COU http://en.wikipedia.org/wiki/Uruguay
+g6.0 344 346 3011 's NNP 
+g6.0 347 355 3012 vigorous POS 
+g6.0 356 362 3013 growth NN 
+g6.0 362 363 3014 , NN 
+g6.0 364 369 3015 which NNP 
+g6.0 370 381 3016 decelerated NN 
+g6.0 382 384 3017 to NN 
+g6.0 385 388 3018 2.9 VBZ 
+g6.0 388 389 3019 % VBN 
+g6.0 390 392 3020 in VBN 
+g6.0 393 397 3021 2009 TO 
+g6.0 397 398 3022 . DT 
+g6.0 399 411 4001 Nevertheless NNP 
+g6.0 411 412 4002 , NNP 
+g6.0 413 416 4003 the NNP 
+g6.0 417 424 4004 country , 
+g6.0 425 432 4005 managed CC 
+g6.0 433 435 4006 to DT 
+g6.0 436 441 4007 avoid NNS 
+g6.0 442 443 4008 a VBP 
+g6.0 444 453 4009 recession VBN 
+g6.0 454 457 4010 and VBG 
+g6.0 458 462 4011 keep CC 
+g6.0 463 471 4012 positive VBG 
+g6.0 472 478 4013 growth PRP 
+g6.0 479 484 4014 rates RP 
+g6.0 484 485 4015 , . 
+g6.0 486 492 4016 mainly DT 
+g6.0 493 500 4017 through NN 
+g6.0 501 507 4018 higher , 
+g6.0 508 514 4019 public VBD 
+g6.0 515 526 4020 expenditure NNS 
+g6.0 527 530 4021 and IN 
+g6.0 531 541 4022 investment NN 
+g6.0 541 542 4023 , NNP 
+g6.0 543 546 4024 and CC 
+g6.0 547 550 4025 GDP DT 
+g6.0 551 557 4026 growth NN 
+g6.0 558 566 4027 exceeded NN 
+g6.0 567 568 4028 8 VBP 
+g6.0 568 569 4029 % RB 
+g6.0 570 572 4030 in VBN 
+g6.0 573 577 4031 2010 VBG 
+g6.0 577 578 4032 . DT 

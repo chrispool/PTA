@@ -1,0 +1,293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"html",
+				"htmlFilename"
+			],
+			[
+				"word",
+				"wordTuple"
+			],
+			[
+				"print",
+				"printText"
+			],
+			[
+				"pos",
+				"posInLine"
+			],
+			[
+				"coun",
+				"Counter"
+			],
+			[
+				"count",
+				"counterWords"
+			],
+			[
+				"cout",
+				"counterWords"
+			],
+			[
+				"test",
+				"testSentence"
+			],
+			[
+				"class",
+				"classifier"
+			],
+			[
+				"train",
+				"trainData"
+			],
+			[
+				"feature",
+				"feature_set"
+			],
+			[
+				"senten",
+				"sentenceTokens"
+			],
+			[
+				"sen",
+				"sentenceTokens"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/var/folders/2j/5x198q7x3xn7q05xc177w5hc0000gn/T/sublime-sftp-browse-1433082800/mapped/public_html/.htaccess",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chrispool/Documents/Git/Werk/epi/.htaccess",
+			"settings":
+			{
+				"buffer_size": 107,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"sftp",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/chrispool/Documents/Git/RUG/PTA/final/ner.py",
+		"/Users/chrispool/Documents/Git/RUG/PTA/final/prepareTraindata.py",
+		"/Users/chrispool/Documents/Git/RUG/eventDetector/ner/nerTrainer.py",
+		"/Users/chrispool/Documents/Git/RUG/PTA/final/trainData.txt",
+		"/Users/chrispool/Documents/Git/RUG/eventDetector/ClassifierCreator.py",
+		"/Users/chrispool/Documents/Git/RUG/PTA/week5/disambiguation.py",
+		"/Users/chrispool/Documents/Git/test/test.py",
+		"/Users/chrispool/Documents/Git/test/tweets.txt",
+		"/Users/chrispool/Documents/Git/RUG/PTA/week5/opdracht.txt",
+		"/Users/chrispool/Documents/Git/RUG/eventDetector/FeatureSelector.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			")[\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/var/folders/2j/5x198q7x3xn7q05xc177w5hc0000gn/T/sublime-sftp-browse-1433082800/mapped/public_html/.htaccess",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_remote": true,
+							"local_path": "/Users/chrispool/Documents/Git/Werk/epi/.htaccess",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tmp_dir": "/var/folders/2j/5x198q7x3xn7q05xc177w5hc0000gn/T/sublime-sftp-browse-1433082800/mapped/"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/chrispool/Documents/Git/Werk/epi/.htaccess",
+					"settings":
+					{
+						"buffer_size": 107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": true
+}
