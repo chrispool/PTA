@@ -64,9 +64,11 @@ class Measures:
 					nLinks += 1
 					prediction = testdata[doc][i][9].lower().split(',')
 					prediction[0] = self.normalizeString(prediction[0])
+					'''
 					print(testdata[doc][i][0])
 					print("{} - {} - {}".format(testdata[doc][i][4],testdata[doc][i][7].lower(),prediction[0] ))
 					print()
+					'''
 					if testdata[doc][i][7].lower() == prediction[0]:
 						correctLinks += int(prediction[1])
 
