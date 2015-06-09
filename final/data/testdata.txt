@@ -1,4 +1,4 @@
-g7.2 0 9 1001 President NNP PER http://en.wikipedia.org/wiki/George_W._Bush
+g7.2 0 9 1001 President NNP PER http://en.wikipedia.org/wiki/George_W._Bush 
 g7.2 10 14 1002 Bush NNP PER http://en.wikipedia.org/wiki/George_W._Bush
 g7.2 15 19 1003 said VBD
 g7.2 20 27 1004 nations NNS

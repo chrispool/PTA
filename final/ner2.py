@@ -11,6 +11,9 @@ from collections import Counter, defaultdict
 import sys
 import glob
 from measures import Measures
+import urllib.request
+import json
+
 class Ner():
 	
 	def __init__(self, argv):
@@ -140,22 +143,35 @@ class Ner():
 			lastToken = token[8]
 
 		for keyword in keywords:
-			query = 'http://en.wikipedia.org/wiki/'
+			query = ''
 			for token in keyword:
-				query += doc[token][4] + "_"
+				query += doc[token][4] + "%20"
 			
+
+			url = 'http://en.wikipedia.org/w/api.php?action=query&list=search&srsearch='+query+'&format=json'
+			
+			with urllib.request.urlopen(url) as response:
+				str_response = response.readall().decode('utf-8')
+				data = json.loads(str_response)
+
+			links = []
+			for d in data:
+				for r in data[d]:
+					if r == 'search':
+						for s in data[d][r]:
+							if 'snippet' in s:
+								
+								links.append('http://en.wikipedia.org/wiki/' + s['title'].replace(" ", "_"))
+
+							
+			link = links[0] #todo, check if other links are better
 			for token in keyword:
-				result[token] = query[:-1]+",1"
+				result[token] = link+",1"
 		
 		return result
 		
 		
-	def getText(self,wiki):
-		os.system("curl '{0}' | grep '<p>' | sed 's/<[^<]*>//g' > wiki.tmp".format(wiki))
-		with open("wiki.tmp","r") as f:
-			os.system("rm wiki.tmp")
-			return f.read()
-
+	
 
 
 

@@ -1,9 +1,15 @@
 from collections import Counter, defaultdict
 import nltk
+import unicodedata
 class Measures:
 
 	def _init_(self):
 		pass
+
+
+	def normalizeString(self,s):
+		return ''.join(c for c in unicodedata.normalize('NFD', s)
+                  if unicodedata.category(c) != 'Mn')
 
 	def calculate(self, testdata):
 		#calculate precision and recall for each category
@@ -52,11 +58,15 @@ class Measures:
 
 				refSimple[refCategory].add(tokenId) 
 				testSimple[testCategory].add(tokenId)
-
-				if testdata[doc][i][7] is not '':
-					
+				#print(len())
+				
+				if testdata[doc][i][8] != 'O':
 					nLinks += 1
 					prediction = testdata[doc][i][9].lower().split(',')
+					prediction[0] = self.normalizeString(prediction[0])
+					print(testdata[doc][i][0])
+					print("{} - {} - {}".format(testdata[doc][i][4],testdata[doc][i][7].lower(),prediction[0] ))
+					print()
 					if testdata[doc][i][7].lower() == prediction[0]:
 						correctLinks += int(prediction[1])
 

@@ -1,46 +1,85 @@
-g10.9 0 5 1001 First O
-g10.9 6 16 1002 discovered O
-g10.9 17 19 1003 by O
-g10.9 20 23 1004 the O
-g10.9 24 34 1005 Norwegians O
-g10.9 35 37 1006 in O
-g10.9 38 41 1007 the O
-g10.9 42 46 1008 12th O
-g10.9 47 54 1009 century O
-g10.9 54 55 1010 , O
-g10.9 56 59 1011 the O
-g10.9 60 67 1012 islands O
-g10.9 68 74 1013 served O
-g10.9 75 77 1014 as O
-g10.9 78 80 1015 an O
-g10.9 81 94 1016 international O
-g10.9 95 102 1017 whaling O
-g10.9 103 107 1018 base O
-g10.9 108 114 1019 during O
-g10.9 115 118 1020 the O
-g10.9 119 123 1021 17th O
-g10.9 124 127 1022 and O
-g10.9 128 132 1023 18th O
-g10.9 133 142 1024 centuries O
-g10.9 142 143 1025 . O
-g10.9 144 150 2001 Norway COU http://en.wikipedia.org/wiki/Norway,1
-g10.9 150 152 2002 's O
-g10.9 153 164 2003 sovereignty O
-g10.9 165 168 2004 was O
-g10.9 169 179 2005 recognized O
-g10.9 180 182 2006 in O
-g10.9 183 187 2007 1920 O
-g10.9 187 188 2008 ; O
-g10.9 189 193 2009 five O
-g10.9 194 199 2010 years O
-g10.9 200 205 2011 later O
-g10.9 206 208 2012 it O
-g10.9 209 219 2013 officially O
-g10.9 220 224 2014 took O
-g10.9 225 229 2015 over O
-g10.9 230 233 2016 the O
-g10.9 234 243 2017 territory O
-g10.9 243 244 2018 . O
+g4.9 0 6 1001 Police ORG http://en.wikipedia.org/wiki/Police,1
+g4.9 7 9 1002 in O
+g4.9 10 13 1003 Sri COU http://en.wikipedia.org/wiki/Sri_Lanka,1
+g4.9 14 19 1004 Lanka COU http://en.wikipedia.org/wiki/Sri_Lanka,1
+g4.9 20 23 1005 say O
+g4.9 24 27 1006 300 O
+g4.9 28 37 1007 prisoners O
+g4.9 38 42 1008 took O
+g4.9 43 52 1009 advantage O
+g4.9 53 55 1010 of O
+g4.9 56 62 1011 Sunday O
+g4.9 62 64 1012 's O
+g4.9 65 72 1013 massive O
+g4.9 73 83 1014 earthquake O
+g4.9 84 86 1015 to O
+g4.9 87 91 1016 make O
+g4.9 92 97 1017 their O
+g4.9 98 104 1018 escape O
+g4.9 105 109 1019 from O
+g4.9 110 111 1020 a O
+g4.9 112 125 1021 high-security O
+g4.9 126 130 1022 jail O
+g4.9 130 131 1023 . O
+g4.9 132 143 2001 Authorities O
+g4.9 144 147 2002 say O
+g4.9 148 151 2003 the O
+g4.9 152 159 2004 inmates O
+g4.9 160 164 2005 fled O
+g4.9 165 170 2006 after O
+g4.9 171 172 2007 a O
+g4.9 173 178 2008 tidal O
+g4.9 179 183 2009 wave O
+g4.9 184 190 2010 caused O
+g4.9 191 193 2011 by O
+g4.9 194 197 2012 the O
+g4.9 198 203 2013 quake O
+g4.9 204 213 2014 destroyed O
+g4.9 214 219 2015 their O
+g4.9 220 226 2016 prison O
+g4.9 226 227 2017 , O
+g4.9 228 229 2018 a O
+g4.9 230 234 2019 16th O
+g4.9 235 242 2020 century O
+g4.9 243 254 2021 Dutch-built O
+g4.9 255 259 2022 fort O
+g4.9 260 262 2023 in O
+g4.9 263 264 2024 a O
+g4.9 265 273 2025 southern O
+g4.9 274 281 2026 coastal O
+g4.9 282 286 2027 town O
+g4.9 287 293 2028 Matara CIT http://en.wikipedia.org/wiki/Matara,1
+g4.9 293 294 2029 . O
+g4.9 295 302 3001 Reuters ORG http://en.wikipedia.org/wiki/Reuters,1
+g4.9 303 307 3002 news ORG http://en.wikipedia.org/wiki/Reuters,1
+g4.9 308 314 3003 agency ORG http://en.wikipedia.org/wiki/Reuters,1
+g4.9 315 322 3004 reports O
+g4.9 323 324 3005 a O
+g4.9 325 332 3006 similar O
+g4.9 333 339 3007 prison O
+g4.9 340 345 3008 break O
+g4.9 346 348 3009 in O
+g4.9 349 358 3010 Indonesia COU http://en.wikipedia.org/wiki/Indonesia,1
+g4.9 358 360 3011 's O
+g4.9 361 365 3012 Aceh O
+g4.9 366 374 3013 province O
+g4.9 374 375 3014 . O
+g4.9 376 382 4001 Police ORG http://en.wikipedia.org/wiki/Police,1
+g4.9 383 388 4002 there O
+g4.9 389 392 4003 say O
+g4.9 393 396 4004 200 O
+g4.9 397 406 4005 prisoners O
+g4.9 407 411 4006 fled O
+g4.9 412 417 4007 after O
+g4.9 418 419 4008 a O
+g4.9 420 427 4009 tsunami O
+g4.9 428 437 4010 destroyed O
+g4.9 438 441 4011 the O
+g4.9 442 447 4012 walls O
+g4.9 448 450 4013 of O
+g4.9 451 454 4014 the O
+g4.9 455 463 4015 facility O
+g4.9 463 464 4016 . O
 g14.1 0 6 1001 Brazil COU http://en.wikipedia.org/wiki/Brazil,1
 g14.1 7 10 1002 and O
 g14.1 11 20 1003 Argentina COU http://en.wikipedia.org/wiki/Argentina,1
@@ -68,7 +107,7 @@ g14.1 149 161 2005 announcement O
 g14.1 162 171 2006 Wednesday O
 g14.1 172 174 2007 in O
 g14.1 175 178 2008 the O
-g14.1 179 188 2009 Argentine COU http://en.wikipedia.org/wiki/Argentine,1
+g14.1 179 188 2009 Argentine COU http://en.wikipedia.org/wiki/Argentines,1
 g14.1 189 196 2010 capital O
 g14.1 196 197 2011 , O
 g14.1 198 204 2012 Buenos PER http://en.wikipedia.org/wiki/Buenos_Aires,1
@@ -97,7 +136,7 @@ g14.1 318 320 3008 to O
 g14.1 321 323 3009 be O
 g14.1 324 331 3010 located O
 g14.1 332 334 3011 on O
-g14.1 335 344 3012 Argentine COU http://en.wikipedia.org/wiki/Argentine,1
+g14.1 335 344 3012 Argentine COU http://en.wikipedia.org/wiki/Argentines,1
 g14.1 345 354 3013 territory O
 g14.1 354 355 3014 , O
 g14.1 356 359 3015 but O
@@ -115,84 +154,116 @@ g14.1 422 426 4003 came O
 g14.1 427 429 4004 as O
 g14.1 430 439 4005 Argentine O
 g14.1 440 449 4006 President O
-g14.1 450 456 4007 Nestor PER http://en.wikipedia.org/wiki/Nestor_Kirchner,1
-g14.1 457 465 4008 Kirchner PER http://en.wikipedia.org/wiki/Nestor_Kirchner,1
+g14.1 450 456 4007 Nestor PER http://en.wikipedia.org/wiki/Néstor_Kirchner,1
+g14.1 457 465 4008 Kirchner PER http://en.wikipedia.org/wiki/Néstor_Kirchner,1
 g14.1 466 469 4009 met O
 g14.1 470 474 4010 with O
 g14.1 475 478 4011 his O
 g14.1 479 488 4012 Brazilian COU http://en.wikipedia.org/wiki/Brazilian,1
 g14.1 489 500 4013 counterpart O
 g14.1 500 501 4014 , O
-g14.1 502 506 4015 Luis PER http://en.wikipedia.org/wiki/Luis_Inacio_Lula,1
-g14.1 507 513 4016 Inacio PER http://en.wikipedia.org/wiki/Luis_Inacio_Lula,1
-g14.1 514 518 4017 Lula PER http://en.wikipedia.org/wiki/Luis_Inacio_Lula,1
+g14.1 502 506 4015 Luis PER http://en.wikipedia.org/wiki/Luiz_Inácio_Lula_da_Silva,1
+g14.1 507 513 4016 Inacio PER http://en.wikipedia.org/wiki/Luiz_Inácio_Lula_da_Silva,1
+g14.1 514 518 4017 Lula PER http://en.wikipedia.org/wiki/Luiz_Inácio_Lula_da_Silva,1
 g14.1 519 521 4018 da O
 g14.1 522 527 4019 Silva CIT http://en.wikipedia.org/wiki/Silva,1
 g14.1 527 528 4020 , O
 g14.1 529 531 4021 in O
-g14.1 532 540 4022 Brasilia COU http://en.wikipedia.org/wiki/Brasilia,1
+g14.1 532 540 4022 Brasilia COU http://en.wikipedia.org/wiki/Brasília,1
 g14.1 540 541 4023 . O
-g7.5 1 4 1001 For O
-g7.5 5 9 1002 most O
-g7.5 10 12 1003 of O
-g7.5 13 16 1004 the O
-g7.5 17 26 1005 countries O
-g7.5 27 29 1006 of O
-g7.5 30 33 1007 the O
-g7.5 34 40 1008 former O
-g7.5 41 51 1009 Yugoslavia COU http://en.wikipedia.org/wiki/Yugoslavia,1
-g7.5 51 52 1010 , O
-g7.5 53 56 1011 the O
-g7.5 57 61 1012 ride O
-g7.5 62 66 1013 from O
-g7.5 67 72 1014 armed O
-g7.5 73 81 1015 conflict O
-g7.5 82 88 1016 during O
-g7.5 89 92 1017 the O
-g7.5 93 98 1018 1990s O
-g7.5 99 101 1019 to O
-g7.5 102 105 1020 the O
-g7.5 106 112 1021 calmer O
-g7.5 113 119 1022 waters O
-g7.5 120 122 1023 of O
-g7.5 123 131 1024 European COU http://en.wikipedia.org/wiki/European,1
-g7.5 132 143 1025 integration O
-g7.5 144 147 1026 has O
-g7.5 148 152 1027 been O
-g7.5 153 159 1028 stormy O
-g7.5 159 160 1029 , O
-g7.5 161 165 1030 with O
-g7.5 166 173 1031 various O
-g7.5 174 181 1032 degrees O
-g7.5 182 184 1033 of O
-g7.5 185 192 1034 success O
-g7.5 192 193 1035 . O
-g7.5 195 198 2001 VOA ORG http://en.wikipedia.org/wiki/VOA,1
-g7.5 198 200 2002 's O
-g7.5 201 205 2003 Jela O
-g7.5 206 208 2004 de O
-g7.5 209 219 2005 Franceschi COU http://en.wikipedia.org/wiki/Franceschi,1
-g7.5 220 225 2006 takes O
-g7.5 226 227 2007 a O
-g7.5 228 234 2008 closer O
-g7.5 235 239 2009 look O
-g7.5 240 242 2010 at O
-g7.5 243 251 2011 progress O
-g7.5 252 256 2012 made O
-g7.5 257 259 2013 in O
-g7.5 260 272 2014 transforming O
-g7.5 273 276 2015 the O
-g7.5 277 284 2016 Western O
-g7.5 285 292 2017 Balkans O
-g7.5 293 297 2018 into O
-g7.5 298 299 2019 a O
-g7.5 300 306 2020 region O
-g7.5 307 309 2021 of O
-g7.5 310 318 2022 economic O
-g7.5 319 322 2023 and O
-g7.5 323 332 2024 political O
-g7.5 333 342 2025 stability O
-g7.5 342 343 2026 . O
+g3.1 0 2 1001 An O
+g3.1 3 10 1002 attempt O
+g3.1 11 13 1003 to O
+g3.1 14 21 1004 address O
+g3.1 22 29 1005 America COU http://en.wikipedia.org/wiki/America,1
+g3.1 29 31 1006 's O
+g3.1 32 38 1007 weight O
+g3.1 39 46 1008 problem O
+g3.1 47 50 1009 has O
+g3.1 51 54 1010 run O
+g3.1 55 59 1011 into O
+g3.1 60 67 1012 trouble O
+g3.1 68 70 1013 in O
+g3.1 71 74 1014 New CIT http://en.wikipedia.org/wiki/New_York,1
+g3.1 75 79 1015 York CIT http://en.wikipedia.org/wiki/New_York,1
+g3.1 79 80 1016 . O
+g3.1 81 87 2001 Health O
+g3.1 88 97 2002 officials O
+g3.1 98 101 2003 are O
+g3.1 102 108 2004 trying O
+g3.1 109 111 2005 to O
+g3.1 112 120 2006 increase O
+g3.1 121 124 2007 the O
+g3.1 125 129 2008 city O
+g3.1 129 131 2009 's O
+g3.1 132 143 2010 consumption O
+g3.1 144 146 2011 of O
+g3.1 147 153 2012 fruits O
+g3.1 154 157 2013 and O
+g3.1 158 168 2014 vegetables O
+g3.1 168 169 2015 , O
+g3.1 170 180 2016 especially O
+g3.1 181 183 2017 in O
+g3.1 184 188 2018 less O
+g3.1 189 197 2019 affluent O
+g3.1 198 211 2020 neighborhoods O
+g3.1 212 217 2021 where O
+g3.1 218 225 2022 obesity O
+g3.1 226 231 2023 rates O
+g3.1 232 235 2024 are O
+g3.1 236 242 2025 higher O
+g3.1 242 243 2026 . O
+g3.1 244 249 3001 Given O
+g3.1 250 254 3002 that O
+g3.1 255 259 3003 more O
+g3.1 260 264 3004 than O
+g3.1 265 269 3005 half O
+g3.1 270 272 3006 of O
+g3.1 273 276 3007 New CIT http://en.wikipedia.org/wiki/New_York,1
+g3.1 277 281 3008 York CIT http://en.wikipedia.org/wiki/New_York,1
+g3.1 282 288 3009 adults O
+g3.1 289 292 3010 are O
+g3.1 293 303 3011 overweight O
+g3.1 304 306 3012 or O
+g3.1 307 312 3013 obese O
+g3.1 313 314 3014 - O
+g3.1 315 318 3015 and O
+g3.1 319 321 3016 an O
+g3.1 322 331 3017 estimated O
+g3.1 332 339 3018 700,000 O
+g3.1 340 346 3019 suffer O
+g3.1 347 351 3020 from O
+g3.1 352 360 3021 diabetes O
+g3.1 361 362 3022 - O
+g3.1 363 366 3023 the O
+g3.1 367 375 3024 argument O
+g3.1 376 378 3025 is O
+g3.1 379 382 3026 not O
+g3.1 383 387 3027 over O
+g3.1 388 391 3028 the O
+g3.1 392 396 3029 need O
+g3.1 397 400 3030 for O
+g3.1 401 407 3031 action O
+g3.1 407 408 3032 . O
+g3.1 409 416 4001 Instead O
+g3.1 416 417 4002 , O
+g3.1 418 421 4003 the O
+g3.1 422 427 4004 issue O
+g3.1 428 430 4005 is O
+g3.1 431 434 4006 the O
+g3.1 435 438 4007 way O
+g3.1 439 442 4008 the O
+g3.1 443 447 4009 city O
+g3.1 448 451 4010 has O
+g3.1 452 456 4011 gone O
+g3.1 457 462 4012 about O
+g3.1 463 465 4013 it O
+g3.1 465 466 4014 . O
+g3.1 467 472 5001 Paige PER http://en.wikipedia.org/wiki/Ali_Hussain_Sibat,1
+g3.1 473 480 5002 Kollock PER http://en.wikipedia.org/wiki/Ali_Hussain_Sibat,1
+g3.1 481 484 5003 has O
+g3.1 485 489 5004 more O
+g3.1 489 490 5005 . O
 g7.2 0 9 1001 President O
 g7.2 10 14 1002 Bush PER http://en.wikipedia.org/wiki/Bush,1
 g7.2 15 19 1003 said O
@@ -284,7 +355,7 @@ g7.2 484 485 5015 , O
 g7.2 486 489 5016 and O
 g7.2 490 494 5017 said O
 g7.2 495 498 5018 the O
-g7.2 499 503 5019 U.S. COU http://en.wikipedia.org/wiki/U.S.,1
+g7.2 499 503 5019 U.S. COU http://en.wikipedia.org/wiki/United_States,1
 g7.2 504 508 5020 does O
 g7.2 509 512 5021 not O
 g7.2 513 519 5022 oppose O
@@ -296,181 +367,110 @@ g7.2 545 552 5027 program O
 g7.2 553 556 5028 for O
 g7.2 557 561 5029 Iran COU http://en.wikipedia.org/wiki/Iran,1
 g7.2 561 562 5030 . O
-g4.9 0 6 1001 Police ORG http://en.wikipedia.org/wiki/Police,1
-g4.9 7 9 1002 in O
-g4.9 10 13 1003 Sri COU http://en.wikipedia.org/wiki/Sri_Lanka,1
-g4.9 14 19 1004 Lanka COU http://en.wikipedia.org/wiki/Sri_Lanka,1
-g4.9 20 23 1005 say O
-g4.9 24 27 1006 300 O
-g4.9 28 37 1007 prisoners O
-g4.9 38 42 1008 took O
-g4.9 43 52 1009 advantage O
-g4.9 53 55 1010 of O
-g4.9 56 62 1011 Sunday O
-g4.9 62 64 1012 's O
-g4.9 65 72 1013 massive O
-g4.9 73 83 1014 earthquake O
-g4.9 84 86 1015 to O
-g4.9 87 91 1016 make O
-g4.9 92 97 1017 their O
-g4.9 98 104 1018 escape O
-g4.9 105 109 1019 from O
-g4.9 110 111 1020 a O
-g4.9 112 125 1021 high-security O
-g4.9 126 130 1022 jail O
-g4.9 130 131 1023 . O
-g4.9 132 143 2001 Authorities O
-g4.9 144 147 2002 say O
-g4.9 148 151 2003 the O
-g4.9 152 159 2004 inmates O
-g4.9 160 164 2005 fled O
-g4.9 165 170 2006 after O
-g4.9 171 172 2007 a O
-g4.9 173 178 2008 tidal O
-g4.9 179 183 2009 wave O
-g4.9 184 190 2010 caused O
-g4.9 191 193 2011 by O
-g4.9 194 197 2012 the O
-g4.9 198 203 2013 quake O
-g4.9 204 213 2014 destroyed O
-g4.9 214 219 2015 their O
-g4.9 220 226 2016 prison O
-g4.9 226 227 2017 , O
-g4.9 228 229 2018 a O
-g4.9 230 234 2019 16th O
-g4.9 235 242 2020 century O
-g4.9 243 254 2021 Dutch-built O
-g4.9 255 259 2022 fort O
-g4.9 260 262 2023 in O
-g4.9 263 264 2024 a O
-g4.9 265 273 2025 southern O
-g4.9 274 281 2026 coastal O
-g4.9 282 286 2027 town O
-g4.9 287 293 2028 Matara CIT http://en.wikipedia.org/wiki/Matara,1
-g4.9 293 294 2029 . O
-g4.9 295 302 3001 Reuters ORG http://en.wikipedia.org/wiki/Reuters_news_agency,1
-g4.9 303 307 3002 news ORG http://en.wikipedia.org/wiki/Reuters_news_agency,1
-g4.9 308 314 3003 agency ORG http://en.wikipedia.org/wiki/Reuters_news_agency,1
-g4.9 315 322 3004 reports O
-g4.9 323 324 3005 a O
-g4.9 325 332 3006 similar O
-g4.9 333 339 3007 prison O
-g4.9 340 345 3008 break O
-g4.9 346 348 3009 in O
-g4.9 349 358 3010 Indonesia COU http://en.wikipedia.org/wiki/Indonesia,1
-g4.9 358 360 3011 's O
-g4.9 361 365 3012 Aceh O
-g4.9 366 374 3013 province O
-g4.9 374 375 3014 . O
-g4.9 376 382 4001 Police ORG http://en.wikipedia.org/wiki/Police,1
-g4.9 383 388 4002 there O
-g4.9 389 392 4003 say O
-g4.9 393 396 4004 200 O
-g4.9 397 406 4005 prisoners O
-g4.9 407 411 4006 fled O
-g4.9 412 417 4007 after O
-g4.9 418 419 4008 a O
-g4.9 420 427 4009 tsunami O
-g4.9 428 437 4010 destroyed O
-g4.9 438 441 4011 the O
-g4.9 442 447 4012 walls O
-g4.9 448 450 4013 of O
-g4.9 451 454 4014 the O
-g4.9 455 463 4015 facility O
-g4.9 463 464 4016 . O
-g3.1 0 2 1001 An O
-g3.1 3 10 1002 attempt O
-g3.1 11 13 1003 to O
-g3.1 14 21 1004 address O
-g3.1 22 29 1005 America COU http://en.wikipedia.org/wiki/America,1
-g3.1 29 31 1006 's O
-g3.1 32 38 1007 weight O
-g3.1 39 46 1008 problem O
-g3.1 47 50 1009 has O
-g3.1 51 54 1010 run O
-g3.1 55 59 1011 into O
-g3.1 60 67 1012 trouble O
-g3.1 68 70 1013 in O
-g3.1 71 74 1014 New CIT http://en.wikipedia.org/wiki/New_York,1
-g3.1 75 79 1015 York CIT http://en.wikipedia.org/wiki/New_York,1
-g3.1 79 80 1016 . O
-g3.1 81 87 2001 Health O
-g3.1 88 97 2002 officials O
-g3.1 98 101 2003 are O
-g3.1 102 108 2004 trying O
-g3.1 109 111 2005 to O
-g3.1 112 120 2006 increase O
-g3.1 121 124 2007 the O
-g3.1 125 129 2008 city O
-g3.1 129 131 2009 's O
-g3.1 132 143 2010 consumption O
-g3.1 144 146 2011 of O
-g3.1 147 153 2012 fruits O
-g3.1 154 157 2013 and O
-g3.1 158 168 2014 vegetables O
-g3.1 168 169 2015 , O
-g3.1 170 180 2016 especially O
-g3.1 181 183 2017 in O
-g3.1 184 188 2018 less O
-g3.1 189 197 2019 affluent O
-g3.1 198 211 2020 neighborhoods O
-g3.1 212 217 2021 where O
-g3.1 218 225 2022 obesity O
-g3.1 226 231 2023 rates O
-g3.1 232 235 2024 are O
-g3.1 236 242 2025 higher O
-g3.1 242 243 2026 . O
-g3.1 244 249 3001 Given O
-g3.1 250 254 3002 that O
-g3.1 255 259 3003 more O
-g3.1 260 264 3004 than O
-g3.1 265 269 3005 half O
-g3.1 270 272 3006 of O
-g3.1 273 276 3007 New CIT http://en.wikipedia.org/wiki/New_York,1
-g3.1 277 281 3008 York CIT http://en.wikipedia.org/wiki/New_York,1
-g3.1 282 288 3009 adults O
-g3.1 289 292 3010 are O
-g3.1 293 303 3011 overweight O
-g3.1 304 306 3012 or O
-g3.1 307 312 3013 obese O
-g3.1 313 314 3014 - O
-g3.1 315 318 3015 and O
-g3.1 319 321 3016 an O
-g3.1 322 331 3017 estimated O
-g3.1 332 339 3018 700,000 O
-g3.1 340 346 3019 suffer O
-g3.1 347 351 3020 from O
-g3.1 352 360 3021 diabetes O
-g3.1 361 362 3022 - O
-g3.1 363 366 3023 the O
-g3.1 367 375 3024 argument O
-g3.1 376 378 3025 is O
-g3.1 379 382 3026 not O
-g3.1 383 387 3027 over O
-g3.1 388 391 3028 the O
-g3.1 392 396 3029 need O
-g3.1 397 400 3030 for O
-g3.1 401 407 3031 action O
-g3.1 407 408 3032 . O
-g3.1 409 416 4001 Instead O
-g3.1 416 417 4002 , O
-g3.1 418 421 4003 the O
-g3.1 422 427 4004 issue O
-g3.1 428 430 4005 is O
-g3.1 431 434 4006 the O
-g3.1 435 438 4007 way O
-g3.1 439 442 4008 the O
-g3.1 443 447 4009 city O
-g3.1 448 451 4010 has O
-g3.1 452 456 4011 gone O
-g3.1 457 462 4012 about O
-g3.1 463 465 4013 it O
-g3.1 465 466 4014 . O
-g3.1 467 472 5001 Paige PER http://en.wikipedia.org/wiki/Paige_Kollock,1
-g3.1 473 480 5002 Kollock PER http://en.wikipedia.org/wiki/Paige_Kollock,1
-g3.1 481 484 5003 has O
-g3.1 485 489 5004 more O
-g3.1 489 490 5005 . O
+g10.9 0 5 1001 First O
+g10.9 6 16 1002 discovered O
+g10.9 17 19 1003 by O
+g10.9 20 23 1004 the O
+g10.9 24 34 1005 Norwegians O
+g10.9 35 37 1006 in O
+g10.9 38 41 1007 the O
+g10.9 42 46 1008 12th O
+g10.9 47 54 1009 century O
+g10.9 54 55 1010 , O
+g10.9 56 59 1011 the O
+g10.9 60 67 1012 islands O
+g10.9 68 74 1013 served O
+g10.9 75 77 1014 as O
+g10.9 78 80 1015 an O
+g10.9 81 94 1016 international O
+g10.9 95 102 1017 whaling O
+g10.9 103 107 1018 base O
+g10.9 108 114 1019 during O
+g10.9 115 118 1020 the O
+g10.9 119 123 1021 17th O
+g10.9 124 127 1022 and O
+g10.9 128 132 1023 18th O
+g10.9 133 142 1024 centuries O
+g10.9 142 143 1025 . O
+g10.9 144 150 2001 Norway COU http://en.wikipedia.org/wiki/Norway,1
+g10.9 150 152 2002 's O
+g10.9 153 164 2003 sovereignty O
+g10.9 165 168 2004 was O
+g10.9 169 179 2005 recognized O
+g10.9 180 182 2006 in O
+g10.9 183 187 2007 1920 O
+g10.9 187 188 2008 ; O
+g10.9 189 193 2009 five O
+g10.9 194 199 2010 years O
+g10.9 200 205 2011 later O
+g10.9 206 208 2012 it O
+g10.9 209 219 2013 officially O
+g10.9 220 224 2014 took O
+g10.9 225 229 2015 over O
+g10.9 230 233 2016 the O
+g10.9 234 243 2017 territory O
+g10.9 243 244 2018 . O
+g7.5 1 4 1001 For O
+g7.5 5 9 1002 most O
+g7.5 10 12 1003 of O
+g7.5 13 16 1004 the O
+g7.5 17 26 1005 countries O
+g7.5 27 29 1006 of O
+g7.5 30 33 1007 the O
+g7.5 34 40 1008 former O
+g7.5 41 51 1009 Yugoslavia COU http://en.wikipedia.org/wiki/Yugoslavia,1
+g7.5 51 52 1010 , O
+g7.5 53 56 1011 the O
+g7.5 57 61 1012 ride O
+g7.5 62 66 1013 from O
+g7.5 67 72 1014 armed O
+g7.5 73 81 1015 conflict O
+g7.5 82 88 1016 during O
+g7.5 89 92 1017 the O
+g7.5 93 98 1018 1990s O
+g7.5 99 101 1019 to O
+g7.5 102 105 1020 the O
+g7.5 106 112 1021 calmer O
+g7.5 113 119 1022 waters O
+g7.5 120 122 1023 of O
+g7.5 123 131 1024 European COU http://en.wikipedia.org/wiki/European,1
+g7.5 132 143 1025 integration O
+g7.5 144 147 1026 has O
+g7.5 148 152 1027 been O
+g7.5 153 159 1028 stormy O
+g7.5 159 160 1029 , O
+g7.5 161 165 1030 with O
+g7.5 166 173 1031 various O
+g7.5 174 181 1032 degrees O
+g7.5 182 184 1033 of O
+g7.5 185 192 1034 success O
+g7.5 192 193 1035 . O
+g7.5 195 198 2001 VOA ORG http://en.wikipedia.org/wiki/Voice_of_America,1
+g7.5 198 200 2002 's O
+g7.5 201 205 2003 Jela O
+g7.5 206 208 2004 de O
+g7.5 209 219 2005 Franceschi COU http://en.wikipedia.org/wiki/Franceschi,1
+g7.5 220 225 2006 takes O
+g7.5 226 227 2007 a O
+g7.5 228 234 2008 closer O
+g7.5 235 239 2009 look O
+g7.5 240 242 2010 at O
+g7.5 243 251 2011 progress O
+g7.5 252 256 2012 made O
+g7.5 257 259 2013 in O
+g7.5 260 272 2014 transforming O
+g7.5 273 276 2015 the O
+g7.5 277 284 2016 Western O
+g7.5 285 292 2017 Balkans O
+g7.5 293 297 2018 into O
+g7.5 298 299 2019 a O
+g7.5 300 306 2020 region O
+g7.5 307 309 2021 of O
+g7.5 310 318 2022 economic O
+g7.5 319 322 2023 and O
+g7.5 323 332 2024 political O
+g7.5 333 342 2025 stability O
+g7.5 342 343 2026 . O
 g6.0 0 7 1001 Uruguay COU http://en.wikipedia.org/wiki/Uruguay,1
 g6.0 7 9 1002 's O
 g6.0 10 17 1003 economy O
@@ -564,7 +564,7 @@ g6.0 527 530 4021 and O
 g6.0 531 541 4022 investment O
 g6.0 541 542 4023 , O
 g6.0 543 546 4024 and O
-g6.0 547 550 4025 GDP ORG http://en.wikipedia.org/wiki/GDP,1
+g6.0 547 550 4025 GDP ORG http://en.wikipedia.org/wiki/Gross_domestic_product,1
 g6.0 551 557 4026 growth O
 g6.0 558 566 4027 exceeded O
 g6.0 567 568 4028 8 O
