@@ -1,574 +1,574 @@
-g6.0 0 7 1001 Uruguay COU http://en.wikipedia.org/wiki/Uruguay,1
-g6.0 7 9 1002 's O
-g6.0 10 17 1003 economy O
-g6.0 18 20 1004 is O
-g6.0 21 34 1005 characterized O
-g6.0 35 37 1006 by O
-g6.0 38 40 1007 an O
-g6.0 41 56 1008 export-oriented O
-g6.0 57 69 1009 agricultural O
-g6.0 70 76 1010 sector O
-g6.0 76 77 1011 , O
-g6.0 78 79 1012 a O
-g6.0 80 93 1013 well-educated O
-g6.0 94 98 1014 work O
-g6.0 99 104 1015 force O
-g6.0 104 105 1016 , O
-g6.0 106 109 1017 and O
-g6.0 110 114 1018 high O
-g6.0 115 121 1019 levels O
-g6.0 122 124 1020 of O
-g6.0 125 131 1021 social O
-g6.0 132 140 1022 spending O
-g6.0 140 141 1023 . O
-g6.0 142 151 2001 Following O
-g6.0 152 161 2002 financial O
-g6.0 162 174 2003 difficulties O
-g6.0 175 177 2004 in O
-g6.0 178 181 2005 the O
-g6.0 182 186 2006 late O
-g6.0 187 192 2007 1990s O
-g6.0 193 196 2008 and O
-g6.0 197 202 2009 early O
-g6.0 203 208 2010 2000s O
-g6.0 208 209 2011 , O
-g6.0 210 218 2012 economic O
-g6.0 219 225 2013 growth O
-g6.0 226 229 2014 for O
-g6.0 230 237 2015 Uruguay O
-g6.0 238 246 2016 averaged O
-g6.0 247 248 2017 8 O
-g6.0 248 249 2018 % O
-g6.0 250 258 2019 annually O
-g6.0 259 265 2020 during O
-g6.0 266 269 2021 the O
-g6.0 270 276 2022 period O
-g6.0 277 284 2023 2004-08 O
-g6.0 284 285 2024 . O
-g6.0 286 289 3001 The O
-g6.0 290 297 3002 2008-09 O
-g6.0 298 304 3003 global O
-g6.0 305 314 3004 financial O
-g6.0 315 321 3005 crisis O
-g6.0 322 325 3006 put O
-g6.0 326 327 3007 a O
-g6.0 328 333 3008 brake O
-g6.0 334 336 3009 on O
-g6.0 337 344 3010 Uruguay O
-g6.0 344 346 3011 's O
-g6.0 347 355 3012 vigorous O
-g6.0 356 362 3013 growth O
-g6.0 362 363 3014 , O
-g6.0 364 369 3015 which O
-g6.0 370 381 3016 decelerated O
-g6.0 382 384 3017 to O
-g6.0 385 388 3018 2.9 O
-g6.0 388 389 3019 % O
-g6.0 390 392 3020 in O
-g6.0 393 397 3021 2009 O
-g6.0 397 398 3022 . O
-g6.0 399 411 4001 Nevertheless O
-g6.0 411 412 4002 , O
-g6.0 413 416 4003 the O
-g6.0 417 424 4004 country O
-g6.0 425 432 4005 managed O
-g6.0 433 435 4006 to O
-g6.0 436 441 4007 avoid O
-g6.0 442 443 4008 a O
-g6.0 444 453 4009 recession O
-g6.0 454 457 4010 and O
-g6.0 458 462 4011 keep O
-g6.0 463 471 4012 positive O
-g6.0 472 478 4013 growth O
-g6.0 479 484 4014 rates O
-g6.0 484 485 4015 , O
-g6.0 486 492 4016 mainly O
-g6.0 493 500 4017 through O
-g6.0 501 507 4018 higher O
-g6.0 508 514 4019 public O
-g6.0 515 526 4020 expenditure O
-g6.0 527 530 4021 and O
-g6.0 531 541 4022 investment O
-g6.0 541 542 4023 , O
-g6.0 543 546 4024 and O
-g6.0 547 550 4025 GDP ORG http://en.wikipedia.org/wiki/Gross_domestic_product,1
-g6.0 551 557 4026 growth O
-g6.0 558 566 4027 exceeded O
-g6.0 567 568 4028 8 O
-g6.0 568 569 4029 % O
-g6.0 570 572 4030 in O
-g6.0 573 577 4031 2010 O
-g6.0 577 578 4032 . O
-g14.1 0 6 1001 Brazil COU http://en.wikipedia.org/wiki/Brazil,1
-g14.1 7 10 1002 and O
-g14.1 11 20 1003 Argentina COU http://en.wikipedia.org/wiki/Argentina,1
-g14.1 21 25 1004 have O
-g14.1 26 35 1005 announced O
-g14.1 36 40 1006 they O
-g14.1 41 45 1007 will O
-g14.1 46 51 1008 build O
-g14.1 52 53 1009 a O
-g14.1 54 68 1010 pharmaceutical O
-g14.1 69 74 1011 plant O
-g14.1 75 77 1012 to O
-g14.1 78 85 1013 produce O
-g14.1 86 90 1014 AIDS O
-g14.1 91 96 1015 drugs O
-g14.1 97 100 1016 and O
-g14.1 101 106 1017 other O
-g14.1 107 118 1018 medications O
-g14.1 118 119 1019 . O
-g14.1 120 129 2001 Argentine O
-g14.1 130 139 2002 officials O
-g14.1 140 144 2003 made O
-g14.1 145 148 2004 the O
-g14.1 149 161 2005 announcement O
-g14.1 162 171 2006 Wednesday O
-g14.1 172 174 2007 in O
-g14.1 175 178 2008 the O
-g14.1 179 188 2009 Argentine COU http://en.wikipedia.org/wiki/Argentines,1
-g14.1 189 196 2010 capital O
-g14.1 196 197 2011 , O
-g14.1 198 204 2012 Buenos PER http://en.wikipedia.org/wiki/Buenos_Aires,1
-g14.1 205 210 2013 Aires PER http://en.wikipedia.org/wiki/Buenos_Aires,1
-g14.1 210 211 2014 , O
-g14.1 212 217 2015 after O
-g14.1 218 219 2016 a O
-g14.1 220 227 2017 meeting O
-g14.1 228 233 2018 there O
-g14.1 234 241 2019 between O
-g14.1 242 245 2020 the O
-g14.1 246 249 2021 two O
-g14.1 250 259 2022 countries O
-g14.1 259 260 2023 ' O
-g14.1 261 267 2024 health O
-g14.1 268 277 2025 ministers O
-g14.1 277 278 2026 . O
-g14.1 279 282 3001 The O
-g14.1 283 284 3002 $ O
-g14.1 284 294 3003 10-million O
-g14.1 295 299 3004 drug O
-g14.1 300 305 3005 plant O
-g14.1 306 308 3006 is O
-g14.1 309 317 3007 expected O
-g14.1 318 320 3008 to O
-g14.1 321 323 3009 be O
-g14.1 324 331 3010 located O
-g14.1 332 334 3011 on O
-g14.1 335 344 3012 Argentine COU http://en.wikipedia.org/wiki/Argentines,1
-g14.1 345 354 3013 territory O
-g14.1 354 355 3014 , O
-g14.1 356 359 3015 but O
-g14.1 360 364 3016 both O
-g14.1 365 372 3017 nations O
-g14.1 373 377 3018 will O
-g14.1 378 388 3019 contribute O
-g14.1 389 391 3020 to O
-g14.1 392 395 3021 the O
-g14.1 396 403 3022 project O
-g14.1 403 404 3023 . O
-g14.1 405 408 4001 The O
-g14.1 409 421 4002 announcement O
-g14.1 422 426 4003 came O
-g14.1 427 429 4004 as O
-g14.1 430 439 4005 Argentine O
-g14.1 440 449 4006 President O
-g14.1 450 456 4007 Nestor PER http://en.wikipedia.org/wiki/Néstor_Kirchner,1
-g14.1 457 465 4008 Kirchner PER http://en.wikipedia.org/wiki/Néstor_Kirchner,1
-g14.1 466 469 4009 met O
-g14.1 470 474 4010 with O
-g14.1 475 478 4011 his O
-g14.1 479 488 4012 Brazilian COU http://en.wikipedia.org/wiki/Brazilian,1
-g14.1 489 500 4013 counterpart O
-g14.1 500 501 4014 , O
-g14.1 502 506 4015 Luis PER http://en.wikipedia.org/wiki/Luiz_Inácio_Lula_da_Silva,1
-g14.1 507 513 4016 Inacio PER http://en.wikipedia.org/wiki/Luiz_Inácio_Lula_da_Silva,1
-g14.1 514 518 4017 Lula PER http://en.wikipedia.org/wiki/Luiz_Inácio_Lula_da_Silva,1
-g14.1 519 521 4018 da O
-g14.1 522 527 4019 Silva CIT http://en.wikipedia.org/wiki/Silva,1
-g14.1 527 528 4020 , O
-g14.1 529 531 4021 in O
-g14.1 532 540 4022 Brasilia COU http://en.wikipedia.org/wiki/Brasília,1
-g14.1 540 541 4023 . O
-g4.9 0 6 1001 Police ORG http://en.wikipedia.org/wiki/Police,1
-g4.9 7 9 1002 in O
-g4.9 10 13 1003 Sri COU http://en.wikipedia.org/wiki/Sri_Lanka,1
-g4.9 14 19 1004 Lanka COU http://en.wikipedia.org/wiki/Sri_Lanka,1
-g4.9 20 23 1005 say O
-g4.9 24 27 1006 300 O
-g4.9 28 37 1007 prisoners O
-g4.9 38 42 1008 took O
-g4.9 43 52 1009 advantage O
-g4.9 53 55 1010 of O
-g4.9 56 62 1011 Sunday O
-g4.9 62 64 1012 's O
-g4.9 65 72 1013 massive O
-g4.9 73 83 1014 earthquake O
-g4.9 84 86 1015 to O
-g4.9 87 91 1016 make O
-g4.9 92 97 1017 their O
-g4.9 98 104 1018 escape O
-g4.9 105 109 1019 from O
-g4.9 110 111 1020 a O
-g4.9 112 125 1021 high-security O
-g4.9 126 130 1022 jail O
-g4.9 130 131 1023 . O
-g4.9 132 143 2001 Authorities O
-g4.9 144 147 2002 say O
-g4.9 148 151 2003 the O
-g4.9 152 159 2004 inmates O
-g4.9 160 164 2005 fled O
-g4.9 165 170 2006 after O
-g4.9 171 172 2007 a O
-g4.9 173 178 2008 tidal O
-g4.9 179 183 2009 wave O
-g4.9 184 190 2010 caused O
-g4.9 191 193 2011 by O
-g4.9 194 197 2012 the O
-g4.9 198 203 2013 quake O
-g4.9 204 213 2014 destroyed O
-g4.9 214 219 2015 their O
-g4.9 220 226 2016 prison O
-g4.9 226 227 2017 , O
-g4.9 228 229 2018 a O
-g4.9 230 234 2019 16th O
-g4.9 235 242 2020 century O
-g4.9 243 254 2021 Dutch-built O
-g4.9 255 259 2022 fort O
-g4.9 260 262 2023 in O
-g4.9 263 264 2024 a O
-g4.9 265 273 2025 southern O
-g4.9 274 281 2026 coastal O
-g4.9 282 286 2027 town O
-g4.9 287 293 2028 Matara CIT http://en.wikipedia.org/wiki/Matara,1
-g4.9 293 294 2029 . O
-g4.9 295 302 3001 Reuters ORG http://en.wikipedia.org/wiki/Reuters,1
-g4.9 303 307 3002 news ORG http://en.wikipedia.org/wiki/Reuters,1
-g4.9 308 314 3003 agency ORG http://en.wikipedia.org/wiki/Reuters,1
-g4.9 315 322 3004 reports O
-g4.9 323 324 3005 a O
-g4.9 325 332 3006 similar O
-g4.9 333 339 3007 prison O
-g4.9 340 345 3008 break O
-g4.9 346 348 3009 in O
-g4.9 349 358 3010 Indonesia COU http://en.wikipedia.org/wiki/Indonesia,1
-g4.9 358 360 3011 's O
-g4.9 361 365 3012 Aceh O
-g4.9 366 374 3013 province O
-g4.9 374 375 3014 . O
-g4.9 376 382 4001 Police ORG http://en.wikipedia.org/wiki/Police,1
-g4.9 383 388 4002 there O
-g4.9 389 392 4003 say O
-g4.9 393 396 4004 200 O
-g4.9 397 406 4005 prisoners O
-g4.9 407 411 4006 fled O
-g4.9 412 417 4007 after O
-g4.9 418 419 4008 a O
-g4.9 420 427 4009 tsunami O
-g4.9 428 437 4010 destroyed O
-g4.9 438 441 4011 the O
-g4.9 442 447 4012 walls O
-g4.9 448 450 4013 of O
-g4.9 451 454 4014 the O
-g4.9 455 463 4015 facility O
-g4.9 463 464 4016 . O
-g7.2 0 9 1001 President O
-g7.2 10 14 1002 Bush PER http://en.wikipedia.org/wiki/Bush,1
-g7.2 15 19 1003 said O
-g7.2 20 27 1004 nations O
-g7.2 28 34 1005 around O
-g7.2 35 38 1006 the O
-g7.2 39 44 1007 world O
-g7.2 45 49 1008 need O
-g7.2 50 52 1009 to O
-g7.2 53 58 1010 stand O
-g7.2 59 63 1011 with O
-g7.2 64 72 1012 moderate O
-g7.2 73 82 1013 reformers O
-g7.2 83 85 1014 in O
-g7.2 86 89 1015 the O
-g7.2 90 96 1016 MIddle O
-g7.2 97 101 1017 East O
-g7.2 101 102 1018 . O
-g7.2 103 105 2001 He O
-g7.2 106 110 2002 said O
-g7.2 111 114 2003 the O
-g7.2 115 120 2004 world O
-g7.2 121 125 2005 must O
-g7.2 126 130 2006 seek O
-g7.2 131 140 2007 stability O
-g7.2 141 143 2008 in O
-g7.2 144 147 2009 the O
-g7.2 148 154 2010 region O
-g7.2 155 162 2011 through O
-g7.2 163 166 2012 the O
-g7.2 167 180 2013 establishment O
-g7.2 181 183 2014 of O
-g7.2 184 188 2015 free O
-g7.2 189 192 2016 and O
-g7.2 193 197 2017 just O
-g7.2 198 207 2018 societies O
-g7.2 207 208 2019 . O
-g7.2 209 212 3001 Mr. O
-g7.2 213 217 3002 Bush PER http://en.wikipedia.org/wiki/Bush,1
-g7.2 218 222 3003 also O
-g7.2 223 230 3004 pledged O
-g7.2 231 233 3005 to O
-g7.2 234 242 3006 continue O
-g7.2 243 245 3007 to O
-g7.2 246 253 3008 support O
-g7.2 254 257 3009 the O
-g7.2 258 268 3010 government O
-g7.2 269 271 3011 of O
-g7.2 272 276 3012 Iraq COU http://en.wikipedia.org/wiki/Iraq,1
-g7.2 277 279 3013 in O
-g7.2 280 283 3014 its O
-g7.2 284 292 3015 struggle O
-g7.2 293 297 3016 with O
-g7.2 298 308 3017 terrorists O
-g7.2 308 309 3018 . O
-g7.2 310 312 4001 In O
-g7.2 313 321 4002 addition O
-g7.2 321 322 4003 , O
-g7.2 323 326 4004 the O
-g7.2 327 336 4005 president O
-g7.2 337 341 4006 said O
-g7.2 342 346 4007 Iran COU http://en.wikipedia.org/wiki/Iran,1
-g7.2 347 351 4008 must O
-g7.2 352 359 4009 abandon O
-g7.2 360 364 4010 what O
-g7.2 365 367 4011 he O
-g7.2 368 374 4012 called O
-g7.2 375 378 4013 its O
-g7.2 379 387 4014 ambition O
-g7.2 388 391 4015 for O
-g7.2 392 399 4016 nuclear O
-g7.2 400 407 4017 weapons O
-g7.2 407 408 4018 . O
-g7.2 409 411 5001 He O
-g7.2 412 416 5002 said O
-g7.2 417 420 5003 the O
-g7.2 421 427 5004 United COU http://en.wikipedia.org/wiki/United_States,1
-g7.2 428 434 5005 States COU http://en.wikipedia.org/wiki/United_States,1
-g7.2 435 437 5006 is O
-g7.2 438 445 5007 working O
-g7.2 446 449 5008 for O
-g7.2 450 451 5009 a O
-g7.2 452 462 5010 diplomatic O
-g7.2 463 471 5011 solution O
-g7.2 472 474 5012 to O
-g7.2 475 478 5013 the O
-g7.2 479 484 5014 issue O
-g7.2 484 485 5015 , O
-g7.2 486 489 5016 and O
-g7.2 490 494 5017 said O
-g7.2 495 498 5018 the O
-g7.2 499 503 5019 U.S. COU http://en.wikipedia.org/wiki/United_States,1
-g7.2 504 508 5020 does O
-g7.2 509 512 5021 not O
-g7.2 513 519 5022 oppose O
-g7.2 520 521 5023 a O
-g7.2 522 527 5024 truly O
-g7.2 528 536 5025 peaceful O
-g7.2 537 544 5026 nuclear O
-g7.2 545 552 5027 program O
-g7.2 553 556 5028 for O
-g7.2 557 561 5029 Iran COU http://en.wikipedia.org/wiki/Iran,1
-g7.2 561 562 5030 . O
-g3.1 0 2 1001 An O
-g3.1 3 10 1002 attempt O
-g3.1 11 13 1003 to O
-g3.1 14 21 1004 address O
-g3.1 22 29 1005 America COU http://en.wikipedia.org/wiki/America,1
-g3.1 29 31 1006 's O
-g3.1 32 38 1007 weight O
-g3.1 39 46 1008 problem O
-g3.1 47 50 1009 has O
-g3.1 51 54 1010 run O
-g3.1 55 59 1011 into O
-g3.1 60 67 1012 trouble O
-g3.1 68 70 1013 in O
-g3.1 71 74 1014 New CIT http://en.wikipedia.org/wiki/New_York,1
-g3.1 75 79 1015 York CIT http://en.wikipedia.org/wiki/New_York,1
-g3.1 79 80 1016 . O
-g3.1 81 87 2001 Health O
-g3.1 88 97 2002 officials O
-g3.1 98 101 2003 are O
-g3.1 102 108 2004 trying O
-g3.1 109 111 2005 to O
-g3.1 112 120 2006 increase O
-g3.1 121 124 2007 the O
-g3.1 125 129 2008 city O
-g3.1 129 131 2009 's O
-g3.1 132 143 2010 consumption O
-g3.1 144 146 2011 of O
-g3.1 147 153 2012 fruits O
-g3.1 154 157 2013 and O
-g3.1 158 168 2014 vegetables O
-g3.1 168 169 2015 , O
-g3.1 170 180 2016 especially O
-g3.1 181 183 2017 in O
-g3.1 184 188 2018 less O
-g3.1 189 197 2019 affluent O
-g3.1 198 211 2020 neighborhoods O
-g3.1 212 217 2021 where O
-g3.1 218 225 2022 obesity O
-g3.1 226 231 2023 rates O
-g3.1 232 235 2024 are O
-g3.1 236 242 2025 higher O
-g3.1 242 243 2026 . O
-g3.1 244 249 3001 Given O
-g3.1 250 254 3002 that O
-g3.1 255 259 3003 more O
-g3.1 260 264 3004 than O
-g3.1 265 269 3005 half O
-g3.1 270 272 3006 of O
-g3.1 273 276 3007 New CIT http://en.wikipedia.org/wiki/New_York,1
-g3.1 277 281 3008 York CIT http://en.wikipedia.org/wiki/New_York,1
-g3.1 282 288 3009 adults O
-g3.1 289 292 3010 are O
-g3.1 293 303 3011 overweight O
-g3.1 304 306 3012 or O
-g3.1 307 312 3013 obese O
-g3.1 313 314 3014 - O
-g3.1 315 318 3015 and O
-g3.1 319 321 3016 an O
-g3.1 322 331 3017 estimated O
-g3.1 332 339 3018 700,000 O
-g3.1 340 346 3019 suffer O
-g3.1 347 351 3020 from O
-g3.1 352 360 3021 diabetes O
-g3.1 361 362 3022 - O
-g3.1 363 366 3023 the O
-g3.1 367 375 3024 argument O
-g3.1 376 378 3025 is O
-g3.1 379 382 3026 not O
-g3.1 383 387 3027 over O
-g3.1 388 391 3028 the O
-g3.1 392 396 3029 need O
-g3.1 397 400 3030 for O
-g3.1 401 407 3031 action O
-g3.1 407 408 3032 . O
-g3.1 409 416 4001 Instead O
-g3.1 416 417 4002 , O
-g3.1 418 421 4003 the O
-g3.1 422 427 4004 issue O
-g3.1 428 430 4005 is O
-g3.1 431 434 4006 the O
-g3.1 435 438 4007 way O
-g3.1 439 442 4008 the O
-g3.1 443 447 4009 city O
-g3.1 448 451 4010 has O
-g3.1 452 456 4011 gone O
-g3.1 457 462 4012 about O
-g3.1 463 465 4013 it O
-g3.1 465 466 4014 . O
-g3.1 467 472 5001 Paige PER http://en.wikipedia.org/wiki/Ali_Hussain_Sibat,1
-g3.1 473 480 5002 Kollock PER http://en.wikipedia.org/wiki/Ali_Hussain_Sibat,1
-g3.1 481 484 5003 has O
-g3.1 485 489 5004 more O
-g3.1 489 490 5005 . O
-g10.9 0 5 1001 First O
-g10.9 6 16 1002 discovered O
-g10.9 17 19 1003 by O
-g10.9 20 23 1004 the O
-g10.9 24 34 1005 Norwegians O
-g10.9 35 37 1006 in O
-g10.9 38 41 1007 the O
-g10.9 42 46 1008 12th O
-g10.9 47 54 1009 century O
-g10.9 54 55 1010 , O
-g10.9 56 59 1011 the O
-g10.9 60 67 1012 islands O
-g10.9 68 74 1013 served O
-g10.9 75 77 1014 as O
-g10.9 78 80 1015 an O
-g10.9 81 94 1016 international O
-g10.9 95 102 1017 whaling O
-g10.9 103 107 1018 base O
-g10.9 108 114 1019 during O
-g10.9 115 118 1020 the O
-g10.9 119 123 1021 17th O
-g10.9 124 127 1022 and O
-g10.9 128 132 1023 18th O
-g10.9 133 142 1024 centuries O
-g10.9 142 143 1025 . O
-g10.9 144 150 2001 Norway COU http://en.wikipedia.org/wiki/Norway,1
-g10.9 150 152 2002 's O
-g10.9 153 164 2003 sovereignty O
-g10.9 165 168 2004 was O
-g10.9 169 179 2005 recognized O
-g10.9 180 182 2006 in O
-g10.9 183 187 2007 1920 O
-g10.9 187 188 2008 ; O
-g10.9 189 193 2009 five O
-g10.9 194 199 2010 years O
-g10.9 200 205 2011 later O
-g10.9 206 208 2012 it O
-g10.9 209 219 2013 officially O
-g10.9 220 224 2014 took O
-g10.9 225 229 2015 over O
-g10.9 230 233 2016 the O
-g10.9 234 243 2017 territory O
-g10.9 243 244 2018 . O
-g7.5 1 4 1001 For O
-g7.5 5 9 1002 most O
-g7.5 10 12 1003 of O
-g7.5 13 16 1004 the O
-g7.5 17 26 1005 countries O
-g7.5 27 29 1006 of O
-g7.5 30 33 1007 the O
-g7.5 34 40 1008 former O
-g7.5 41 51 1009 Yugoslavia COU http://en.wikipedia.org/wiki/Yugoslavia,1
-g7.5 51 52 1010 , O
-g7.5 53 56 1011 the O
-g7.5 57 61 1012 ride O
-g7.5 62 66 1013 from O
-g7.5 67 72 1014 armed O
-g7.5 73 81 1015 conflict O
-g7.5 82 88 1016 during O
-g7.5 89 92 1017 the O
-g7.5 93 98 1018 1990s O
-g7.5 99 101 1019 to O
-g7.5 102 105 1020 the O
-g7.5 106 112 1021 calmer O
-g7.5 113 119 1022 waters O
-g7.5 120 122 1023 of O
-g7.5 123 131 1024 European COU http://en.wikipedia.org/wiki/European,1
-g7.5 132 143 1025 integration O
-g7.5 144 147 1026 has O
-g7.5 148 152 1027 been O
-g7.5 153 159 1028 stormy O
-g7.5 159 160 1029 , O
-g7.5 161 165 1030 with O
-g7.5 166 173 1031 various O
-g7.5 174 181 1032 degrees O
-g7.5 182 184 1033 of O
-g7.5 185 192 1034 success O
-g7.5 192 193 1035 . O
-g7.5 195 198 2001 VOA ORG http://en.wikipedia.org/wiki/Voice_of_America,1
-g7.5 198 200 2002 's O
-g7.5 201 205 2003 Jela O
-g7.5 206 208 2004 de O
-g7.5 209 219 2005 Franceschi COU http://en.wikipedia.org/wiki/Franceschi,1
-g7.5 220 225 2006 takes O
-g7.5 226 227 2007 a O
-g7.5 228 234 2008 closer O
-g7.5 235 239 2009 look O
-g7.5 240 242 2010 at O
-g7.5 243 251 2011 progress O
-g7.5 252 256 2012 made O
-g7.5 257 259 2013 in O
-g7.5 260 272 2014 transforming O
-g7.5 273 276 2015 the O
-g7.5 277 284 2016 Western O
-g7.5 285 292 2017 Balkans O
-g7.5 293 297 2018 into O
-g7.5 298 299 2019 a O
-g7.5 300 306 2020 region O
-g7.5 307 309 2021 of O
-g7.5 310 318 2022 economic O
-g7.5 319 322 2023 and O
-g7.5 323 332 2024 political O
-g7.5 333 342 2025 stability O
-g7.5 342 343 2026 . O
+g4.9 0 6 1001 Police NNP ORG http://en.wikipedia.org/wiki/Police,1
+g4.9 7 9 1002 in IN O
+g4.9 10 13 1003 Sri NNP COU http://en.wikipedia.org/wiki/Sri_Lanka,1
+g4.9 14 19 1004 Lanka NNP COU http://en.wikipedia.org/wiki/Sri_Lanka,1
+g4.9 20 23 1005 say VBP O
+g4.9 24 27 1006 300 CD O
+g4.9 28 37 1007 prisoners NNS O
+g4.9 38 42 1008 took VBD O
+g4.9 43 52 1009 advantage NN O
+g4.9 53 55 1010 of IN O
+g4.9 56 62 1011 Sunday NNP O
+g4.9 62 64 1012 's VBZ O
+g4.9 65 72 1013 massive JJ O
+g4.9 73 83 1014 earthquake NN O
+g4.9 84 86 1015 to TO O
+g4.9 87 91 1016 make VB O
+g4.9 92 97 1017 their PRP$ O
+g4.9 98 104 1018 escape NN O
+g4.9 105 109 1019 from IN O
+g4.9 110 111 1020 a DT O
+g4.9 112 125 1021 high-security NN O
+g4.9 126 130 1022 jail NN O
+g4.9 130 131 1023 . . O
+g4.9 132 143 2001 Authorities NNS O
+g4.9 144 147 2002 say VBP O
+g4.9 148 151 2003 the DT O
+g4.9 152 159 2004 inmates NNS O
+g4.9 160 164 2005 fled VBD O
+g4.9 165 170 2006 after IN O
+g4.9 171 172 2007 a DT O
+g4.9 173 178 2008 tidal NN O
+g4.9 179 183 2009 wave NN O
+g4.9 184 190 2010 caused VBD O
+g4.9 191 193 2011 by IN O
+g4.9 194 197 2012 the DT O
+g4.9 198 203 2013 quake NN O
+g4.9 204 213 2014 destroyed VBD O
+g4.9 214 219 2015 their PRP$ O
+g4.9 220 226 2016 prison NN O
+g4.9 226 227 2017 , , O
+g4.9 228 229 2018 a DT O
+g4.9 230 234 2019 16th JJ O
+g4.9 235 242 2020 century NN O
+g4.9 243 254 2021 Dutch-built JJ O
+g4.9 255 259 2022 fort NN O
+g4.9 260 262 2023 in IN O
+g4.9 263 264 2024 a DT O
+g4.9 265 273 2025 southern NN O
+g4.9 274 281 2026 coastal JJ O
+g4.9 282 286 2027 town NN O
+g4.9 287 293 2028 Matara NNP CIT http://en.wikipedia.org/wiki/Matara,1
+g4.9 293 294 2029 . . O
+g4.9 295 302 3001 Reuters NNP ORG http://en.wikipedia.org/wiki/Reuters,1
+g4.9 303 307 3002 news NN ORG http://en.wikipedia.org/wiki/Reuters,1
+g4.9 308 314 3003 agency NN ORG http://en.wikipedia.org/wiki/Reuters,1
+g4.9 315 322 3004 reports NNS O
+g4.9 323 324 3005 a DT O
+g4.9 325 332 3006 similar JJ O
+g4.9 333 339 3007 prison NN O
+g4.9 340 345 3008 break NN O
+g4.9 346 348 3009 in IN O
+g4.9 349 358 3010 Indonesia NNP COU http://en.wikipedia.org/wiki/Indonesia,1
+g4.9 358 360 3011 's VBZ O
+g4.9 361 365 3012 Aceh NNP O
+g4.9 366 374 3013 province NN O
+g4.9 374 375 3014 . . O
+g4.9 376 382 4001 Police NNP ORG http://en.wikipedia.org/wiki/Police,1
+g4.9 383 388 4002 there EX O
+g4.9 389 392 4003 say VBP O
+g4.9 393 396 4004 200 CD O
+g4.9 397 406 4005 prisoners NNS O
+g4.9 407 411 4006 fled VBD O
+g4.9 412 417 4007 after IN O
+g4.9 418 419 4008 a DT O
+g4.9 420 427 4009 tsunami NN O
+g4.9 428 437 4010 destroyed VBD O
+g4.9 438 441 4011 the DT O
+g4.9 442 447 4012 walls NNS O
+g4.9 448 450 4013 of IN O
+g4.9 451 454 4014 the DT O
+g4.9 455 463 4015 facility NN O
+g4.9 463 464 4016 . . O
+g7.5 1 4 1001 For IN O
+g7.5 5 9 1002 most JJS O
+g7.5 10 12 1003 of IN O
+g7.5 13 16 1004 the DT O
+g7.5 17 26 1005 countries NNS O
+g7.5 27 29 1006 of IN O
+g7.5 30 33 1007 the DT O
+g7.5 34 40 1008 former JJ O
+g7.5 41 51 1009 Yugoslavia NNP COU http://en.wikipedia.org/wiki/Yugoslavia,1
+g7.5 51 52 1010 , , O
+g7.5 53 56 1011 the DT O
+g7.5 57 61 1012 ride NN O
+g7.5 62 66 1013 from IN O
+g7.5 67 72 1014 armed VBN O
+g7.5 73 81 1015 conflict NN O
+g7.5 82 88 1016 during IN O
+g7.5 89 92 1017 the DT O
+g7.5 93 98 1018 1990s NNS O
+g7.5 99 101 1019 to TO O
+g7.5 102 105 1020 the DT O
+g7.5 106 112 1021 calmer NN O
+g7.5 113 119 1022 waters NNS O
+g7.5 120 122 1023 of IN O
+g7.5 123 131 1024 European JJ COU http://en.wikipedia.org/wiki/European,1
+g7.5 132 143 1025 integration NN O
+g7.5 144 147 1026 has VBZ O
+g7.5 148 152 1027 been VBN O
+g7.5 153 159 1028 stormy JJ O
+g7.5 159 160 1029 , , O
+g7.5 161 165 1030 with IN O
+g7.5 166 173 1031 various JJ O
+g7.5 174 181 1032 degrees NNS O
+g7.5 182 184 1033 of IN O
+g7.5 185 192 1034 success NN O
+g7.5 192 193 1035 . . O
+g7.5 195 198 2001 VOA NNP ORG http://en.wikipedia.org/wiki/Voice_of_America,1
+g7.5 198 200 2002 's POS O
+g7.5 201 205 2003 Jela NNP O
+g7.5 206 208 2004 de IN O
+g7.5 209 219 2005 Franceschi NNP COU http://en.wikipedia.org/wiki/Franceschi,1
+g7.5 220 225 2006 takes VBZ O
+g7.5 226 227 2007 a DT O
+g7.5 228 234 2008 closer NN O
+g7.5 235 239 2009 look NN O
+g7.5 240 242 2010 at IN O
+g7.5 243 251 2011 progress NN O
+g7.5 252 256 2012 made VBN O
+g7.5 257 259 2013 in IN O
+g7.5 260 272 2014 transforming NN O
+g7.5 273 276 2015 the DT O
+g7.5 277 284 2016 Western NNP O
+g7.5 285 292 2017 Balkans NNP O
+g7.5 293 297 2018 into IN O
+g7.5 298 299 2019 a DT O
+g7.5 300 306 2020 region NN O
+g7.5 307 309 2021 of IN O
+g7.5 310 318 2022 economic JJ O
+g7.5 319 322 2023 and CC O
+g7.5 323 332 2024 political JJ O
+g7.5 333 342 2025 stability NN O
+g7.5 342 343 2026 . . O
+g3.1 0 2 1001 An DT O
+g3.1 3 10 1002 attempt NN O
+g3.1 11 13 1003 to TO O
+g3.1 14 21 1004 address VB O
+g3.1 22 29 1005 America NNP COU http://en.wikipedia.org/wiki/America,1
+g3.1 29 31 1006 's POS O
+g3.1 32 38 1007 weight NN O
+g3.1 39 46 1008 problem NN O
+g3.1 47 50 1009 has VBZ O
+g3.1 51 54 1010 run VBN O
+g3.1 55 59 1011 into IN O
+g3.1 60 67 1012 trouble NN O
+g3.1 68 70 1013 in IN O
+g3.1 71 74 1014 New NNP CIT http://en.wikipedia.org/wiki/New_York,1
+g3.1 75 79 1015 York NNP CIT http://en.wikipedia.org/wiki/New_York,1
+g3.1 79 80 1016 . . O
+g3.1 81 87 2001 Health NNP O
+g3.1 88 97 2002 officials NNS O
+g3.1 98 101 2003 are VBP O
+g3.1 102 108 2004 trying VBG O
+g3.1 109 111 2005 to TO O
+g3.1 112 120 2006 increase VB O
+g3.1 121 124 2007 the DT O
+g3.1 125 129 2008 city NN O
+g3.1 129 131 2009 's POS O
+g3.1 132 143 2010 consumption NN O
+g3.1 144 146 2011 of IN O
+g3.1 147 153 2012 fruits NNS O
+g3.1 154 157 2013 and CC O
+g3.1 158 168 2014 vegetables NNS O
+g3.1 168 169 2015 , , O
+g3.1 170 180 2016 especially RB O
+g3.1 181 183 2017 in IN O
+g3.1 184 188 2018 less JJR O
+g3.1 189 197 2019 affluent NN O
+g3.1 198 211 2020 neighborhoods NNS O
+g3.1 212 217 2021 where WRB O
+g3.1 218 225 2022 obesity NN O
+g3.1 226 231 2023 rates NNS O
+g3.1 232 235 2024 are VBP O
+g3.1 236 242 2025 higher JJR O
+g3.1 242 243 2026 . . O
+g3.1 244 249 3001 Given NNP O
+g3.1 250 254 3002 that IN O
+g3.1 255 259 3003 more JJR O
+g3.1 260 264 3004 than IN O
+g3.1 265 269 3005 half PDT O
+g3.1 270 272 3006 of IN O
+g3.1 273 276 3007 New NNP CIT http://en.wikipedia.org/wiki/New_York,1
+g3.1 277 281 3008 York NNP CIT http://en.wikipedia.org/wiki/New_York,1
+g3.1 282 288 3009 adults NNS O
+g3.1 289 292 3010 are VBP O
+g3.1 293 303 3011 overweight VBN O
+g3.1 304 306 3012 or CC O
+g3.1 307 312 3013 obese JJ O
+g3.1 313 314 3014 - : O
+g3.1 315 318 3015 and CC O
+g3.1 319 321 3016 an DT O
+g3.1 322 331 3017 estimated VBN O
+g3.1 332 339 3018 700,000 CD O
+g3.1 340 346 3019 suffer NN O
+g3.1 347 351 3020 from IN O
+g3.1 352 360 3021 diabetes NNS O
+g3.1 361 362 3022 - : O
+g3.1 363 366 3023 the DT O
+g3.1 367 375 3024 argument NN O
+g3.1 376 378 3025 is VBZ O
+g3.1 379 382 3026 not RB O
+g3.1 383 387 3027 over IN O
+g3.1 388 391 3028 the DT O
+g3.1 392 396 3029 need NN O
+g3.1 397 400 3030 for IN O
+g3.1 401 407 3031 action NN O
+g3.1 407 408 3032 . . O
+g3.1 409 416 4001 Instead NNP O
+g3.1 416 417 4002 , , O
+g3.1 418 421 4003 the DT O
+g3.1 422 427 4004 issue NN O
+g3.1 428 430 4005 is VBZ O
+g3.1 431 434 4006 the DT O
+g3.1 435 438 4007 way NN O
+g3.1 439 442 4008 the DT O
+g3.1 443 447 4009 city NN O
+g3.1 448 451 4010 has VBZ O
+g3.1 452 456 4011 gone VBN O
+g3.1 457 462 4012 about IN O
+g3.1 463 465 4013 it PRP O
+g3.1 465 466 4014 . . O
+g3.1 467 472 5001 Paige NNP PER http://en.wikipedia.org/wiki/Ali_Hussain_Sibat,1
+g3.1 473 480 5002 Kollock NNP PER http://en.wikipedia.org/wiki/Ali_Hussain_Sibat,1
+g3.1 481 484 5003 has VBZ O
+g3.1 485 489 5004 more JJR O
+g3.1 489 490 5005 . . O
+g6.0 0 7 1001 Uruguay DT COU http://en.wikipedia.org/wiki/Uruguay,1
+g6.0 7 9 1002 's NNP O
+g6.0 10 17 1003 economy NNP O
+g6.0 18 20 1004 is NN O
+g6.0 21 34 1005 characterized NN O
+g6.0 35 37 1006 by NNS O
+g6.0 38 40 1007 an DT O
+g6.0 41 56 1008 export-oriented NN O
+g6.0 57 69 1009 agricultural IN O
+g6.0 70 76 1010 sector DT O
+g6.0 76 77 1011 , NN O
+g6.0 78 79 1012 a NN O
+g6.0 80 93 1013 well-educated IN O
+g6.0 94 98 1014 work NN O
+g6.0 99 104 1015 force IN O
+g6.0 104 105 1016 , CD O
+g6.0 106 109 1017 and CC O
+g6.0 110 114 1018 high CD O
+g6.0 115 121 1019 levels . O
+g6.0 122 124 1020 of DT O
+g6.0 125 131 1021 social NN O
+g6.0 132 140 1022 spending NNS O
+g6.0 140 141 1023 . VBZ O
+g6.0 142 151 2001 Following IN O
+g6.0 152 161 2002 financial NNS O
+g6.0 162 174 2003 difficulties IN O
+g6.0 175 177 2004 in IN O
+g6.0 178 181 2005 the DT O
+g6.0 182 186 2006 late NN O
+g6.0 187 192 2007 1990s CC O
+g6.0 193 196 2008 and VBZ O
+g6.0 197 202 2009 early NNS O
+g6.0 203 208 2010 2000s , O
+g6.0 208 209 2011 , NNS O
+g6.0 210 218 2012 economic CC O
+g6.0 219 225 2013 growth NN O
+g6.0 226 229 2014 for NN O
+g6.0 230 237 2015 Uruguay . O
+g6.0 238 246 2016 averaged NNP O
+g6.0 247 248 2017 8 POS O
+g6.0 248 249 2018 % NNP O
+g6.0 250 258 2019 annually NNP O
+g6.0 259 265 2020 during VBD O
+g6.0 266 269 2021 the DT O
+g6.0 270 276 2022 period NN O
+g6.0 277 284 2023 2004-08 IN O
+g6.0 284 285 2024 . DT O
+g6.0 286 289 3001 The NNP O
+g6.0 290 297 3002 2008-09 CD O
+g6.0 298 304 3003 global NNP O
+g6.0 305 314 3004 financial NNP O
+g6.0 315 321 3005 crisis NNP O
+g6.0 322 325 3006 put . O
+g6.0 326 327 3007 a NNP O
+g6.0 328 333 3008 brake NNP O
+g6.0 334 336 3009 on VBZ O
+g6.0 337 344 3010 Uruguay . O
+g6.0 344 346 3011 's NNP O
+g6.0 347 355 3012 vigorous POS O
+g6.0 356 362 3013 growth NN O
+g6.0 362 363 3014 , NN O
+g6.0 364 369 3015 which NNP O
+g6.0 370 381 3016 decelerated NN O
+g6.0 382 384 3017 to NN O
+g6.0 385 388 3018 2.9 VBZ O
+g6.0 388 389 3019 % VBN O
+g6.0 390 392 3020 in VBN O
+g6.0 393 397 3021 2009 TO O
+g6.0 397 398 3022 . DT O
+g6.0 399 411 4001 Nevertheless NNP O
+g6.0 411 412 4002 , NNP O
+g6.0 413 416 4003 the NNP O
+g6.0 417 424 4004 country , O
+g6.0 425 432 4005 managed CC O
+g6.0 433 435 4006 to DT O
+g6.0 436 441 4007 avoid NNS O
+g6.0 442 443 4008 a VBP O
+g6.0 444 453 4009 recession VBN O
+g6.0 454 457 4010 and VBG O
+g6.0 458 462 4011 keep CC O
+g6.0 463 471 4012 positive VBG O
+g6.0 472 478 4013 growth PRP O
+g6.0 479 484 4014 rates RP O
+g6.0 484 485 4015 , . O
+g6.0 486 492 4016 mainly DT O
+g6.0 493 500 4017 through NN O
+g6.0 501 507 4018 higher , O
+g6.0 508 514 4019 public VBD O
+g6.0 515 526 4020 expenditure NNS O
+g6.0 527 530 4021 and IN O
+g6.0 531 541 4022 investment NN O
+g6.0 541 542 4023 , NNP O
+g6.0 543 546 4024 and CC O
+g6.0 547 550 4025 GDP DT ORG http://en.wikipedia.org/wiki/Gross_domestic_product,1
+g6.0 551 557 4026 growth NN O
+g6.0 558 566 4027 exceeded NN O
+g6.0 567 568 4028 8 VBP O
+g6.0 568 569 4029 % RB O
+g6.0 570 572 4030 in VBN O
+g6.0 573 577 4031 2010 VBG O
+g6.0 577 578 4032 . DT O
+g7.2 0 9 1001 President NNP O
+g7.2 10 14 1002 Bush NNP PER http://en.wikipedia.org/wiki/Bush,1
+g7.2 15 19 1003 said VBD O
+g7.2 20 27 1004 nations NNS O
+g7.2 28 34 1005 around IN O
+g7.2 35 38 1006 the DT O
+g7.2 39 44 1007 world NN O
+g7.2 45 49 1008 need VBP O
+g7.2 50 52 1009 to TO O
+g7.2 53 58 1010 stand VB O
+g7.2 59 63 1011 with IN O
+g7.2 64 72 1012 moderate JJ O
+g7.2 73 82 1013 reformers NNS O
+g7.2 83 85 1014 in IN O
+g7.2 86 89 1015 the DT O
+g7.2 90 96 1016 MIddle NNP O
+g7.2 97 101 1017 East NNP O
+g7.2 101 102 1018 . . O
+g7.2 103 105 2001 He PRP O
+g7.2 106 110 2002 said VBD O
+g7.2 111 114 2003 the DT O
+g7.2 115 120 2004 world NN O
+g7.2 121 125 2005 must MD O
+g7.2 126 130 2006 seek VB O
+g7.2 131 140 2007 stability NN O
+g7.2 141 143 2008 in IN O
+g7.2 144 147 2009 the DT O
+g7.2 148 154 2010 region NN O
+g7.2 155 162 2011 through IN O
+g7.2 163 166 2012 the DT O
+g7.2 167 180 2013 establishment NN O
+g7.2 181 183 2014 of IN O
+g7.2 184 188 2015 free JJ O
+g7.2 189 192 2016 and CC O
+g7.2 193 197 2017 just RB O
+g7.2 198 207 2018 societies NNS O
+g7.2 207 208 2019 . . O
+g7.2 209 212 3001 Mr. NNP O
+g7.2 213 217 3002 Bush NNP PER http://en.wikipedia.org/wiki/Bush,1
+g7.2 218 222 3003 also RB O
+g7.2 223 230 3004 pledged VBD O
+g7.2 231 233 3005 to TO O
+g7.2 234 242 3006 continue VB O
+g7.2 243 245 3007 to TO O
+g7.2 246 253 3008 support VB O
+g7.2 254 257 3009 the DT O
+g7.2 258 268 3010 government NN O
+g7.2 269 271 3011 of IN O
+g7.2 272 276 3012 Iraq NNP COU http://en.wikipedia.org/wiki/Iraq,1
+g7.2 277 279 3013 in IN O
+g7.2 280 283 3014 its PRP$ O
+g7.2 284 292 3015 struggle NN O
+g7.2 293 297 3016 with IN O
+g7.2 298 308 3017 terrorists NNS O
+g7.2 308 309 3018 . . O
+g7.2 310 312 4001 In IN O
+g7.2 313 321 4002 addition NN O
+g7.2 321 322 4003 , , O
+g7.2 323 326 4004 the DT O
+g7.2 327 336 4005 president NN O
+g7.2 337 341 4006 said VBD O
+g7.2 342 346 4007 Iran NNP COU http://en.wikipedia.org/wiki/Iran,1
+g7.2 347 351 4008 must MD O
+g7.2 352 359 4009 abandon VB O
+g7.2 360 364 4010 what WP O
+g7.2 365 367 4011 he PRP O
+g7.2 368 374 4012 called VBD O
+g7.2 375 378 4013 its PRP$ O
+g7.2 379 387 4014 ambition NN O
+g7.2 388 391 4015 for IN O
+g7.2 392 399 4016 nuclear JJ O
+g7.2 400 407 4017 weapons NNS O
+g7.2 407 408 4018 . . O
+g7.2 409 411 5001 He PRP O
+g7.2 412 416 5002 said VBD O
+g7.2 417 420 5003 the DT O
+g7.2 421 427 5004 United NNP COU http://en.wikipedia.org/wiki/United_States,1
+g7.2 428 434 5005 States NNPS COU http://en.wikipedia.org/wiki/United_States,1
+g7.2 435 437 5006 is VBZ O
+g7.2 438 445 5007 working VBG O
+g7.2 446 449 5008 for IN O
+g7.2 450 451 5009 a DT O
+g7.2 452 462 5010 diplomatic JJ O
+g7.2 463 471 5011 solution NN O
+g7.2 472 474 5012 to TO O
+g7.2 475 478 5013 the DT O
+g7.2 479 484 5014 issue NN O
+g7.2 484 485 5015 , , O
+g7.2 486 489 5016 and CC O
+g7.2 490 494 5017 said VBD O
+g7.2 495 498 5018 the DT O
+g7.2 499 503 5019 U.S. NNP COU http://en.wikipedia.org/wiki/United_States,1
+g7.2 504 508 5020 does VBZ O
+g7.2 509 512 5021 not RB O
+g7.2 513 519 5022 oppose VB O
+g7.2 520 521 5023 a DT O
+g7.2 522 527 5024 truly RB O
+g7.2 528 536 5025 peaceful JJ O
+g7.2 537 544 5026 nuclear JJ O
+g7.2 545 552 5027 program NN O
+g7.2 553 556 5028 for IN O
+g7.2 557 561 5029 Iran NNP COU http://en.wikipedia.org/wiki/Iran,1
+g7.2 561 562 5030 . . O
+g10.9 0 5 1001 First NNP O
+g10.9 6 16 1002 discovered VBD O
+g10.9 17 19 1003 by IN O
+g10.9 20 23 1004 the DT O
+g10.9 24 34 1005 Norwegians NNPS O
+g10.9 35 37 1006 in IN O
+g10.9 38 41 1007 the DT O
+g10.9 42 46 1008 12th JJ O
+g10.9 47 54 1009 century NN O
+g10.9 54 55 1010 , , O
+g10.9 56 59 1011 the DT O
+g10.9 60 67 1012 islands NNS O
+g10.9 68 74 1013 served VBD O
+g10.9 75 77 1014 as IN O
+g10.9 78 80 1015 an DT O
+g10.9 81 94 1016 international JJ O
+g10.9 95 102 1017 whaling NN O
+g10.9 103 107 1018 base NN O
+g10.9 108 114 1019 during IN O
+g10.9 115 118 1020 the DT O
+g10.9 119 123 1021 17th JJ O
+g10.9 124 127 1022 and CC O
+g10.9 128 132 1023 18th JJ O
+g10.9 133 142 1024 centuries NNS O
+g10.9 142 143 1025 . . O
+g10.9 144 150 2001 Norway NNP COU http://en.wikipedia.org/wiki/Norway,1
+g10.9 150 152 2002 's POS O
+g10.9 153 164 2003 sovereignty NN O
+g10.9 165 168 2004 was VBD O
+g10.9 169 179 2005 recognized VBN O
+g10.9 180 182 2006 in IN O
+g10.9 183 187 2007 1920 CD O
+g10.9 187 188 2008 ; : O
+g10.9 189 193 2009 five CD O
+g10.9 194 199 2010 years NNS O
+g10.9 200 205 2011 later RBR O
+g10.9 206 208 2012 it PRP O
+g10.9 209 219 2013 officially RB O
+g10.9 220 224 2014 took VBD O
+g10.9 225 229 2015 over IN O
+g10.9 230 233 2016 the DT O
+g10.9 234 243 2017 territory NN O
+g10.9 243 244 2018 . . O
+g14.1 0 6 1001 Brazil NNP COU http://en.wikipedia.org/wiki/Brazil,1
+g14.1 7 10 1002 and CC O
+g14.1 11 20 1003 Argentina NNP COU http://en.wikipedia.org/wiki/Argentina,1
+g14.1 21 25 1004 have VBP O
+g14.1 26 35 1005 announced VBN O
+g14.1 36 40 1006 they PRP O
+g14.1 41 45 1007 will MD O
+g14.1 46 51 1008 build VB O
+g14.1 52 53 1009 a DT O
+g14.1 54 68 1010 pharmaceutical JJ O
+g14.1 69 74 1011 plant NN O
+g14.1 75 77 1012 to TO O
+g14.1 78 85 1013 produce VB O
+g14.1 86 90 1014 AIDS NNP O
+g14.1 91 96 1015 drugs NNS O
+g14.1 97 100 1016 and CC O
+g14.1 101 106 1017 other JJ O
+g14.1 107 118 1018 medications NNS O
+g14.1 118 119 1019 . . O
+g14.1 120 129 2001 Argentine JJ O
+g14.1 130 139 2002 officials NNS O
+g14.1 140 144 2003 made VBN O
+g14.1 145 148 2004 the DT O
+g14.1 149 161 2005 announcement NN O
+g14.1 162 171 2006 Wednesday NNP O
+g14.1 172 174 2007 in IN O
+g14.1 175 178 2008 the DT O
+g14.1 179 188 2009 Argentine NNP COU http://en.wikipedia.org/wiki/Argentines,1
+g14.1 189 196 2010 capital NN O
+g14.1 196 197 2011 , , O
+g14.1 198 204 2012 Buenos NNP PER http://en.wikipedia.org/wiki/Buenos_Aires,1
+g14.1 205 210 2013 Aires NNP PER http://en.wikipedia.org/wiki/Buenos_Aires,1
+g14.1 210 211 2014 , , O
+g14.1 212 217 2015 after IN O
+g14.1 218 219 2016 a DT O
+g14.1 220 227 2017 meeting NN O
+g14.1 228 233 2018 there EX O
+g14.1 234 241 2019 between IN O
+g14.1 242 245 2020 the DT O
+g14.1 246 249 2021 two CD O
+g14.1 250 259 2022 countries NNS O
+g14.1 259 260 2023 ' POS O
+g14.1 261 267 2024 health NN O
+g14.1 268 277 2025 ministers NNS O
+g14.1 277 278 2026 . . O
+g14.1 279 282 3001 The DT O
+g14.1 283 284 3002 $ $ O
+g14.1 284 294 3003 10-million CD O
+g14.1 295 299 3004 drug NN O
+g14.1 300 305 3005 plant NN O
+g14.1 306 308 3006 is VBZ O
+g14.1 309 317 3007 expected VBN O
+g14.1 318 320 3008 to TO O
+g14.1 321 323 3009 be VB O
+g14.1 324 331 3010 located VBN O
+g14.1 332 334 3011 on IN O
+g14.1 335 344 3012 Argentine NNP COU http://en.wikipedia.org/wiki/Argentines,1
+g14.1 345 354 3013 territory NN O
+g14.1 354 355 3014 , , O
+g14.1 356 359 3015 but CC O
+g14.1 360 364 3016 both DT O
+g14.1 365 372 3017 nations NNS O
+g14.1 373 377 3018 will MD O
+g14.1 378 388 3019 contribute VB O
+g14.1 389 391 3020 to TO O
+g14.1 392 395 3021 the DT O
+g14.1 396 403 3022 project NN O
+g14.1 403 404 3023 . . O
+g14.1 405 408 4001 The DT O
+g14.1 409 421 4002 announcement NN O
+g14.1 422 426 4003 came VBD O
+g14.1 427 429 4004 as IN O
+g14.1 430 439 4005 Argentine NNP O
+g14.1 440 449 4006 President NNP O
+g14.1 450 456 4007 Nestor NNP PER http://en.wikipedia.org/wiki/Néstor_Kirchner,1
+g14.1 457 465 4008 Kirchner NNP PER http://en.wikipedia.org/wiki/Néstor_Kirchner,1
+g14.1 466 469 4009 met VBD O
+g14.1 470 474 4010 with IN O
+g14.1 475 478 4011 his PRP$ O
+g14.1 479 488 4012 Brazilian JJ COU http://en.wikipedia.org/wiki/Brazilian,1
+g14.1 489 500 4013 counterpart NN O
+g14.1 500 501 4014 , , O
+g14.1 502 506 4015 Luis NNP PER http://en.wikipedia.org/wiki/Luiz_Inácio_Lula_da_Silva,1
+g14.1 507 513 4016 Inacio NNP PER http://en.wikipedia.org/wiki/Luiz_Inácio_Lula_da_Silva,1
+g14.1 514 518 4017 Lula NNP PER http://en.wikipedia.org/wiki/Luiz_Inácio_Lula_da_Silva,1
+g14.1 519 521 4018 da NN O
+g14.1 522 527 4019 Silva NNP CIT http://en.wikipedia.org/wiki/Silva,1
+g14.1 527 528 4020 , , O
+g14.1 529 531 4021 in IN O
+g14.1 532 540 4022 Brasilia NNP COU http://en.wikipedia.org/wiki/Brasília,1
+g14.1 540 541 4023 . . O

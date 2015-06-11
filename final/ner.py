@@ -1,8 +1,5 @@
-#reads all raw texts and 
 
 from nltk.tag.stanford import NERTagger 
-from collections import defaultdict
-import os
 import nltk
 from nltk.corpus import wordnet
 from nltk.stem.wordnet import WordNetLemmatizer
@@ -10,201 +7,186 @@ from nltk import word_tokenize, pos_tag
 import os
 from nltk.wsd import lesk
 import re
-from collections import Counter
+from collections import Counter, defaultdict
+import sys
+import glob
+from measures import Measures
+import urllib.request
+import json
 
 class Ner():
-	def __init__(self):
+	
+	def __init__(self, argv):
 		classifier = "ner/classifiers/" + "wikification.ser.gz"
 		jar = "ner/stanford-ner-3.4.jar"
 		self.tagger = NERTagger(classifier, jar)
-		self.lemmatizer = WordNetLemmatizer()
-
+		self.testfile = open(sys.argv[1])
+		with open('html/htmlheader.txt', 'r') as h:
+			self.htmlHeader = h.read()
+		with open('html/htmlfooter.txt', 'r') as f:
+			self.htmlFooter = f.read()
 		
-		rootdir = 'data'
-		for subdir, dirs, files in os.walk(rootdir):
-			for filename in files:
-				
-				if filename[-3:] == "raw":
+		self.measures = Measures()
+		self.classify()
+	
+	def cleanData(self, line):
+		#function to clean wrong annotated data
+		if len(line) > 6:	
+			if line[6] == '-':
+				line[6] = ''
+		if len(line) > 7:
+			if line[7] == '-':
+				line[7] = ''
+		return line
 
-					with open(os.path.join(subdir, filename)) as f:
-						lines = f.read().strip()
-						tokens = nltk.word_tokenize(lines)
-						
-						htmlFilename = subdir.split("/")[-1] + '.html'
-						self.tag(tokens, htmlFilename)
-						'''
-						for l in self.tagger.tag(tokens):
-							for word, tag in l:
-								if tag == "O":
-									print("{} ".format(word), end="")
-								else:
-									print("{} ({}) ".format(word, tag), end="")
-						'''
-	def tag(self,tokens,filename):
-		result = []
-		test = []
-		for line in self.tagger.tag(tokens):
-			skip = 0
-			for i, pair in enumerate(line):
-				if skip == 0:
-					if pair[1] == 'O':
-						word = pair[0]
-					else:
-						word = ''
-						n = i
-						while pair[1] == line[n][1]:
-							word += "{} ".format(line[n][0])
-							n += 1
-							skip = n
-
-					#print(word)
+	def classify(self):
+		#create test data with as key document and tuple of word and label
+		testdata = defaultdict(list)
+		tokens = defaultdict(list)
+		for line in self.testfile:
+			e = self.cleanData(line.strip().split())
+			if len(e) == 6:
+				testdata[e[0]].append([e[0],e[1],e[2],e[3], e[4], e[5], 'O', ''])
+			elif len(e) == 7:
+				testdata[e[0]].append([e[0],e[1],e[2],e[3],e[4], e[5], e[6], ''])
+			elif len(e) == 8:
+				testdata[e[0]].append([e[0],e[1],e[2],e[3],e[4], e[5], e[6],e[7]])
 			
-					test.append((word, pair[1]))
-				else:
-					skip -= 1
-				
-
-		
-		
-		
-				
-		rLine = []	
-		
-		words = [word for word, tag in test]
-		# make list with word, ne, pos
-		nerInLine = [tag for word, tag in test]
-		posInLine = [tag for word, tag in nltk.pos_tag(words)]
-		
-
-			
-		for i, word in enumerate(words):
-			if nerInLine[i] == "O":
-				if posInLine[i] == 'NN' or posInLine[i] == 'NNP':
-					lemma = self.lemmatizer.lemmatize(word, wordnet.NOUN)
-					synsets = wordnet.synsets(self.lemmatizer.lemmatize(lemma), pos="n")
-					if len(synsets) == 1:
-						ss = synsets[0]
-						iswn = [lemma, ss, ss.definition() ]
-						#iswn = 'SYN'
-					elif len(synsets) > 1:
-						
-						pos = 'n'
-						ss = lesk(words, lemma, pos)
-						iswn = [lemma, ss, ss.definition() ]
-						#iswn = 'SYN'
-						
-				else:
-					iswn = 'O'
-				rLine.append((word, iswn))
-
+			if len(e) < 4:
+				#print(e)
+				pass		
 			else:
-				rLine.append((word, nerInLine[i]))
-		result.append(rLine)
-		self.createHTMLpage(result,filename)
-		self.printText(result)
-	
-	
-	def createHTMLpage(self, text,filename):
-		f = open('html/'+filename,'w')
-		html = """
-		<!DOCTYPE html>
-		<html lang="en">
-		  <head>
-		    <meta charset="utf-8">
-		    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-		    <meta name="viewport" content="width=device-width, initial-scale=1">
-		    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-		    <title>Bootstrap 101 Template</title>
-
-		    <!-- Bootstrap -->
-		    <link href="css/bootstrap.min.css" rel="stylesheet">
-		    <link href="css/pta.css" rel="stylesheet">
-		    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-		    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-		    <!--[if lt IE 9]>
-		      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-		      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-		    <![endif]-->
-		  </head>
-		  <body>
-		  <nav class="navbar navbar-inverse navbar-fixed-top">
-	      <div class="container">
-	        <div class="navbar-header">
-	          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-	            <span class="sr-only">Toggle navigation</span>
-	            <span class="icon-bar"></span>
-	            <span class="icon-bar"></span>
-	            <span class="icon-bar"></span>
-	          </button>
-	          <a class="navbar-brand" href="#">Project name</a>
-	        </div>
-	        <div id="navbar" class="collapse navbar-collapse">
-	          <ul class="nav navbar-nav">
-	            <li class="active"><a href="#">Home</a></li>
-	            <li><a href="#about">About</a></li>
-	            <li><a href="#contact">Contact</a></li>
-	          </ul>
-	        </div><!--/.nav-collapse -->
-	      </div>
-	    </nav>
-
-
-		  <div id="text" class="container">
-		    
-
-		"""
-
-		for l in text:
+				tokens[e[0]].append(e[4]) #store tokens of this document
+		#add classification
+		for n,doc in enumerate(testdata):
 			
-			for word, tag in l:
-				if tag == "O":
-					html += "{} ".format(word)
-				else:
-					if type(tag) is str:
-						title = tag
-						cssClass = tag
+			taggedDoc = self.tagger.tag(tokens[doc])
+			taggedTokens = []
+			for sentence in taggedDoc:
+				taggedTokens.extend(sentence)
+
+			for i,line in enumerate(testdata[doc]):
+				expectedCategory = taggedTokens[i][1]
+				testdata[doc][i].append(expectedCategory)
+
+			#use entire doc for getting wiki links
+			
+			wikiLinks = self.getWikiLinks(testdata[doc])
+			for i,line in enumerate(testdata[doc]):
+				expectedLink = wikiLinks[i]
+				testdata[doc][i].append(expectedLink)
+
+		self.saveFile(testdata)
+		self.measures.calculate(testdata) #use the measures script
+		self.saveHTML(testdata)
+
+	def saveFile(self, testdata):
+		os.remove("data/output.txt")
+		with open("data/output.txt", "a") as outputFile:
+			for doc in testdata:
+				for e in testdata[doc]:
+					lineString = "{} {} {}".format(" ".join(e[0:6]), e[8], e[9])
+					outputFile.write(lineString.strip() + '\n')
+
+
+	def saveHTML(self, testdata):
+		for html in glob.glob("html/*.html"):
+ 			os.remove(html)
+		docs = []
+		for doc in testdata:
+			filename = doc + ".html"
+			with open("html/" + filename, "a") as htmlfile:
+				docs.append((filename, doc))
+				htmlfile.write(self.htmlHeader)
+				htmlfile.write('<h1>Document '+ doc +'</h1>\n')
+				for line in testdata[doc]:
+					if line[9] != '':
+						url = line[9].split(",")
+						htmlfile.write('<a data-toggle="tooltip" data-placement="top" title="Category: ' + line[8] + '" href="' + url[0] + '" target="_blank" class="' + line[8] + '">' + line[4] + ' </a>')
 					else:
-						title = tag[2]
-						cssClass = 'SYN' 
-					html += '<a title="{}" target="blank" class="{}" href="{}"">{}</a> '.format(title, cssClass, word, word)	
-		
-			html += '<br/>'
-
-
-		html += """
-		</div>
-
-		    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-		    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-		    <!-- Include all compiled plugins (below), or include individual files as needed -->
-		    <script src="js/bootstrap.min.js"></script>
-		  </body>
-		</html>
-
-		"""
-
-		f.write(html)
-		f.close()
-
-
-	def printText(self, text):
-		print()
-		print("New document")
-		print("------------")
-		prevTag = ''
-		for l in text:
-			print() #line in the text
-			for word, tag in l:
-				if tag == "O":
-					print("{} ".format(word), end="")
-				else:
-					
-
-					print("[{} ({})]".format(word, tag), end="")	
+						htmlfile.write(line[4] + " ")
 				
-						
-				prevTag = tag
+				htmlfile.write('<br /><br /><a href="index.html" class="btn btn-default">Back</a>\n')
+				htmlfile.write(self.htmlFooter)
 
+				htmlfile.close()
+		
+		with open("html/index.html", "a") as htmlfile:
+			htmlfile.write(self.htmlHeader)
+			htmlfile.write('<h1>List of documents</h1>\n')
+			for link in docs:
+				htmlfile.write('<li><a href="'+link[0]+'">'+link[1]+'</a></li>\n')
+			htmlfile.write(self.htmlFooter)
 		
 
-n = Ner()
+		with open("html/classify.html", "a") as htmlfile:
+			htmlfile.write(self.htmlHeader)
+			htmlfile.write('<h1>Classify</h1>\n')
+			htmlfile.write('''<form action="../htmlClassifier.py" method="post">
+							First Name: <input type="text" name="first_name"><br />
+							Last Name: <input type="text" name="last_name" />
+
+							<input type="submit" value="Submit" />
+							</form>''')
+			htmlfile.write(self.htmlFooter)
+		
+
+	def getWikiLinks(self, doc):
+		#make word pairs, for example new york as one query
+		test = []
+		skip = 0
+		currentToken = []
+		lastToken = 'O'
+		keywords = []
+		result = [''] * len(doc) #make list with default NONE tag
+		for i, token in enumerate(doc):				
+			if token[8] == lastToken:
+				currentToken.append(i)		
+			else:
+				if lastToken is not 'O':
+					keywords.append(currentToken)
+				currentToken = [i]
+			lastToken = token[8]
+
+		for keyword in keywords:
+			query = ''
+			for token in keyword:
+				query += doc[token][4] + "%20"
+			
+
+			url = 'http://en.wikipedia.org/w/api.php?action=query&list=search&srsearch='+query[:-3]+'&format=json'
+			
+			with urllib.request.urlopen(url) as response:
+				str_response = response.readall().decode('utf-8')
+				data = json.loads(str_response)
+			
+			links = []
+			for d in data:
+				for r in data[d]:
+					if r == 'search':
+						for s in data[d][r]:
+							
+							if 'snippet' in s:
+								
+								links.append('http://en.wikipedia.org/wiki/' + s['title'].replace(" ", "_"))
+
+			if len(links) > 0:
+
+				link = links[0] #todo, check if other links are better
+			else:
+				link = 'NONE'
+			for token in keyword:
+				result[token] = link+",1"
+		
+		return result
+		
+		
+	
+
+
+
+
+
+
+		
+n = Ner(sys.argv)

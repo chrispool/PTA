@@ -46,7 +46,7 @@ class Measures:
 
 				#add unique token id to simple p and r by converting category to yes/no
 				tokenId = doc + str(i)
-				if testdata[doc][i][6] == '':
+				if testdata[doc][i][6] == 'O':
 					testCategory = 'NO'
 				else:
 					testCategory = 'YES'
